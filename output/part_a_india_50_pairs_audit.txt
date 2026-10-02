@@ -1,0 +1,304 @@
+================================================================================
+PART A: 50 REAL INDIA PAIRS EVALUATION ACROSS VARIATIONS
+================================================================================
+
+[01] S1-190230082 vs S2-661381476
+  S1: Unique Care Private Limited | S No 9 To 14 Flat No A, 907 Sky Point Phase 1, Pune City, Pune, Maharashtra
+  C : Unique Care Prívate Limited | #9-629 S NO 9 TO 14 FLAT NO A, 907 SKY POINT PHASE 1, PUNE CITY, Maharashtra
+  Sim: NameSim=96.3, AddrSim=91.4
+  Rejections: V1=False | V2=False | V3=False
+
+[02] S1-190230082 vs S3-816237356
+  S1: Unique Care Private Limited | S No 9 To 14 Flat No A, 907 Sky Point Phase 1, Pune City, Pune, Maharashtra
+  C : Unique Cáre Limited | MH, 907 Sky Point Phase 1, Pune, S No 9 To 17 Flat No A, Pune
+  Sim: NameSim=78.3, AddrSim=86.8
+  Rejections: V1=False | V2=False | V3=False
+
+[03] S1-190230082 vs S2-364228797
+  S1: Unique Care Private Limited | S No 9 To 14 Flat No A, 907 Sky Point Phase 1, Pune City, Pune, Maharashtra
+  C : Unique केयर Private Limited | NO. 9-629 S NO 9 TO 14 FLAT NO A, 907 SKY POINT PHASE 1, PUNE CITY, Maharashtra
+  Sim: NameSim=81.5, AddrSim=89.6
+  Rejections: V1=False | V2=False | V3=False
+
+[04] S1-190230082 vs S2-525034708
+  S1: Unique Care Private Limited | S No 9 To 14 Flat No A, 907 Sky Point Phase 1, Pune City, Pune, Maharashtra
+  C : Shri Unique Cee Private Limited | NO. 9-629 S NO 9 TO 14 FLAT NO A, 907 SKY POINT PHASE 1, PUNE CITY, Maharashtra
+  Sim: NameSim=86.2, AddrSim=89.6
+  Rejections: V1=False | V2=False | V3=False
+
+[05] S1-43243461 vs S2-259595429
+  S1: Swastik Galaxy Logistics Private Limited | Ground Floor Sanjay Gandhi Transport Nagar, New Delhi, Plot No. Aw 117, Delhi
+  C : SWASTIK GALAXY LOGISTICS PRIVATE [LTD] | PLOT NO. AW 117, GROUND FLOOR SANJAY GANDHI TRANSPORT NAGAR, Delhi
+  Sim: NameSim=82.1, AddrSim=92.3
+  Rejections: V1=False | V2=False | V3=False
+
+[06] S1-43243461 vs S2-398690737
+  S1: Swastik Galaxy Logistics Private Limited | Ground Floor Sanjay Gandhi Transport Nagar, New Delhi, Plot No. Aw 117, Delhi
+  C : Private Swastik Galaxy Logistics Ltd | PLOT NO. AW 117, GROUND FLOOR SANJAY GANDHI TRANSPORT NAGAR, NEW DELHI, Delhi
+  Sim: NameSim=84.2, AddrSim=100.0
+  Rejections: V1=False | V2=False | V3=False
+
+[07] S1-43243461 vs S2-736443302
+  S1: Swastik Galaxy Logistics Private Limited | Ground Floor Sanjay Gandhi Transport Nagar, New Delhi, Plot No. Aw 117, Delhi
+  C : Private Swastik Galaxy Logistics Automobiles Limited | PLOT NO. AW 118, GROUND FLOOR SANJAY GANDHI TRANSPORT NAGAR, NEW DELHI, Delhi
+  Sim: NameSim=87.0, AddrSim=98.7
+  Rejections: V1=True | V2=True | V3=True
+
+[08] S1-259748439 vs S2-521368560
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : சிட்டி சொல்யூஷன்ஸ் பிரைவேட் லிமிடெட் | H.NO 60/3 LATTICE BRIDGE ROAD THIRUVANMIYUR, CHENNAI, Tamil Nadu
+  Sim: NameSim=9.1, AddrSim=85.7
+  Rejections: V1=False | V2=False | V3=False
+
+[09] S1-259748439 vs S2-233495587
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : பெஸ்ட் இன்டர்நேஷனல் கன்சல்டன்சி எல்எல்பி | 60/3 LATTICE BRIDGE ROAD THIRUVANMIYUR, CHENNAI, Tamil Nadu
+  Sim: NameSim=8.6, AddrSim=89.3
+  Rejections: V1=False | V2=False | V3=False
+
+[10] S1-259748439 vs S3-640661822
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : சிட்டி சொல்யூஷன்ஸ் பிரைவேட் லிமிடெட் | 60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, தமிழ்நாடு
+  Sim: NameSim=9.1, AddrSim=71.7
+  Rejections: V1=False | V2=False | V3=False
+
+[11] S1-259748439 vs S2-58076072
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : GULJAG (INDIA) FOUNDATION PRIVATE  LIMITED | DOOR NO 60/3 LATTICE BRIDGE ROAD THIRUVANMIYUR, CHENNAI, Tamil Nadu
+  Sim: NameSim=50.7, AddrSim=88.4
+  Rejections: V1=False | V2=False | V3=False
+
+[12] S1-259748439 vs S2-82929136
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : Guljag (India) Foundation Private Ltd | H.NO 60/3 LATTICE BRIDGE ROAD THIRUVANMIYUR, CHENNAI, Tamil Nadu
+  Sim: NameSim=41.8, AddrSim=85.7
+  Rejections: V1=False | V2=False | V3=False
+
+[13] S1-259748439 vs S2-335067405
+  S1: City Solutions Private Limited | No.60/3 Lattice Bridge Road Thiruvanmiyur, Chennai, Tamil Nadu
+  C : GULJAG  (INDIA) FOUNDATION (ID: 33329) | DOOR NO 60/3 LATTICE BRIDGE RAD THIRUVANMIYUR, CHENNAI, Tamil Nadu
+  Sim: NameSim=38.8, AddrSim=87.5
+  Rejections: V1=False | V2=False | V3=False
+
+[14] S1-835296816 vs S2-252037762
+  S1: Wow Advisory (India) | Flat No 6374 Sector C-6 Vasantkunj, New Delhi, North Delhi, Delhi
+  C : WOW ADVISORY (INDIA) | NO 6374 SECTOR C-6 VASANTKUNJ, NEW DELHI, Delhi
+  Sim: NameSim=100.0, AddrSim=83.9
+  Rejections: V1=False | V2=False | V3=False
+
+[15] S1-835296816 vs S2-214501807
+  S1: Wow Advisory (India) | Flat No 6374 Sector C-6 Vasantkunj, New Delhi, North Delhi, Delhi
+  C : WOW ADVISORY (ÍNDIA) LTD | FLAT NO 6374 SECTOR C-6 VASANTKUNJ, NEW DELHI, Delhi
+  Sim: NameSim=86.4, AddrSim=88.9
+  Rejections: V1=False | V2=False | V3=False
+
+[16] S1-835296816 vs S3-144711727
+  S1: Wow Advisory (India) | Flat No 6374 Sector C-6 Vasantkunj, New Delhi, North Delhi, Delhi
+  C : Wow Advisory (India) (Overseas) | Flat No #6385 Sector C-6 Vasantkujn, New Delhi, North Delhi, DL
+  Sim: NameSim=78.4, AddrSim=90.6
+  Rejections: V1=False | V2=False | V3=False
+
+[17] S1-647093086 vs S2-934665768
+  S1: Gold Finance Private Limited | House No.C-76, Chanakya Place, New Delhi, West Delhi, Delhi
+  C : GOLD FINANCE PRIVATE | Delhi, ##429 HOUSE NO.C-76, CHANAKYA PLACE, NEW DELHI
+  Sim: NameSim=83.3, AddrSim=83.9
+  Rejections: V1=False | V2=False | V3=False
+
+[18] S1-647093086 vs S3-922970895
+  S1: Gold Finance Private Limited | House No.C-76, Chanakya Place, New Delhi, West Delhi, Delhi
+  C : Gold फाइनेंस Private Limited | House No.c-76, Chanakya Place, West Delhi, New Delhi, DL
+  Sim: NameSim=71.4, AddrSim=95.7
+  Rejections: V1=False | V2=False | V3=False
+
+[19] S1-647093086 vs S3-253485166
+  S1: Gold Finance Private Limited | House No.C-76, Chanakya Place, New Delhi, West Delhi, Delhi
+  C : -- Gold Finance Private  Ltd | ###482 C-59, Iii Rd Floor Sharda Puri, Near Raja Garden, New Delhi, West Delhi, DL
+  Sim: NameSim=87.3, AddrSim=46.8
+  Rejections: V1=True | V2=True | V3=True
+
+[20] S1-312083318 vs S2-235695164
+  S1: Tech Builders LLP | Jhal, Jhalu, Kabarout, Shamli, Muzaffarnagar, Shamli, Uttar Pradesh, 170
+  C : Tech Builders L.L.P. | 170, JHAL, JHALU, KABAROUT, SHAMLI, SHAMLI, Uttar Pradesh
+  Sim: NameSim=91.9, AddrSim=86.8
+  Rejections: V1=False | V2=False | V3=False
+
+[21] S1-689814605 vs S3-684428223
+  S1: Best Agro Limited | 15/8 Shivpurision Trombay Rd Chembur, Mumbai, Maharashtra
+  C : Best Agro | 15/8 Shivpurision Trombay Rd Chembur, Mumbai, महाराष्ट्र
+  Sim: NameSim=69.2, AddrSim=79.6
+  Rejections: V1=False | V2=False | V3=False
+
+[22] S1-689814605 vs S3-559543610
+  S1: Best Agro Limited | 15/8 Shivpurision Trombay Rd Chembur, Mumbai, Maharashtra
+  C : Best | 15/8 Shivpurision Trombay Rd Chembur, Mumbai, Maharashtra
+  Sim: NameSim=38.1, AddrSim=100.0
+  Rejections: V1=False | V2=False | V3=False
+
+[23] S1-677282161 vs S3-118894596
+  S1: Faridabad Ur Private Limited | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, Haryana
+  C : Faridabad Ur Limited Center | H.no 3 Gali No 2 Pali Bhankri Road, Faridabad, HR
+  Sim: NameSim=72.7, AddrSim=84.9
+  Rejections: V1=False | V2=False | V3=False
+
+[24] S1-677282161 vs S3-439213778
+  S1: Faridabad Ur Private Limited | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, Haryana
+  C : Private Faridabad Ur [Ltd] | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, HR
+  Sim: NameSim=74.1, AddrSim=95.4
+  Rejections: V1=False | V2=False | V3=False
+
+[25] S1-677282161 vs S3-987904858
+  S1: Faridabad Ur Private Limited | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, Haryana
+  C : Faridabad Ur Ventures Private (Limited) | #12 Gali No 2 Pali Bhankri Road, Faridabad, HR
+  Sim: NameSim=59.7, AddrSim=83.5
+  Rejections: V1=False | V2=False | V3=False
+
+[26] S1-677282161 vs S2-362652934
+  S1: Faridabad Ur Private Limited | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, Haryana
+  C : Faridabad Ur Private | PLOT NO 3 GALI NO 2 PALI BHANKRI ROAD, FARIDABAD, Haryana
+  Sim: NameSim=83.3, AddrSim=100.0
+  Rejections: V1=False | V2=False | V3=False
+
+[27] S1-677282161 vs S3-144365733
+  S1: Faridabad Ur Private Limited | Plot No 3 Gali No 2 Pali Bhankri Road, Faridabad, Haryana
+  C : Faridabad Ur Overseas Private | Plot No 12 Gali No 2 Pali Bhankri Road, Faridabad, HR
+  Sim: NameSim=77.2, AddrSim=92.7
+  Rejections: V1=False | V2=False | V3=False
+
+[28] S1-892145100 vs S2-782053774
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : Sarasesh Services LLP | 29/1, 1ST FLOOR, 1ST MAIN ROAD CHINNAPA GARDEN, BANGALORE, Karnataka
+  Sim: NameSim=89.5, AddrSim=100.0
+  Rejections: V1=False | V2=False | V3=False
+
+[29] S1-892145100 vs S2-268130084
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : saraseshservices.com | 29/1, 1ST FLOOR, 1ST MAIN ROAD CHINNAPA GARDEN, BANGALORE, ಕರ್ನಾಟಕ
+  Sim: NameSim=86.5, AddrSim=86.6
+  Rejections: V1=False | V2=False | V3=False
+
+[30] S1-892145100 vs S2-74998437
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : 5arasesh Services Company | 29/1, 1ST FLOOR, 1ST MAIN ROAD CHINNAPA GARDEN, BANGALORE, Karnataka
+  Sim: NameSim=76.2, AddrSim=100.0
+  Rejections: V1=False | V2=False | V3=False
+
+[31] S1-892145100 vs S3-247700875
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : Sarasesh Services Co | No 122 29/1, Bangalore, KA
+  Sim: NameSim=91.9, AddrSim=51.1
+  Rejections: V1=False | V2=False | V3=False
+
+[32] S1-892145100 vs S3-738455087
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : Sarasesh Pvt Ltd Services | 
+  Sim: NameSim=81.0, AddrSim=0.0
+  Rejections: V1=False | V2=False | V3=False
+
+[33] S1-892145100 vs S2-431660426
+  S1: Sarasesh Services | 29/1, 1St Floor, 1St Main Road Chinnapa Garden, Bangalore, Karnataka
+  C : ಒನ್ ಶಕ್ತಿ ಸರ್ವಿಸಸ್ ಪ್ರೈವೇಟ್ ಲಿಮಿಟೆಡ್ | # 29/1, 1ST FLOOR, CANARA BANK COLONY MAIN ROAD, NEAR SKYLINE BUILDING, CHANDRA LAYOUT, BANGALORE, Karnataka
+  Sim: NameSim=3.8, AddrSim=61.4
+  Rejections: V1=False | V2=False | V3=False
+
+[34] S1-810994687 vs S3-870866106
+  S1: Shiva Global Pvt Ltd | H.No: 16-44, Asram Veedhi Near Bsnl Office, Chintalapudi, Andhra Pradesh
+  C : Shiva Global Technologies  Pvt Ltd | H.no: 16-48, Asram Veedhi Near Bsnl Office, Chintalapudi, AP
+  Sim: NameSim=75.5, AddrSim=87.9
+  Rejections: V1=False | V2=False | V3=True
+
+[35] S1-810994687 vs S3-732876307
+  S1: Shiva Global Pvt Ltd | H.No: 16-44, Asram Veedhi Near Bsnl Office, Chintalapudi, Andhra Pradesh
+  C : Pvt Shiva Global Ltd | Door No 479 H.no: 16-44, Asram Veedhi Near Bsnl Office, Chintalapudi, AP
+  Sim: NameSim=100.0, AddrSim=81.9
+  Rejections: V1=False | V2=False | V3=False
+
+[36] S1-86224711 vs S3-426943490
+  S1: Sharma (India) Iron Pvt. Ltd. | Opp.Pendurthi Railway Station, Pendurthi. Visakhapatnam (Dt.), Visakhapatnam, Vishakhapatnam, Andhra Pradesh
+  C : Sharma (India) Iron Pvt. Ltd. | Opp.pendurthi Railway Station, Pendurthi. Visakhapatnam (Dt.), Vizag, AP
+  Sim: NameSim=100.0, AddrSim=76.7
+  Rejections: V1=False | V2=False | V3=False
+
+[37] S1-86224711 vs S3-54868008
+  S1: Sharma (India) Iron Pvt. Ltd. | Opp.Pendurthi Railway Station, Pendurthi. Visakhapatnam (Dt.), Visakhapatnam, Vishakhapatnam, Andhra Pradesh
+  C : Sharma (India) Iron Public Limited | ##71 Opp.pendurthi Railway Station, Pendurthi. Visakhapatnam (Dt.), Visakhapatnam, Visakapatnam, AP
+  Sim: NameSim=79.4, AddrSim=88.9
+  Rejections: V1=False | V2=False | V3=False
+
+[38] S1-86224711 vs S2-989599872
+  S1: Sharma (India) Iron Pvt. Ltd. | Opp.Pendurthi Railway Station, Pendurthi. Visakhapatnam (Dt.), Visakhapatnam, Vishakhapatnam, Andhra Pradesh
+  C : SHARMA (INDIA) IR0N LIMITED | 71 OPP.PENDURTHI RAILWAY STATION, PENDURTHI. VISAKHAPATNAM (DT.), VISAKHAPATNAM, ఆంధ్రప్రదేశ్
+  Sim: NameSim=78.6, AddrSim=78.6
+  Rejections: V1=False | V2=False | V3=False
+
+[39] S1-761396520 vs S2-978913141
+  S1: Raviendra Builders Private Limited | Fortune Town Ship, Block - M, 407 Flat, Kaz, Noapara, North 24 Parganas, West Bengal
+  C : Raviendra Builders Private-Ltd | FORTUNE TOWN SHIP, BLOCK - M, #407 FLAT, KAZ, NOAPARA, West Bengal
+  Sim: NameSim=81.2, AddrSim=84.0
+  Rejections: V1=False | V2=False | V3=False
+
+[40] S1-761396520 vs S3-172417470
+  S1: Raviendra Builders Private Limited | Fortune Town Ship, Block - M, 407 Flat, Kaz, Noapara, North 24 Parganas, West Bengal
+  C : Raviendra Builders Ventures Limited Service | H.no 31 Fortune Town Ship, Block - M, 407 Flat, Kaz, Noapara, North 24 Parganas, পশ্চিমবঙ্গ
+  Sim: NameSim=70.1, AddrSim=83.4
+  Rejections: V1=False | V2=False | V3=False
+
+[41] S1-464373014 vs S2-850808273
+  S1: Ashwin (India) Land LLP | Plot No.-3231, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, Orissa
+  C : ASHWIN (INDIA) (INDIA) LAND-LLP | PLOT NO.-3231, NEAR GANESH MANDIR MANCHESWAR, BHUBANESWAR, ଓଡ଼ିଶା
+  Sim: NameSim=81.5, AddrSim=83.5
+  Rejections: V1=False | V2=False | V3=False
+
+[42] S1-464373014 vs S3-893073501
+  S1: Ashwin (India) Land LLP | Plot No.-3231, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, Orissa
+  C : Ashwin Land LLP Center | Plot No.-3231, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, OD
+  Sim: NameSim=66.7, AddrSim=95.8
+  Rejections: V1=False | V2=False | V3=False
+
+[43] S1-464373014 vs S3-276645515
+  S1: Ashwin (India) Land LLP | Plot No.-3231, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, Orissa
+  C : Ashwin (India) Manufactures L.L.P. | Plot No.-3232, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, OD
+  Sim: NameSim=63.2, AddrSim=94.4
+  Rejections: V1=True | V2=True | V3=True
+
+[44] S1-464373014 vs S2-604616593
+  S1: Ashwin (India) Land LLP | Plot No.-3231, Near Ganesh Mandir Mancheswar, Bhubaneswar, Khordha, Orissa
+  C : ASHWIN (INDIA) MARKETING | PLOT NO.-03232, NEAR GANSEH MANDIR MANCHESWAR, BHUBANESWAR, Odisha
+  Sim: NameSim=72.3, AddrSim=87.1
+  Rejections: V1=True | V2=True | V3=True
+
+[45] S1-791514420 vs S3-837816768
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : Finance  Memon Immigration Company | #32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, తెలంగాణ
+  Sim: NameSim=86.2, AddrSim=80.0
+  Rejections: V1=False | V2=False | V3=False
+
+[46] S1-791514420 vs S2-752052521
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : FINANCE IMMIGRATION MEMON | PLOT NO ##32/C , SYNO 4, 5, 6, 8, 9 & 10, GAFOOR NAGAR, KAVURI HILLS, MADHAPUR, HYDERABAD, తెలంగాణ
+  Sim: NameSim=100.0, AddrSim=84.1
+  Rejections: V1=False | V2=False | V3=False
+
+[47] S1-791514420 vs S2-741278583
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : FINANCE MEMON IMMIGRATION COMPANY | DOOR NO ##32/C , SYNO 4, 5, 6, 8, 9 & 10, GAFOOR NAGAR, KAVURI HILLS, MADHAPUR, HYDERABAD, Telangana
+  Sim: NameSim=86.2, AddrSim=87.3
+  Rejections: V1=False | V2=False | V3=False
+
+[48] S1-791514420 vs S2-518693425
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : Finance Memon Immigration Private Limited | H.NO 41/ , SYNO 4, 5, 6, 8, 9 & 10, GAFOOR NAGAR, KAVURI HILLS, MADHAPUR, HYDERABAD, Telangana
+  Sim: NameSim=75.8, AddrSim=88.0
+  Rejections: V1=False | V2=False | V3=False
+
+[49] S1-791514420 vs S2-457431757
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : Finance Memon Group Immigration | PLOT NO 41/ , SYNO 4, 5, 6, 8, 9 & 10, GAFOOR NAGAR, KAVURI HILLS, MADHAPUR, HYDERABAD, తెలంగాణ
+  Sim: NameSim=89.3, AddrSim=86.5
+  Rejections: V1=False | V2=False | V3=False
+
+[50] S1-791514420 vs S3-624067488
+  S1: Finance Memon Immigration | Plot No 32/C, Syno 4, 5, 6, 8, 9 & 10, Gafoor Nagar, Kavuri Hills, Madhapur, Hyderabad, Telangana
+  C : Finance  Memon Immigration Corporation | No.-9-20/b/2, Hyderabad-44., TG
+  Sim: NameSim=80.6, AddrSim=25.0
+  Rejections: V1=False | V2=False | V3=False
+

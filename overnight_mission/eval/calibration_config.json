@@ -1,0 +1,18 @@
+{
+  "best_tau_us": 0.65,
+  "best_tau_india": 0.65,
+  "best_tau_france": 0.75,
+  "france_guard": "reject if name_sim < 45 and addr_sim > 70",
+  "us_held_out_f05": 0.9848867537900831,
+  "india_held_out_f05": 0.9435254918760629,
+  "joint_held_out_f05": 0.968333976772084,
+  "joint_held_out_prec": 0.9861588492063487,
+  "joint_held_out_rec": 0.9328982142857168,
+  "france_audit_strict_prec": 0.92,
+  "france_audit_effective_prec": 0.94,
+  "france_singletons_pct": 1.97,
+  "cluster_disambig_sim_threshold": 40,
+  "cluster_disambig_margin": 0.08,
+  "max_k_candidates": 12,
+  "max_matches": 10
+}

@@ -1,0 +1,304 @@
+================================================================================
+FINAL MASTER AUDIT: 30 RANDOM ENTITIES FROM FINAL SUBMISSION (SEED 77777)
+================================================================================
+
+==================== COUNTRY: France ====================
+
+[France #01] S1-23386716
+  Source 1 : Laudition Socio Jeunes | 63 Rue Leconte Baillon, Roubaix, Hauts-de-France
+  Matches (3):
+    * S3-553391679 [France]: Laudition Sôcio Jeunes | (63) R Leconte Baillon, Roubaix
+      [Metrics: NameSim=95.5, AddrSim=68.4]
+    * S2-896099711 [France]: Laudition Socio (Jeunes) | ROUBAIX, Hauts-de-France, 63 R. LECONTE BAILLON
+      [Metrics: NameSim=95.7, AddrSim=90.5]
+    * S3-125196039 [France]: Laudition Socio Amis | (63) Rue Leconte Baillon, Roubaix
+      [Metrics: NameSim=81.0, AddrSim=76.5]
+
+[France #02] S1-338715375
+  Source 1 : Agree Club (France) SA | 46 RUE de Buffon, Lille, Hauts-de-France
+  Matches (2):
+    * S2-226825518 [France]: SA Agree Çlub (France) | N° 46 R DE BUFFON, Lille, Hauts-de-France
+      [Metrics: NameSim=81.8, AddrSim=93.8]
+    * S3-865327092 [France]: Agree Club-(France) | N° 46 Rue De Buffon, Lille, Nord
+      [Metrics: NameSim=53.7, AddrSim=66.7]
+
+[France #03] S1-998530933
+  Source 1 : Cpmi & Fils SARL | 9 Rue de Joigny, Nantes, Pays de la Loire
+  Matches (4):
+    * S3-191163771 [France]: cpmi & fils sarl | 9 Rue De Joigny, Nantes
+      [Metrics: NameSim=100.0, AddrSim=71.9]
+    * S3-296953801 [France]: Sàrl Cpmi & Fils | 9 Rue De Joigny, Nantes
+      [Metrics: NameSim=93.8, AddrSim=71.9]
+    * S2-873186178 [France]: Cpmi & Fils SARL | 9 R. DE JOIGYN, NANTES, Pays de la Loire
+      [Metrics: NameSim=100.0, AddrSim=93.8]
+    * S3-152272412 [France]: Cpmi & Fils | 9 R. De Joginy, Nantes
+      [Metrics: NameSim=81.5, AddrSim=63.5]
+
+[France #04] S1-453607688
+  Source 1 : Comité du Francaise | Tourcoing, 21 Rue Turgot, Hauts-de-France
+  Matches (3):
+    * S3-902536255 [France]: Comité du Francaise SA | 21 R. Turgot, Tourcoing, Hauts-de-France
+      [Metrics: NameSim=92.7, AddrSim=96.3]
+    * S2-808310787 [France]: FRANCAISE DU COMITÉ | Nord, Tourcoing, 21 RUE TURGOT
+      [Metrics: NameSim=100.0, AddrSim=73.2]
+    * S2-420578674 [France]: SAS Comité de Etienne | 21 RUE BÉRANGER, Tourcoing
+      [Metrics: NameSim=60.0, AddrSim=62.7]
+
+[France #05] S1-138908840
+  Source 1 : Pessac Collège EURL | 6 Allée de Montréal, Pessac, Nouvelle-Aquitaine
+  Matches (3):
+    * S2-199310457 [France]: Pessac Collège | 6 ALLÉE DE MONTRÉAL, PESSAC
+      [Metrics: NameSim=84.8, AddrSim=73.0]
+    * S3-190043083 [France]: Pessac Çollège EURL | 6 All. De Montreal, Pessac, Gironde
+      [Metrics: NameSim=57.9, AddrSim=63.4]
+    * S2-468719923 [France]: Pessac Collège | 6 ALÉE DE MONTRÉAL, PESSAC
+      [Metrics: NameSim=84.8, AddrSim=71.2]
+
+[France #06] S1-349731491
+  Source 1 : Pedagogique Saad Culture EURL | 69 Rue Philippe de Comines, Lille, Hauts-de-France
+  Matches (2):
+    * S3-84541148 [France]: Pedagogique Saad [Culture] | 69 R. Philippe De Comines, Lille, Nord
+      [Metrics: NameSim=87.3, AddrSim=72.7]
+    * S2-15698314 [France]: Pedagogique Sàad Culture EURL | R PHILIPPE DE COMINES, LILLE
+      [Metrics: NameSim=96.6, AddrSim=71.8]
+
+[France #07] S1-978367355
+  Source 1 : Maison Artisans EI | 5 Rue d'Alsace, Nantes, Pays de la Loire
+  Matches (2):
+    * S3-867017060 [France]: maison artisans ei | 5 Rue D'alsace, Loire-Atlantique, Nantes
+      [Metrics: NameSim=100.0, AddrSim=72.5]
+    * S2-409117844 [France]: Maison Charles Développement | 5 RUE COPERNIC, NANTES, Pays de la Loire
+      [Metrics: NameSim=52.2, AddrSim=85.0]
+
+[France #08] S1-234758842
+  Source 1 : Mer Art Sport EURL | 17 Rue Chéneau, Nantes, Pays de la Loire
+  Matches (2):
+    * S2-232555753 [France]: Mer Art Sport EURL | 17 RUE CHÉNEAU, NANTES, Loire-Atlantique
+      [Metrics: NameSim=100.0, AddrSim=72.5]
+    * S3-381452330 [France]: Mer Art Sport E.U.R.L. | 17 R Cheneau, Nantes, Loire-Atlantique
+      [Metrics: NameSim=90.0, AddrSim=66.7]
+
+[France #09] S1-452529549
+  Source 1 : Mama Club SAS | 54 Avenue de Biscarrosse Pyla, La Teste-de-Buch, Nouvelle-Aquitaine
+  Matches (4):
+    * S2-967914944 [France]: mama club sas | 54 AV. DE BISCARROSSE PYLA, LA TESTE DE BUCH, Gironde
+      [Metrics: NameSim=100.0, AddrSim=63.3]
+    * S2-96556959 [France]: MAMA CLUB | 54 AVENUE DE BISCARROSSE PYLA, LA TESTE-DE-BUCH, Gironde
+      [Metrics: NameSim=81.8, AddrSim=81.3]
+    * S3-270689478 [France]: Mama Club S.A.S. | # 54 Avenue De Biscarrosse Pyla, La Teste-de-buch, Gironde
+      [Metrics: NameSim=89.7, AddrSim=80.0]
+    * S2-414626292 [France]: Mama Comite SAS | 54 AVENUE DE BISCARROSSE PYLA, LA TESTE-DE-BUCH, Gironde
+      [Metrics: NameSim=71.4, AddrSim=81.3]
+
+[France #10] S1-413682295
+  Source 1 : Nantes Amicale SARL | 19 Impasse de l'Oranda, Nantes, Pays de la Loire
+  Matches (3):
+    * S3-159235155 [France]: Nantes Amicale | # 19 Impasse De L'oranda, Nantes, Loire-Atlantique
+      [Metrics: NameSim=84.8, AddrSim=75.5]
+    * S3-996491723 [France]: Nantes Amicale France | Pays de la Loire, Nantes, 19 R Minatte
+      [Metrics: NameSim=70.0, AddrSim=65.1]
+    * S2-595495264 [France]: Cotentin Amicale | 19 IMP. DE L'ORANDA, NANTES, Pays de la Loire
+      [Metrics: NameSim=57.1, AddrSim=94.6]
+
+
+==================== COUNTRY: US ====================
+
+[US #01] S1-946626757
+  Source 1 : Wright Solid LLC | Unit UNIT A, MO, Arnold, 3775 Miller Road
+  Matches (6):
+    * S2-304656968 [US]: Wright (Solid) | #3775 MILLER ROAD, ARNOLD, MO
+      [Metrics: NameSim=80.0, AddrSim=77.1]
+    * S2-831615730 [US]: Wright Solid | MO, #3775 MILLER ROAD, ARNOLD
+      [Metrics: NameSim=85.7, AddrSim=77.1]
+    * S3-764702549 [US]: Wright Sbblíd LLC | Missouri, 3775 Miller Road, Arnold, # UNIT A
+      [Metrics: NameSim=84.8, AddrSim=82.4]
+    * S2-112116095 [US]: Wright Solid L.L.C. | MO, #3775 MILLER ROAD, ARNOLD
+      [Metrics: NameSim=91.4, AddrSim=77.1]
+    * S3-830218625 [US]: Wright Solid L.L.C. | 3775 Miller Rd, # UNIT A, Arnold, Missouri
+      [Metrics: NameSim=91.4, AddrSim=79.5]
+    * S2-763004356 [US]: WRIGHT SLCDL  LLC | #3775 MILLER ROAD, ARNOLD, MO
+      [Metrics: NameSim=87.5, AddrSim=77.1]
+
+[US #02] S1-188637733
+  Source 1 : Ware Assets LLC | 109 Winding Way, Millersville, TN
+  Matches (4):
+    * S3-956992592 [US]: Ware Assets Llc | 109 Winding Way, N/A, Goodlettsville, Tennessee
+      [Metrics: NameSim=100.0, AddrSim=72.5]
+    * S3-255570714 [US]: Ware ássets LLC | 109 Winding Way, N/A, Goodlettsville, Tennessee
+      [Metrics: NameSim=53.3, AddrSim=72.5]
+    * S2-447789624 [US]: Ware Assets L.L.C. | 109 WINDING WAY, MILLERSVILLE, TN
+      [Metrics: NameSim=90.9, AddrSim=100.0]
+    * S2-892893900 [US]: Ware LLC Sérvice | 109 WINDING WAY, MILLERSVILLE, TN
+      [Metrics: NameSim=51.6, AddrSim=100.0]
+
+[US #03] S1-900393835
+  Source 1 : Indira's Advisory | 4315 Chadswyck Drive, City Of Janesville, WI
+  Matches (4):
+    * S3-817831002 [US]: Indira's-Advisory | 4315-4319 Chadswyck Drive, City Of Janesville, Wisconsin
+      [Metrics: NameSim=47.1, AddrSim=88.0]
+    * S2-583879871 [US]: Indira's Advisory  LP | 4315 CHADSWYCK DIVE, WI, CITY OF JANESVILLE
+      [Metrics: NameSim=91.9, AddrSim=96.6]
+    * S2-33973638 [US]: #INDIRASADVISORY | WI, CITY OF JANESVILLE, 4315 CHADSWYCK DR
+      [Metrics: NameSim=48.5, AddrSim=94.1]
+    * S2-34928112 [US]: INDIRASADVISORY.COM | 4315 CHADSWYCK DR, CITY OF JANESVILLE, WI
+      [Metrics: NameSim=44.4, AddrSim=96.5]
+
+[US #04] S1-84782270
+  Source 1 : Raven Inc | 630 Mckinneytown Road, Elkton, MD
+  Matches (1):
+    * S3-623892740 [US]: Ciravera doing business as Raven Inc | 630 Mckinneytown Road, Elkton, MD
+      [Metrics: NameSim=40.0, AddrSim=100.0]
+
+[US #05] S1-633665705
+  Source 1 : Legacy Ace Fresenius LLC | 1600 Botsford Drive, Knoxville, TN
+  Matches (3):
+    * S3-353790281 [US]: Legacy Ace Fresenius - 1138217143 | 1600 Botsford Drive, Knoxville, Tennessee
+      [Metrics: NameSim=70.2, AddrSim=90.7]
+    * S3-268145285 [US]: Legacy Ace LLC Services | 1600 Botsford Dr, Knoxville, Tennessee
+      [Metrics: NameSim=59.6, AddrSim=86.1]
+    * S2-991679376 [US]: LEGACY ACE  FRESENIUS LLC | BOTSFORD DR, TN, KNXVILLE
+      [Metrics: NameSim=100.0, AddrSim=81.4]
+
+[US #06] S1-948746658
+  Source 1 : Caryl Peterson Reliable View Inc | KY, 29 Alvasia Street, Henderson
+  Matches (1):
+    * S2-671224799 [US]: carylpetersonreliable.com | 29 ALVASIA STREET, HENDERSON, KY
+      [Metrics: NameSim=73.7, AddrSim=96.9]
+
+[US #07] S1-854881745
+  Source 1 : Santiago Iii, LLC | 819 Commercial Street, Springfield, MO
+  Matches (4):
+    * S2-514141795 [US]: Santiago Iii, | 819 COMMERCIAL STREET, SPRINGFIELD, MO
+      [Metrics: NameSim=86.7, AddrSim=100.0]
+    * S2-626422744 [US]: SANTIAGO III, | 819 COMMERCIAL STREET, MO, SPRINGFIELD
+      [Metrics: NameSim=86.7, AddrSim=97.4]
+    * S2-531945392 [US]: SANTIAGO IB, [LLC] | 819 COMMERCIAL SOREET, SPRINGFIELD, MO
+      [Metrics: NameSim=68.6, AddrSim=78.9]
+    * S3-825087196 [US]: Santiago | 819 Commercial Street, Springfield, MO
+      [Metrics: NameSim=64.0, AddrSim=100.0]
+
+[US #08] S1-595332191
+  Source 1 : Mota Direct Rithm | 7577 Highbridge Road, Manlius, NY
+  Matches (2):
+    * S3-953891521 [US]: MOTA DIRECT RITHM | New York, 7577 Highbridge Rd, Manlius
+      [Metrics: NameSim=100.0, AddrSim=82.9]
+    * S2-576319925 [US]: Mota Direct  Rithm | 7577- HIGHBRIDGE RD, MANLIUS, NY
+      [Metrics: NameSim=100.0, AddrSim=95.4]
+
+[US #09] S1-246255172
+  Source 1 : Alejandrina Johnson, Ph.D., P.C. | 7035 Base Road, North Vernon, IN
+  Matches (3):
+    * S2-31044393 [US]: Alejandrina Johnson, Ph.D., | 007035 BASE RD, NORTH VERNON, IN
+      [Metrics: NameSim=91.5, AddrSim=93.8]
+    * S2-918918984 [US]: Alejandrina Jóhnson, Ph.D., LLC | 007035 BASE RD, NORTH VERNON, IN
+      [Metrics: NameSim=88.9, AddrSim=93.8]
+    * S2-674119911 [US]: ALEJANDRINA JOHNSON, PH.D.,P.C. | 007035 BASE RD, IN, NORTH VERNON
+      [Metrics: NameSim=85.7, AddrSim=90.6]
+
+[US #10] S1-349036324
+  Source 1 : Johnson Cascade Quest Inc | Spring City, 925 New Lake Road, TN
+  Matches (4):
+    * S3-225211568 [US]: [Ínc] Johnson Cascade Quest | 925 New Lake Rd, Spring City, Tennessee
+      [Metrics: NameSim=80.8, AddrSim=87.7]
+    * S3-943069846 [US]: Johnson Cascade-Quest Inc | 925 New Lake Rd, Spring City, Tennessee
+      [Metrics: NameSim=76.0, AddrSim=87.7]
+    * S2-83273361 [US]: Johnson Cascade-Quest Inc | 925 NEW LAKE RD, SPRING CITY, TN
+      [Metrics: NameSim=76.0, AddrSim=97.0]
+    * S2-696261840 [US]: JOHNSON CASCADE QUEST INC | 925 NEW LAKE RD, SPRING CITY, TN
+      [Metrics: NameSim=100.0, AddrSim=97.0]
+
+
+==================== COUNTRY: India ====================
+
+[India #01] S1-435173910
+  Source 1 : Pawan India Private Limited | Fl No 3, Sno 56/3, Siddhi Resinr Samarth Ngr, Pune, Wadgaon Bk Pune, Maharashtra, C/O Raikar Asha Vasant
+  Matches (1):
+    * S2-620176351 [India]: PAWAN INDIA PRIVATE LTD | C/O RAIKAR ASHA VASANT, FL NO 5, SNO 56/3, SIDDHI RESINR SAMARTH NGR, WADGAON BK PUNE, Maharashtra
+      [Metrics: NameSim=92.0, AddrSim=95.0]
+
+[India #02] S1-386605023
+  Source 1 : Urban Consultancy | Module 001/002 Ground Floor, Tidel Park Cbe Ltd Elcot It/Ites Sez, Villankurichi, Coimbatore, Tamil Nadu
+  Matches (1):
+    * S3-181336247 [India]: Urban Consultancy LLP | Module 001/002 Gound Floor, Tidel Park Cbe Ltd Elcot It/ites Sez, Villankurichi, Coimbatore, TN
+      [Metrics: NameSim=89.5, AddrSim=92.5]
+
+[India #03] S1-151834364
+  Source 1 : YJU Food Private Limited | Dno4-199Industrial Estate, Vatluru Village Eluru, Eluru, West Godavari, Andhra Pradesh
+  Matches (5):
+    * S2-315083575 [India]: YJU Food Private  Ltd | NO 4-199INDUSTRIAL ESTATE, VATLURU VILLAGE ELURU, ELURU, Andhra Pradesh
+      [Metrics: NameSim=90.9, AddrSim=80.3]
+    * S2-116457138 [India]: YJU Food | Andhra Pradesh, NO 4-199INDUSTRIAL ESTATE, VATLURU VILLAGE ELURU, ELURU
+      [Metrics: NameSim=50.0, AddrSim=79.0]
+    * S3-498018055 [India]: YJU Food Private | 4-199Industrial Estate, Eluru, West Godavari, AP
+      [Metrics: NameSim=80.0, AddrSim=68.7]
+    * S2-860520832 [India]: Prívate YJU Food Ltd | ESTATE, WEST GODAVARI, ELURU, Andhra Pradesh
+      [Metrics: NameSim=86.4, AddrSim=67.7]
+    * S3-229708322 [India]: YJU Food Priavae Limited | Dno4-199industrial Estate, Eluru, West Godavari, ఆంధ్రప్రదేశ్
+      [Metrics: NameSim=95.8, AddrSim=65.3]
+
+[India #04] S1-668002194
+  Source 1 : Sree Investments Pvt Ltd | Gautam Buddha Nagar, Sector 29, Uttar Pradesh, House No - 804, Noida
+  Matches (2):
+    * S2-141145286 [India]: इंटरनेशनल इंफोटेक प्राइवेट लिमिटेड | PLOT NO. 29, GAUTAM BUDDHA NAGAR, NOIDA, Uttar Pradesh
+      [Metrics: NameSim=10.3, AddrSim=77.0]
+    * S2-74888019 [India]: स्मार्ट लक्ष्मी कंसल्टेंसी प्राइवेट लिमिटेड | SHOP NO- 29, GAUTAM BUDDHA NAGAR, UTTAR PRADESH
+      [Metrics: NameSim=9.0, AddrSim=76.5]
+
+[India #05] S1-586009768
+  Source 1 : Fortune Wellness Private Limited | House No.77, Block-A Prashant Vihar, Rohini, North West, Delhi
+  Matches (2):
+    * S3-409933667 [India]: Shri Fortune  Wellness Private Limited | House No.77, Block-a Prashant Vihar, Rohini, North West, DL
+      [Metrics: NameSim=92.8, AddrSim=97.5]
+    * S2-41174475 [India]: Smt Fortune Wellness Private | HOUSE NO.77, BLOCK-A PRASHANT VIHAR, ROHINI, दिल्ली
+      [Metrics: NameSim=80.0, AddrSim=79.6]
+
+[India #06] S1-493341806
+  Source 1 : Allied Corporate Private Limited | Pune City, S No 98/2, Pune, Maharashtra, Plot No. 33, F No. 6 Nasik Rd Kuldeep Villa Bld
+  Matches (3):
+    * S3-869162542 [India]: Allied Corporate Private  [Limited] | S No 98/2, Pune City, MH
+      [Metrics: NameSim=72.7, AddrSim=42.9]
+    * S2-759744588 [India]: हाई सॉफ्टवेयर प्राइवेट लिमिटेड | S NO- 98/2, PUNE, Maharashtra
+      [Metrics: NameSim=9.7, AddrSim=47.9]
+    * S3-400184107 [India]: हाई सॉफ्टवेयर प्राइवेट लिमिटेड | S No- 98/2, Pune, महाराष्ट्र
+      [Metrics: NameSim=9.7, AddrSim=29.3]
+
+[India #07] S1-255664211
+  Source 1 : Guru Logistics Private Limited | A-47Lower Ground Floor Hauz Khas, New Delhi, Delhi
+  Matches (1):
+    * S3-19250594 [India]: Guru Limited Private Logistics | A-0047lower Ground Floor Hauz Khas, New Delhi, DL
+      [Metrics: NameSim=100.0, AddrSim=92.9]
+
+[India #08] S1-317587507
+  Source 1 : Hitech Developers | Chennai, Tamil Nadu, Unit G-19, Chennai, Ambattur Industrial Estate
+  Matches (1):
+    * S3-124999117 [India]: Hitech Developer | Unit G-19, Madras, Chennai, தமிழ்நாடு
+      [Metrics: NameSim=97.0, AddrSim=46.2]
+
+[India #09] S1-667981903
+  Source 1 : Orange Foundation | I 1626 2Nd Floor Chittaranjan Park, Delhi, South Delhi, Delhi
+  Matches (4):
+    * S2-32432700 [India]: Orange Foundation Limited | I C-1626 2ND FLOOR CHITTARANJAN PARK, DELHI, दिल्ली
+      [Metrics: NameSim=81.0, AddrSim=69.6]
+    * S3-62770710 [India]: Orange Foundation Overseas Ltd | Delhi, South Delhi, I A-1626 11Nd Floor Chittaranjan Park, दिल्ली
+      [Metrics: NameSim=72.3, AddrSim=81.0]
+    * S3-287683144 [India]: Smt Orange Center | I 1626 2Nd Floor Chittaranjan Park, Delhi, South Delhi, DL
+      [Metrics: NameSim=52.9, AddrSim=95.8]
+    * S3-176170843 [India]: Mr Orange Services | I 1626 2Nd Floor Chittaranjan Park, Delhi, South Delhi, दिल्ली
+      [Metrics: NameSim=40.0, AddrSim=89.4]
+
+[India #10] S1-161925190
+  Source 1 : Bhawani Hr Private Limited | 26, Burtolla Street, 2Nd Floor, Kolkata, Kolkata, Howrah, West Bengal
+  Matches (3):
+    * S2-180438446 [India]: Bhawani Hr Private Limited | 26, BURTOLLA STREET, 2ND FLOOR, KOLKATA, KOLKATA, West Bengal
+      [Metrics: NameSim=100.0, AddrSim=93.8]
+    * S2-641422418 [India]: BHAWANI HR LIMITED PRIVATE | 26, BURTOLLA STREE, 2ND FLOOR, KOLKATA, KOLKATA, West Bengal
+      [Metrics: NameSim=100.0, AddrSim=93.0]
+    * S3-943226364 [India]: Private Bhawani Hr ((Limited)) | Plot D/464 26, Howrah, Kolkata, WB
+      [Metrics: NameSim=64.3, AddrSim=52.4]
+
+================================================================================
+SUMMARY OF SAMPLE: 83 total pairs across 30 entities
+  France : 28 pairs across 10 entities (avg 2.8/entity)
+  US     : 32 pairs across 10 entities (avg 3.2/entity)
+  India  : 23 pairs across 10 entities (avg 2.3/entity)
+================================================================================

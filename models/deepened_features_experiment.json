@@ -1,0 +1,30 @@
+{
+  "baseline_43_features": {
+    "description": "Baseline (43 Enriched Features)",
+    "n_features": 43,
+    "cv_f05": 0.9857119809455991,
+    "cv_precision": 0.9891759920634922,
+    "cv_recall": 0.9823035714285714,
+    "train_f05": 0.9814976361303094,
+    "overfitting_gap": -0.004214344815289706,
+    "training_time_s": 31.4
+  },
+  "deepened_47_features": {
+    "description": "Deepened (47 Features with Suite/Franchise Counters)",
+    "n_features": 47,
+    "cv_f05": 0.9857847967607084,
+    "cv_precision": 0.9904753968253969,
+    "cv_recall": 0.9777652777777778,
+    "train_f05": 0.9838443252866143,
+    "overfitting_gap": -0.001940471474094152,
+    "training_time_s": 32.0
+  },
+  "delta_f05": 7.281581510931723e-05,
+  "decision": "KEEP BASELINE (DISCARD ADDED COMPLEXITY)",
+  "new_feature_names": [
+    "suite_exact_match",
+    "same_bldg_diff_suite",
+    "brand_match_city_mismatch",
+    "co_location_divergence_penalty"
+  ]
+}

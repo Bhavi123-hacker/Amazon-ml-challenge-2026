@@ -1,0 +1,253 @@
+{
+  "winner_model": "LightGBM",
+  "optimal_threshold": 0.86,
+  "best_cv_f05": 0.9883542551695094,
+  "benchmark_results": {
+    "LightGBM": {
+      "cv_f05": 0.9844165797272586,
+      "cv_precision": 0.9839347883597884,
+      "cv_recall": 0.9942444444444444,
+      "train_f05": 0.9933206342428076,
+      "train_val_gap": 0.008904054515548987,
+      "training_time_s": 29.64577579498291
+    },
+    "XGBoost": {
+      "cv_f05": 0.9841961204156993,
+      "cv_precision": 0.9839851851851853,
+      "cv_recall": 0.9938750000000001,
+      "train_f05": 0.9944856349799448,
+      "train_val_gap": 0.010289514564245539,
+      "training_time_s": 26.59882688522339
+    },
+    "CatBoost": {
+      "cv_f05": 0.9791976706717731,
+      "cv_precision": 0.9779633597883599,
+      "cv_recall": 0.9951003968253967,
+      "train_f05": 0.9812224069731768,
+      "train_val_gap": 0.0020247363014036512,
+      "training_time_s": 45.40110754966736
+    },
+    "LogisticRegression": {
+      "cv_f05": 0.949029193705093,
+      "cv_precision": 0.9445416213416218,
+      "cv_recall": 0.9941134920634921,
+      "train_f05": 0.9534721271268565,
+      "train_val_gap": 0.004442933421763495,
+      "training_time_s": 6.5905210971832275
+    },
+    "RandomForest": {
+      "cv_f05": 0.9802576541281134,
+      "cv_precision": 0.980558597883598,
+      "cv_recall": 0.9905002645502645,
+      "train_f05": 0.9836466123748497,
+      "train_val_gap": 0.003388958246736351,
+      "training_time_s": 32.30955529212952
+    }
+  },
+  "threshold_table": [
+    {
+      "threshold": 0.4,
+      "f05": 0.9823730712041092,
+      "precision": 0.9814093915343917,
+      "recall": 0.9953031746031749
+    },
+    {
+      "threshold": 0.42,
+      "f05": 0.9829308628065232,
+      "precision": 0.982081613756614,
+      "recall": 0.9948587301587304
+    },
+    {
+      "threshold": 0.44,
+      "f05": 0.9835179328246276,
+      "precision": 0.9827482804232806,
+      "recall": 0.9947365079365083
+    },
+    {
+      "threshold": 0.46,
+      "f05": 0.983951518273693,
+      "precision": 0.983290343915344,
+      "recall": 0.9946253968253971
+    },
+    {
+      "threshold": 0.48,
+      "f05": 0.9843248774480575,
+      "precision": 0.9838125661375662,
+      "recall": 0.994327777777778
+    },
+    {
+      "threshold": 0.5,
+      "f05": 0.9844165797272599,
+      "precision": 0.9839347883597884,
+      "recall": 0.9942444444444447
+    },
+    {
+      "threshold": 0.52,
+      "f05": 0.9846622256414028,
+      "precision": 0.9842546296296295,
+      "recall": 0.9941611111111114
+    },
+    {
+      "threshold": 0.54,
+      "f05": 0.9849779796595164,
+      "precision": 0.9846962962962963,
+      "recall": 0.9939944444444446
+    },
+    {
+      "threshold": 0.56,
+      "f05": 0.9855728893038814,
+      "precision": 0.9854629629629629,
+      "recall": 0.9938000000000001
+    },
+    {
+      "threshold": 0.58,
+      "f05": 0.9854589620125348,
+      "precision": 0.9855105820105818,
+      "recall": 0.9934111111111114
+    },
+    {
+      "threshold": 0.6,
+      "f05": 0.9855995357223466,
+      "precision": 0.985716931216931,
+      "recall": 0.9932968253968256
+    },
+    {
+      "threshold": 0.62,
+      "f05": 0.9857708548247001,
+      "precision": 0.9859391534391536,
+      "recall": 0.9932301587301591
+    },
+    {
+      "threshold": 0.64,
+      "f05": 0.9859985579208241,
+      "precision": 0.9863391534391535,
+      "recall": 0.9928023809523813
+    },
+    {
+      "threshold": 0.66,
+      "f05": 0.9860737885507579,
+      "precision": 0.9865419312169313,
+      "recall": 0.9924492063492066
+    },
+    {
+      "threshold": 0.68,
+      "f05": 0.9863734680379374,
+      "precision": 0.9868752645502648,
+      "recall": 0.9923103174603178
+    },
+    {
+      "threshold": 0.7,
+      "f05": 0.9866881610203935,
+      "precision": 0.9872681216931217,
+      "recall": 0.9922269841269845
+    },
+    {
+      "threshold": 0.72,
+      "f05": 0.986884067453142,
+      "precision": 0.987501455026455,
+      "recall": 0.9922269841269845
+    },
+    {
+      "threshold": 0.74,
+      "f05": 0.9871475725505855,
+      "precision": 0.987951455026455,
+      "recall": 0.9918269841269846
+    },
+    {
+      "threshold": 0.76,
+      "f05": 0.9873459187019116,
+      "precision": 0.988237962962963,
+      "recall": 0.9916353174603177
+    },
+    {
+      "threshold": 0.78,
+      "f05": 0.9874638342156209,
+      "precision": 0.988562962962963,
+      "recall": 0.991070502645503
+    },
+    {
+      "threshold": 0.8,
+      "f05": 0.9877675515752594,
+      "precision": 0.9889907407407407,
+      "recall": 0.9904649470899475
+    },
+    {
+      "threshold": 0.82,
+      "f05": 0.9880299928090628,
+      "precision": 0.9894851851851852,
+      "recall": 0.9898982804232809
+    },
+    {
+      "threshold": 0.84,
+      "f05": 0.9883398963558083,
+      "precision": 0.9899407407407409,
+      "recall": 0.9896093915343919
+    },
+    {
+      "threshold": 0.86,
+      "f05": 0.9883542551695094,
+      "precision": 0.9902185185185187,
+      "recall": 0.9888260582010587
+    },
+    {
+      "threshold": 0.88,
+      "f05": 0.9882883700381602,
+      "precision": 0.9903494708994708,
+      "recall": 0.9881927248677254
+    },
+    {
+      "threshold": 0.9,
+      "f05": 0.9876292960522648,
+      "precision": 0.9900272486772486,
+      "recall": 0.9865030423280429
+    },
+    {
+      "threshold": 0.92,
+      "f05": 0.9874575104399017,
+      "precision": 0.9900800264550262,
+      "recall": 0.9854915343915348
+    },
+    {
+      "threshold": 0.94,
+      "f05": 0.9878307049231545,
+      "precision": 0.9909252645502644,
+      "recall": 0.9840824074074077
+    }
+  ],
+  "feature_columns": [
+    "name_levenshtein",
+    "name_jaro_winkler",
+    "name_token_sort",
+    "name_token_set",
+    "name_partial_ratio",
+    "name_jaccard",
+    "name_common_tokens",
+    "name_acronym_match",
+    "name_length_diff",
+    "name_length_ratio",
+    "name_token_count_diff",
+    "legal_suffix_match",
+    "addr_levenshtein",
+    "addr_jaro_winkler",
+    "addr_token_sort",
+    "addr_token_set",
+    "addr_partial_ratio",
+    "addr_jaccard",
+    "addr_common_tokens",
+    "pin_exact_match",
+    "pin_mismatch",
+    "street_number_match",
+    "street_number_mismatch",
+    "city_exact_match",
+    "addr_length_diff",
+    "country_exact_match",
+    "candidate_source",
+    "sim_max",
+    "sim_mean",
+    "interaction_name_addr",
+    "interaction_name_pin",
+    "interaction_name_street",
+    "blocking_rank",
+    "blocking_score"
+  ]
+}

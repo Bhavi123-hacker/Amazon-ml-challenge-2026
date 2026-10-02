@@ -1,0 +1,510 @@
+{
+  "spearman_rank_correlation": 0.7163846829525792,
+  "spearman_p_value": 6.594607393817238e-08,
+  "top_10_side_by_side": [
+    {
+      "rank": 1,
+      "us_feature": "addr_jaccard",
+      "us_importance": 0.03095803235651775,
+      "india_feature": "addr_jaccard",
+      "india_importance": 0.08379991951710278
+    },
+    {
+      "rank": 2,
+      "us_feature": "sim_ratio",
+      "us_importance": 0.0014416688812118883,
+      "india_feature": "addr_token_set",
+      "india_importance": 0.0019634607645876434
+    },
+    {
+      "rank": 3,
+      "us_feature": "addr_token_set",
+      "us_importance": 0.0007530460061685673,
+      "india_feature": "blocking_score",
+      "india_importance": 0.0015182293762576072
+    },
+    {
+      "rank": 4,
+      "us_feature": "blocking_score",
+      "us_importance": 0.0001801834448659445,
+      "india_feature": "sim_ratio",
+      "india_importance": 0.0004983501006037061
+    },
+    {
+      "rank": 5,
+      "us_feature": "st_name_jaccard",
+      "us_importance": 7.821370763181346e-05,
+      "india_feature": "street_name_sim",
+      "india_importance": 0.000110744466800905
+    },
+    {
+      "rank": 6,
+      "us_feature": "candidate_source",
+      "us_importance": 5.848412372468914e-05,
+      "india_feature": "name_partial_ratio",
+      "india_importance": 9.319919517114528e-05
+    },
+    {
+      "rank": 7,
+      "us_feature": "addr_jaro_winkler",
+      "us_importance": 5.355172774792472e-05,
+      "india_feature": "st_name_jaccard",
+      "india_importance": 9.255533199206134e-05
+    },
+    {
+      "rank": 8,
+      "us_feature": "addr_partial_ratio",
+      "us_importance": 4.610280321160065e-05,
+      "india_feature": "name_jaccard",
+      "india_importance": 7.549295774658126e-05
+    },
+    {
+      "rank": 9,
+      "us_feature": "legal_suffix_match",
+      "us_importance": 4.398891922150483e-05,
+      "india_feature": "core_name_jaccard",
+      "india_importance": 7.291750503026772e-05
+    },
+    {
+      "rank": 10,
+      "us_feature": "street_name_sim",
+      "us_importance": 3.935850667191598e-05,
+      "india_feature": "interaction_name_street",
+      "india_importance": 5.9879275654028954e-05
+    }
+  ],
+  "all_features_us_ranked": [
+    {
+      "feature": "addr_jaccard",
+      "importance_us": 0.03095803235651775,
+      "importance_india": 0.08379991951710278
+    },
+    {
+      "feature": "sim_ratio",
+      "importance_us": 0.0014416688812118883,
+      "importance_india": 0.0004983501006037061
+    },
+    {
+      "feature": "addr_token_set",
+      "importance_us": 0.0007530460061685673,
+      "importance_india": 0.0019634607645876434
+    },
+    {
+      "feature": "blocking_score",
+      "importance_us": 0.0001801834448659445,
+      "importance_india": 0.0015182293762576072
+    },
+    {
+      "feature": "st_name_jaccard",
+      "importance_us": 7.821370763181346e-05,
+      "importance_india": 9.255533199206134e-05
+    },
+    {
+      "feature": "candidate_source",
+      "importance_us": 5.848412372468914e-05,
+      "importance_india": 5.086519114700927e-05
+    },
+    {
+      "feature": "addr_jaro_winkler",
+      "importance_us": 5.355172774792472e-05,
+      "importance_india": 3.911468812884955e-05
+    },
+    {
+      "feature": "addr_partial_ratio",
+      "importance_us": 4.610280321160065e-05,
+      "importance_india": 2.028169014092196e-05
+    },
+    {
+      "feature": "legal_suffix_match",
+      "importance_us": 4.398891922150483e-05,
+      "importance_india": 3.589537223345207e-05
+    },
+    {
+      "feature": "street_name_sim",
+      "importance_us": 3.935850667191598e-05,
+      "importance_india": 0.000110744466800905
+    },
+    {
+      "feature": "interaction_name_pin",
+      "importance_us": 3.43254495527523e-05,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "core_name_jaccard",
+      "importance_us": 3.0600987284556956e-05,
+      "importance_india": 7.291750503026772e-05
+    },
+    {
+      "feature": "name_partial_ratio",
+      "importance_us": 2.5869913592546645e-05,
+      "importance_india": 9.319919517114528e-05
+    },
+    {
+      "feature": "name_token_count_diff",
+      "importance_us": 2.5567930165415477e-05,
+      "importance_india": -5.311871227275944e-06
+    },
+    {
+      "feature": "sim_max",
+      "importance_us": 1.842098905622258e-05,
+      "importance_india": 3.9758551307977895e-05
+    },
+    {
+      "feature": "name_jaccard",
+      "importance_us": 1.5904460496618535e-05,
+      "importance_india": 7.549295774658126e-05
+    },
+    {
+      "feature": "name_length_diff",
+      "importance_us": 1.4797187930382094e-05,
+      "importance_india": 2.8973843058421876e-05
+    },
+    {
+      "feature": "interaction_name_street",
+      "importance_us": 1.0569419950279268e-05,
+      "importance_india": 5.9879275654028954e-05
+    },
+    {
+      "feature": "core_name_lev",
+      "importance_us": 8.757519387403435e-06,
+      "importance_india": 5.794768611777634e-06
+    },
+    {
+      "feature": "blocking_rank",
+      "importance_us": 5.133718261607356e-06,
+      "importance_india": 1.835010060371456e-05
+    },
+    {
+      "feature": "street_number_mismatch",
+      "importance_us": 4.731073692076926e-06,
+      "importance_india": 1.883299798801641e-05
+    },
+    {
+      "feature": "city_exact_match",
+      "importance_us": 3.724462268217543e-06,
+      "importance_india": -1.1267605633191736e-06
+    },
+    {
+      "feature": "core_name_tok_sort",
+      "importance_us": 3.321817698731522e-06,
+      "importance_india": -4.82897384190828e-07
+    },
+    {
+      "feature": "name_common_tokens",
+      "importance_us": 1.3085948510793699e-06,
+      "importance_india": 2.0281690140944163e-05
+    },
+    {
+      "feature": "pin_mismatch",
+      "importance_us": 9.059502814823261e-07,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "country_exact_match",
+      "importance_us": 0.0,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "name_acronym_match",
+      "importance_us": 0.0,
+      "importance_india": 5.794768611688816e-06
+    },
+    {
+      "feature": "name_length_ratio",
+      "importance_us": -2.0132228470970403e-07,
+      "importance_india": 2.0603621730508337e-05
+    },
+    {
+      "feature": "street_number_match",
+      "importance_us": -2.0132228470970403e-07,
+      "importance_india": 2.446680080492314e-05
+    },
+    {
+      "feature": "name_jaro_winkler",
+      "importance_us": -3.019834270423516e-07,
+      "importance_india": 1.609657947776455e-06
+    },
+    {
+      "feature": "name_suffix_inflation_gap",
+      "importance_us": -5.03305711863078e-07,
+      "importance_india": 8.048289738549208e-06
+    },
+    {
+      "feature": "pin_exact_match",
+      "importance_us": -7.046279966171909e-07,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "street_mismatch_with_shared_num",
+      "importance_us": -8.052891389942474e-07,
+      "importance_india": 1.2877263582122822e-06
+    },
+    {
+      "feature": "addr_common_tokens",
+      "importance_us": -2.1138839899847995e-06,
+      "importance_india": -1.4647887323859798e-05
+    },
+    {
+      "feature": "addr_levenshtein",
+      "importance_us": -2.2145451323396513e-06,
+      "importance_india": 1.4808853118797316e-05
+    },
+    {
+      "feature": "addr_length_diff",
+      "importance_us": -2.516528559493025e-06,
+      "importance_india": 2.6398390342152746e-05
+    },
+    {
+      "feature": "name_levenshtein",
+      "importance_us": -4.429090264790325e-06,
+      "importance_india": 1.2233400402483774e-05
+    },
+    {
+      "feature": "addr_token_sort",
+      "importance_us": -5.6370239734038204e-06,
+      "importance_india": -2.736418510984606e-06
+    },
+    {
+      "feature": "name_token_set",
+      "importance_us": -6.542974254841738e-06,
+      "importance_india": -2.5754527162247244e-06
+    },
+    {
+      "feature": "sim_mean",
+      "importance_us": -6.744296539595851e-06,
+      "importance_india": -1.7706237423587013e-06
+    },
+    {
+      "feature": "interaction_name_addr",
+      "importance_us": -8.757519387314617e-06,
+      "importance_india": 3.0583501006820056e-06
+    },
+    {
+      "feature": "interaction_core_name_addr",
+      "importance_us": -1.056941995019045e-05,
+      "importance_india": -3.0583501005265746e-06
+    },
+    {
+      "feature": "name_token_sort",
+      "importance_us": -1.2381320513066285e-05,
+      "importance_india": 9.65794768670314e-07
+    }
+  ],
+  "all_features_india_ranked": [
+    {
+      "feature": "addr_jaccard",
+      "importance_us": 0.03095803235651775,
+      "importance_india": 0.08379991951710278
+    },
+    {
+      "feature": "addr_token_set",
+      "importance_us": 0.0007530460061685673,
+      "importance_india": 0.0019634607645876434
+    },
+    {
+      "feature": "blocking_score",
+      "importance_us": 0.0001801834448659445,
+      "importance_india": 0.0015182293762576072
+    },
+    {
+      "feature": "sim_ratio",
+      "importance_us": 0.0014416688812118883,
+      "importance_india": 0.0004983501006037061
+    },
+    {
+      "feature": "street_name_sim",
+      "importance_us": 3.935850667191598e-05,
+      "importance_india": 0.000110744466800905
+    },
+    {
+      "feature": "name_partial_ratio",
+      "importance_us": 2.5869913592546645e-05,
+      "importance_india": 9.319919517114528e-05
+    },
+    {
+      "feature": "st_name_jaccard",
+      "importance_us": 7.821370763181346e-05,
+      "importance_india": 9.255533199206134e-05
+    },
+    {
+      "feature": "name_jaccard",
+      "importance_us": 1.5904460496618535e-05,
+      "importance_india": 7.549295774658126e-05
+    },
+    {
+      "feature": "core_name_jaccard",
+      "importance_us": 3.0600987284556956e-05,
+      "importance_india": 7.291750503026772e-05
+    },
+    {
+      "feature": "interaction_name_street",
+      "importance_us": 1.0569419950279268e-05,
+      "importance_india": 5.9879275654028954e-05
+    },
+    {
+      "feature": "candidate_source",
+      "importance_us": 5.848412372468914e-05,
+      "importance_india": 5.086519114700927e-05
+    },
+    {
+      "feature": "sim_max",
+      "importance_us": 1.842098905622258e-05,
+      "importance_india": 3.9758551307977895e-05
+    },
+    {
+      "feature": "addr_jaro_winkler",
+      "importance_us": 5.355172774792472e-05,
+      "importance_india": 3.911468812884955e-05
+    },
+    {
+      "feature": "legal_suffix_match",
+      "importance_us": 4.398891922150483e-05,
+      "importance_india": 3.589537223345207e-05
+    },
+    {
+      "feature": "name_length_diff",
+      "importance_us": 1.4797187930382094e-05,
+      "importance_india": 2.8973843058421876e-05
+    },
+    {
+      "feature": "addr_length_diff",
+      "importance_us": -2.516528559493025e-06,
+      "importance_india": 2.6398390342152746e-05
+    },
+    {
+      "feature": "street_number_match",
+      "importance_us": -2.0132228470970403e-07,
+      "importance_india": 2.446680080492314e-05
+    },
+    {
+      "feature": "name_length_ratio",
+      "importance_us": -2.0132228470970403e-07,
+      "importance_india": 2.0603621730508337e-05
+    },
+    {
+      "feature": "name_common_tokens",
+      "importance_us": 1.3085948510793699e-06,
+      "importance_india": 2.0281690140944163e-05
+    },
+    {
+      "feature": "addr_partial_ratio",
+      "importance_us": 4.610280321160065e-05,
+      "importance_india": 2.028169014092196e-05
+    },
+    {
+      "feature": "street_number_mismatch",
+      "importance_us": 4.731073692076926e-06,
+      "importance_india": 1.883299798801641e-05
+    },
+    {
+      "feature": "blocking_rank",
+      "importance_us": 5.133718261607356e-06,
+      "importance_india": 1.835010060371456e-05
+    },
+    {
+      "feature": "addr_levenshtein",
+      "importance_us": -2.2145451323396513e-06,
+      "importance_india": 1.4808853118797316e-05
+    },
+    {
+      "feature": "name_levenshtein",
+      "importance_us": -4.429090264790325e-06,
+      "importance_india": 1.2233400402483774e-05
+    },
+    {
+      "feature": "name_suffix_inflation_gap",
+      "importance_us": -5.03305711863078e-07,
+      "importance_india": 8.048289738549208e-06
+    },
+    {
+      "feature": "core_name_lev",
+      "importance_us": 8.757519387403435e-06,
+      "importance_india": 5.794768611777634e-06
+    },
+    {
+      "feature": "name_acronym_match",
+      "importance_us": 0.0,
+      "importance_india": 5.794768611688816e-06
+    },
+    {
+      "feature": "interaction_name_addr",
+      "importance_us": -8.757519387314617e-06,
+      "importance_india": 3.0583501006820056e-06
+    },
+    {
+      "feature": "name_jaro_winkler",
+      "importance_us": -3.019834270423516e-07,
+      "importance_india": 1.609657947776455e-06
+    },
+    {
+      "feature": "street_mismatch_with_shared_num",
+      "importance_us": -8.052891389942474e-07,
+      "importance_india": 1.2877263582122822e-06
+    },
+    {
+      "feature": "name_token_sort",
+      "importance_us": -1.2381320513066285e-05,
+      "importance_india": 9.65794768670314e-07
+    },
+    {
+      "feature": "interaction_name_pin",
+      "importance_us": 3.43254495527523e-05,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "country_exact_match",
+      "importance_us": 0.0,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "pin_mismatch",
+      "importance_us": 9.059502814823261e-07,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "pin_exact_match",
+      "importance_us": -7.046279966171909e-07,
+      "importance_india": 0.0
+    },
+    {
+      "feature": "core_name_tok_sort",
+      "importance_us": 3.321817698731522e-06,
+      "importance_india": -4.82897384190828e-07
+    },
+    {
+      "feature": "city_exact_match",
+      "importance_us": 3.724462268217543e-06,
+      "importance_india": -1.1267605633191736e-06
+    },
+    {
+      "feature": "sim_mean",
+      "importance_us": -6.744296539595851e-06,
+      "importance_india": -1.7706237423587013e-06
+    },
+    {
+      "feature": "name_token_set",
+      "importance_us": -6.542974254841738e-06,
+      "importance_india": -2.5754527162247244e-06
+    },
+    {
+      "feature": "addr_token_sort",
+      "importance_us": -5.6370239734038204e-06,
+      "importance_india": -2.736418510984606e-06
+    },
+    {
+      "feature": "interaction_core_name_addr",
+      "importance_us": -1.056941995019045e-05,
+      "importance_india": -3.0583501005265746e-06
+    },
+    {
+      "feature": "name_token_count_diff",
+      "importance_us": 2.5567930165415477e-05,
+      "importance_india": -5.311871227275944e-06
+    },
+    {
+      "feature": "addr_common_tokens",
+      "importance_us": -2.1138839899847995e-06,
+      "importance_india": -1.4647887323859798e-05
+    }
+  ]
+}

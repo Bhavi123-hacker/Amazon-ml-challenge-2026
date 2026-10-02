@@ -1,0 +1,232 @@
+================================================================================
+AUDIT OF 30 SUBMITTED ENTITIES (10 FRANCE, 10 US, 10 INDIA)
+================================================================================
+
+==================== COUNTRY: FRANCE ====================
+
+[France #01] S1-638273459
+  Source 1 : Organisme & Fils SAS | 15 Rue Judaïque, Bordeaux, Nouvelle-Aquitaine
+  Matches (1):
+    * S2-796002658 [France]: ORGANISME & FÎLS SAS | 15 RUE JUDÏAQUE, BORDEAUX
+
+[France #02] S1-38038385
+  Source 1 : Sans (France) Sportive | 73 Rue du Caire, Roubaix, Hauts-de-France
+  Matches (2):
+    * S3-644223114 [France]: Sans (Frànce) Sportive | Roubaix, Nord, 73 Rue Du Caire
+    * S2-238399610 [France]: CLUBS SAS & ASSOCIÉS | 73 RUE DU FRESNOY, ROUBAIX, Hauts-de-France
+
+[France #03] S1-178280187
+  Source 1 : Bordeaux Amicale SARL | 237 Rue de Pessac, Bordeaux, Nouvelle-Aquitaine
+  Matches (5):
+    * S2-603325088 [France]: Bordeaux Amicale SARL | 237 RUE DE PESSAC, BORDEAUX
+    * S2-299379724 [France]: Bordeaux Amicale | 237 RUE DE PESSAC, BORDEAUX
+    * S3-74685387 [France]: Bordeaux Amicale | #237 R De Pessac, Bordeaux
+    * S3-221665185 [France]: Bordeaux Amicale | #237 R. De Pessac, Bordeaux
+    * S3-817956013 [France]: BORDEAUX JEUNES SARL | #237 Rue De Pessac, Bordeaux
+
+[France #04] S1-289156879
+  Source 1 : Clinique Martin | 253 Rue de Gand, Tourcoing, Hauts-de-France
+  Matches (5):
+    * S3-784542287 [France]: Clinique Martin-SCI | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    * S3-314950338 [France]: cliniquemartin.com | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    * S3-488676615 [France]: Clinique (Martin) | 253 R. De Gand, Tourcoing, Hauts-de-France
+    * S3-247671983 [France]: Clinique Mflran | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    * S2-727785941 [France]: Clinique Martin SNC | # 56 R. DE BAPAUME, TOURCOING, Hauts-de-France
+
+[France #05] S1-669509415
+  Source 1 : Cave Compagnie SARL | 26 Rue Albert Sauvage, Dunkerque, Hauts-de-France
+  Matches (5):
+    * S3-523076270 [France]: Cave Çompagnie SARL | 26 Rue Albert Sauvage, Dunkerque
+    * S3-19009980 [France]: Cave  Compagnie SARL | 26 Rue Albert Sauvage, Dunkerque
+    * S2-953718748 [France]: CAVE-COMPAGNIE SARL | N° 26 RUE ALBERT SAUVAGE, DUNKERQUE, Nord
+    * S3-855957847 [France]: cavecompagniesarl.com | 26 Rue Albert Sauvage, Dunkerque
+    * S2-995223837 [France]: CAVE  COMPAGNIE | N° 26 RUE ALBRET SAUVAGE, DUNKERQUE, Nord
+
+[France #06] S1-951110487
+  Source 1 : Association du Poissy | 8 Rue des Pommiers, Pornic, Pays de la Loire
+  Matches (2):
+    * S3-123465489 [France]: Association du Poissy Et Fils | 8 Rue Des Pommiers, Pornic, Pays de la Loire
+    * S2-396526082 [France]: Association du Pôissy | R. DES POMMIERS, PORNIC
+
+[France #07] S1-575780918
+  Source 1 : Msp Ecole SAS | 9 Rue du Marché, Saint-Nazaire, Pays de la Loire
+  Matches (5):
+    * S3-43099804 [France]: Msp Ecole SAS | #9 R Du Marche, Saint-nazaire, Pays de la Loire
+    * S3-428786570 [France]: Msp  Ecole SAS | #9 R Du Marche, Saint-nazaire, Pays de la Loire
+    * S3-839986628 [France]: Msp Ecole S.A.S | St.-nazaire, #9 Rue Du Marcéh, Pays de la Loire
+    * S2-427849267 [France]: MSP ÉCOLE SAS | 9 RUE DU MARCHE, ST.-NAZAIRE
+    * S2-225690231 [France]: Msp Ecole S.A.S. | 9 RUE DU MARCHÉ, SAINT-NAZAIRE
+
+[France #08] S1-719240142
+  Source 1 : Airsoft & Frères | Hauts-de-France, Lille, 17 Rue des Sarrazins
+  Matches (3):
+    * S3-485583102 [France]: Airsoft & Frères SARL | 17 Rue Dupuytren, 59800, Lille, Hauts-de-France
+    * S3-578962390 [France]: AIRSOFT & FRÈRES SARL | 17 Rue Dupuytren, 59800, Lille, Hauts-de-France
+    * S3-79215023 [France]: Airsoft & Frères Sàrl | 17 Rue Duruytren, 59800, Lille, Hauts-de-France
+
+[France #09] S1-343124872
+  Source 1 : Chapelle Sportive SARL | 23 Rue de Miséricorde, Nantes, Pays de la Loire
+  Matches (2):
+    * S2-112179821 [France]: Chapelle Sportive SARL | 23 RUE DE MISÉRICORDE, NANTES
+    * S3-945653112 [France]: Chapelle Sportive | Nº 23 Rue De Miséricrode, Nantes
+
+[France #10] S1-823414681
+  Source 1 : Lille Comite SAS | 19 Rue de Wazemmes, Lille, Hauts-de-France
+  Matches (1):
+    * S2-579369518 [France]: Lille Comite | NO 19 R. DE WAZEMMES, LILLE, Hauts-de-France
+
+==================== COUNTRY: US ====================
+
+[US #01] S1-790393140
+  Source 1 : Macdonald Investments Inc | 725 Pine Street, Fl 3rd, Village Of West Baraboo, WI
+  Matches (4):
+    * S2-179544640 [US]: Macdonald-Invcestemnts Inc | 725 PINE STREET, BARABOO, WI
+    * S3-56940329 [US]: Macdonald Investments Group | Wisconsin, Baraboo, Fl 3rd, 738 Pine Street
+    * S2-655307754 [US]: Macdonald Inc Center | 725 PINE ST, VILLAGE OF WEST BARABOO, WI
+    * S2-493531946 [US]: Pyracira | 725 PINE ST, VILLAGE OF WEST BARABOO, WI
+
+[US #02] S1-582037391
+  Source 1 : Tharp, Sibert & Smith Futurecorp | Memphis, 3365 Winchester Place, TN
+  Matches (5):
+    * S3-894189232 [US]: Quozeph fka Tharp, Sibert & Smith Futurecorp | 3365 Winchester Place, Memphis, TN
+    * S3-543217081 [US]: Tharp, Sibert + Smth [Futurecorp] | 3365 Winchester Pl, Memphis, Tennessee
+    * S2-895756543 [US]: Tharp, Sibert & Smith Futurecorp Partners | 3378-3380 WINCHESTER PL, MEMPHIS, TN
+    * S2-62606901 [US]: THARP, SIBERT-+ SMITH FUTURECORP | 003365 WINCHESTER PL, TN, MEMPHIS
+    * S2-30537437 [US]: TSSF | 003365 WINCHESTER PLACE, MEMPHIS, TN
+
+[US #03] S1-456464421
+  Source 1 : Jarvis and Lott L.L.C. | OH, Dayton, 1828 Fauver Avenue
+  Matches (6):
+    * S2-524765030 [US]: Jarvis and L.L.C. Lott | OH, DAYTON, 1828 FAUVER AVE
+    * S3-11699378 [US]: Jarvis And L0tt L.L.C. | 1828 Fauver Ave, Dayton, Ohio
+    * S3-978522917 [US]: Jarvis and Lott (L.L.C.) | 1828 Fauver Ave, Dayton, Ohio
+    * S2-191392100 [US]: @járvislott | 1828 FAUVER AVE, DAYTON, OH
+    * S3-342962203 [US]: Jarvis and Lott Group | 1831 Fauver Ave, Dayton, Ohio
+    * S2-654507149 [US]: JARVIS & LOTT LTD SERVICE | 1831 FAUVER AVE, DAYTON, OH
+
+[US #04] S1-882979695
+  Source 1 : Tory Jackson Growth, Inc | 204 Kingspoint Drive, Sherman, IL
+  Matches (6):
+    * S3-131193925 [US]: Tory Jackson  Growth, Inc | 00204 Kingspoint Drive, Sherman, Illinois
+    * S3-832977812 [US]: TORY JACKSON GROWTH, INC | 00204 Kingspoint Dr, Sherman, Illinois
+    * S3-799860801 [US]: TORY JACKSON GROWTH, INC | 00204 Kingspoint Dr, Sherman, Illinois
+    * S2-644139866 [US]: Tory Jackson Growth, | KINGSPOINT DRIVE, SHERMAN, IL
+    * S3-581113748 [US]: Tory Jacekcsron Growth, Inc | 00204 Kingspoint Drive, Sherman, Illinois
+    * S3-626597891 [US]: Tory  Jackson Fitness, | 09 Kingspoint Dr, Sherman, Illinois
+
+[US #05] S1-731475852
+  Source 1 : Telecom | 1322 Broadway, Unit Apartment 1, Buffalo, NY
+  Matches (4):
+    * S2-406662278 [US]: Telecom | 001322 BROADWAY, BUFFALO, NY
+    * S2-899393485 [US]: Telecom | 001322 BROADWAY, BUFFALO, NY
+    * S2-418967741 [US]: Telecom  Corp | 1343 BROADWAY, BUFFALO, NY
+    * S3-326195525 [US]: Telecom  Co | 1343 Broadway, PO Box 1074, Buffalo, New York
+
+[US #06] S1-10941471
+  Source 1 : Taleify Foods LLC | 3530 Grant Avenue, Groves, TX
+  Matches (1):
+    * S3-314951797 [US]: Taleify Food [Holdings] | 03533 Grant Ave, Groves CTY, Texas
+
+[US #07] S1-14026184
+  Source 1 : Olson Circle | 982 Electric Avenue, Bigfork, MT
+  Matches (3):
+    * S2-509263924 [US]: Olson Circle | BIGFORK, 982-A ELECTRIC AVE, MT
+    * S3-647310588 [US]: Martin | 982 Electric Avenue, Bigfork, MT
+    * S2-781324654 [US]: Thetford Vaneck [LLC] (ID: 84788) | BIGFORK, MT, 982-A ELECTRIC AVENUE
+
+[US #08] S1-631040497
+  Source 1 : Neex Inc. | 1929 Robertson Avenue, Albuquerque, NM
+  Matches (4):
+    * S2-914563342 [US]: Neex Inc. | #1929 ROBERTSON AVE, ALBUQUERQUE, NM
+    * S2-690639484 [US]: Neex | #1929 ROBERTSON AVE, ALBUQUERQUE, NM
+    * S2-790133902 [US]: inc. neex | #1929 ROBERTSON AVENUE, SOUTH VALLEY, NM
+    * S2-684595316 [US]: Neex LLC Services | 1930 ROBERTSON AVE, ALBUQUERQUE, NM
+
+[US #09] S1-500077167
+  Source 1 : Reliable Ace Iheartmedia | 452 Isleta Boulevard, Albuquerque, NM
+  Matches (5):
+    * S2-628535302 [US]: RELIABLE ACE IHEARTMEDIA  INC | 52 ISLETA BLVD, SOUTH VALLEY, NM
+    * S2-859719051 [US]: Reliable Áce Iheartmedia Midtown Ltd | 459 Isleta Blvd, SOUTH VALLEY, NM
+    * S2-487351029 [US]: Reliable Ace Iheartmedia LP | 52 ISLETA BLVD, SOUTH VALLEY, NM
+    * S3-482881480 [US]: Reliable Ace Iheartmedia Co | 0459 Isleta Blvd, South Valley, New Mexico
+    * S3-19861133 [US]: @reliableace | 452 Isleta Boulevard, N/A, South Valley, New Mexico
+
+[US #10] S1-415762871
+  Source 1 : Warfield Heritage Cambridge LLC | 526 California Street, Waterloo, IA
+  Matches (4):
+    * S2-4461208 [US]: Warfield Heritage-Cambridge LLC | 526 CALIFORNIA STREET, WATERLOOO, IA
+    * S3-641109959 [US]: Warfield Heritage-LLC Cambridge | 526 California Street, Waterloo, Iowa
+    * S2-527973810 [US]: Warfield Heritage Cambridge Corp. | www.warfieldh.com | 533 CALIFORNIA ST, WATERLOO, IA
+    * S2-424509980 [US]: Warfield Studios LLC Services | 533 CALIFORNIA STREET, WATERLOO, IA
+
+==================== COUNTRY: INDIA ====================
+
+[India #01] S1-737353004
+  Source 1 : Magnate Pharmaceutical Pvt Ltd | South Delhi, New Delhi, B-65/1 Manoj Bhawangautam Nagar, Delhi
+  Matches (2):
+    * S2-722705463 [India]: Magnate Pharmaceticil Pvt Ltd | B-65/1 MANOJ BHAWANGAUTAM NAGAR, NEW DELHI, Delhi
+    * S3-291379674 [India]: Magnate Pharmaceutical Overseas Pvt Limited | B-65/4 Manoj Bhawanguatam Nagar, New Delhi, South Delhi, DL
+
+[India #02] S1-682119725
+  Source 1 : Marketing Utkarsh Designer Private Limited | Unit No Floor 2308 Plan S, Plot D 108/1 Shiravane, Thane, Maharashtra
+  Matches (6):
+    * S2-919112320 [India]: Marketing Utkarsh Designer Private  Ltd | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, Maharashtra
+    * S2-969279178 [India]: Marketing Utkarsh Designer Private Ltd | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, Maharashtra
+    * S2-333344460 [India]: Marketing Marketing Utkarsh Designer Private Limited | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, महाराष्ट्र
+    * S2-260104745 [India]: Limited Marketing Utkarsh Private Center | Maharashtra, THANE, UNIT NO FLOOR 2308 PLAN S
+    * S2-128034172 [India]: Marketing Utkarsh Private Designer Limited | UNIT NO FLOOR 2308 PLAN S, PLTO D 108/1 SHIRAVANE, THANE, Maharashtra
+    * S3-383146970 [India]: Marketing  Utkarsh Designer Private | Unit No Floor 2308 Plan S, Thane, Kamothe, महाराष्ट्र
+
+[India #03] S1-261275647
+  Source 1 : Unique It Pvt Ltd | C/O-Dig Vijay Singh, Nh-922, Churamanpur, Buxar, Bihar
+  Matches (1):
+    * S2-340505455 [India]: Unique Ít Pvt Ltd. | C/O-DIG VIJAY SINGH, NH-922, CHURAMANPUR, BUXAR, बिहार
+
+[India #04] S1-156393693
+  Source 1 : FST Vincom LLP | 311, A. R. House, Rsc-48, Near Pragat College, Gorai, Borivali - West, Mumbai, Maharashtra
+  Matches (1):
+    * S3-994331265 [India]: FST Vincom Group LLP | 332, Borivali - West, Mumbai, A. R. House, Rsc-48, Near Pragat College, Gorai, महाराष्ट्र
+
+[India #05] S1-985153373
+  Source 1 : City Ventures Private Limited | Shop No. 202, D. C. Bhawan, East Ram Krishna Nagar, Sampatchak, Patna, Bihar
+  Matches (2):
+    * S3-237201759 [India]: Limited City Ventures Center | Shop No. 202, D. C. Bhawan, East Ram Krishna Nagar, Patna, Sampatchak, बिहार
+    * S3-809158145 [India]: Private City Ventures (Limited) | Shop No. 202, Patna, BR, Sampatchak
+
+[India #06] S1-590745612
+  Source 1 : AVS Credit Ltd | 101, Manbhavan Nagar Kanadia Road, Indore, Madhya Pradesh
+  Matches (4):
+    * S2-474167187 [India]: AVS Credit [Ltd] | मध्य प्रदेश, 101, MANBHAVAN NAGAR KANADIA ROAD
+    * S3-681406622 [India]: (Ltd.) AVS Credit | 0101, Manbhavan Nagar Kanadia Road, Indore, मध्य प्रदेश
+    * S3-623758033 [India]: AVS Credit Pvt Ltd | 108, Manbhavan Nagar Kanadia Road, Indore, MP
+    * S3-753124922 [India]: Avs Credit Exports Ltd | 108, Manbhavan Nagar Kanadia Road, Indore, MP
+
+[India #07] S1-748612866
+  Source 1 : Lotus Industries Limited | Flat No. 205, Coronation Appartment 28, Park Road, Lucknow, Uttar Pradesh
+  Matches (2):
+    * S2-210562759 [India]: [Limited] Lotus Industries | FLAT NO. 205, LUCKNOW, PARK ROAD, Uttar Pradesh
+    * S3-163518759 [India]: Nexvantage née Lotus Industries Limited | Flat No. 205, Coronation Appartment 28, Park Road, Lucknow, Uttar Pradesh
+
+[India #08] S1-423593977
+  Source 1 : Better Engineering Associates | Haryana, Sonipat, C/O Sudesh Kalupur West, Ramnagar Suri Pet. Pump
+  Matches (5):
+    * S2-515898636 [India]: Better Engineering [Associates] | C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    * S2-33489195 [India]: BETTER ENGINEERING ASSOCATES LIMITED | #41 C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    * S2-670451748 [India]: Better Engineering Associates Public Limited | Haryana, 41 C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT
+    * S2-366595338 [India]: Better Engineering | C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    * S3-962397731 [India]: Better Engineering Associates Ltd | C/o Sudesh Kalupur West, Mumbai, HR
+
+[India #09] S1-457944356
+  Source 1 : Great Business Pvt Ltd | 30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi
+  Matches (4):
+    * S3-566347495 [India]: Great Búsiness Pvt Ltd | A-30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi, DL
+    * S2-657610494 [India]: GREAT BUSINESS PVT LTD | 30/954, 3RD FLOOR, GALI NO. 30 DDA FLATS MADANGIR, NEW DELHI, Delhi
+    * S3-612794741 [India]: Great Business Pvt | A-30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi, DL
+    * S2-597871642 [India]: PVT GREAT ENTERPRISES BUSINESS LTD | 30/963, 3RD FLOOR, GALI NO. 30 DDA FLATS MADANGIR, NEW DELHI, Delhi
+
+[India #10] S1-159606293
+  Source 1 : Modern Services Private Limited | Rz-1/91, G/F, Gali No. 2, East Sagar Pur, Near Subji Mandi, Delhi, South West Delhi, Delhi
+  Matches (3):
+    * S3-529993306 [India]: Prívate Modern Services Limited | Rz-#1/91, G/f, Gali No. 2, East Sagar Pur, Near Subji Mandi, South West Delhi, New Delhi, DL
+    * S2-781859740 [India]: मॉडर्न सर्विसेज प्राइवेट लिमिटेड | RZ-1/91, G/F, GALI NO. 2, EAST SAGAR PUR, NEAR SUBJI MANDI, DELHI, SOUTH WEST DELHI, Delhi
+    * S2-205014742 [India]: मॉडर्न सर्विसेज प्राइवेट लिमिटेड | RZ-1/91, G/F, GALI NO. 2, EAST SAGAR PUR, NEAR SUBJI MANDI, DELHI, SOUTH WEST DELHI, Delhi

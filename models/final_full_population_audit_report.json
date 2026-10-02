@@ -1,0 +1,77 @@
+{
+  "France": {
+    "country": "France",
+    "total_pairs": 1111761,
+    "flagged_pairs": 135127,
+    "clean_pairs": 976634,
+    "flagged_pct": 0.12154320937683549,
+    "mode1_colocation": 124419,
+    "mode2_suffix_inflation": 16781,
+    "mode3_franchise": 20,
+    "mode4_street_mismatch": 31,
+    "mode5_low_mutual": 2459,
+    "pop_prec_strict": 0.9027654324985316,
+    "pop_prec_conserv": 0.6544503090142575,
+    "sample_prec_strict": 0.85,
+    "sample_prec_conserv": 0.7,
+    "ci_strict": [
+      0.7388517410884038,
+      0.9190265075770431
+    ],
+    "ci_conserv": [
+      0.5749105303360957,
+      0.801019897472731
+    ],
+    "concordance": true
+  },
+  "US": {
+    "country": "US",
+    "total_pairs": 2971766,
+    "flagged_pairs": 339569,
+    "clean_pairs": 2632197,
+    "flagged_pct": 0.1142650531704044,
+    "mode1_colocation": 265509,
+    "mode2_suffix_inflation": 2307,
+    "mode3_franchise": 37828,
+    "mode4_street_mismatch": 2562,
+    "mode5_low_mutual": 1093,
+    "pop_prec_strict": 0.897161452146636,
+    "pop_prec_conserv": 0.8617320542734522,
+    "sample_prec_strict": 0.8833333333333333,
+    "sample_prec_conserv": 0.8333333333333334,
+    "ci_strict": [
+      0.7782097940014187,
+      0.9423235259654995
+    ],
+    "ci_conserv": [
+      0.7196814850279217,
+      0.9068692279867897
+    ],
+    "concordance": true
+  },
+  "India": {
+    "country": "India",
+    "total_pairs": 2776364,
+    "flagged_pairs": 529319,
+    "clean_pairs": 2247045,
+    "flagged_pct": 0.19065187417788157,
+    "mode1_colocation": 415246,
+    "mode2_suffix_inflation": 5436,
+    "mode3_franchise": 30892,
+    "mode4_street_mismatch": 256,
+    "mode5_low_mutual": 10819,
+    "pop_prec_strict": 0.8516728418896081,
+    "pop_prec_conserv": 0.6167232718764543,
+    "sample_prec_strict": 0.85,
+    "sample_prec_conserv": 0.6833333333333333,
+    "ci_strict": [
+      0.7388517410884038,
+      0.9190265075770431
+    ],
+    "ci_conserv": [
+      0.5576599505698345,
+      0.7869429415882567
+    ],
+    "concordance": true
+  }
+}

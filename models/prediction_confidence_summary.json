@@ -1,0 +1,78 @@
+{
+  "output_file": "output/prediction_confidence.tsv",
+  "rows": 1732544,
+  "file_bytes": 60762156,
+  "overall_tier_counts": {
+    "High": 1469475,
+    "Medium": 182842,
+    "Low": 80227
+  },
+  "matched_tier_counts": {
+    "High": 1349638,
+    "Medium": 182842,
+    "Low": 80227
+  },
+  "country_breakdown": {
+    "France": {
+      "total_entities": 259452,
+      "matched_entities": 247795,
+      "singleton_entities": 11657,
+      "all_entities_tier_pct": {
+        "High": 56.8,
+        "Medium": 24.63,
+        "Low": 18.58
+      },
+      "matched_entities_tier_counts": {
+        "High": 135701,
+        "Medium": 63892,
+        "Low": 48202
+      },
+      "matched_entities_tier_pct": {
+        "High": 54.76,
+        "Medium": 25.78,
+        "Low": 19.45
+      }
+    },
+    "US": {
+      "total_entities": 663106,
+      "matched_entities": 648013,
+      "singleton_entities": 15093,
+      "all_entities_tier_pct": {
+        "High": 89.64,
+        "Medium": 8.27,
+        "Low": 2.09
+      },
+      "matched_entities_tier_counts": {
+        "High": 579306,
+        "Medium": 54830,
+        "Low": 13877
+      },
+      "matched_entities_tier_pct": {
+        "High": 89.4,
+        "Medium": 8.46,
+        "Low": 2.14
+      }
+    },
+    "India": {
+      "total_entities": 809986,
+      "matched_entities": 716899,
+      "singleton_entities": 93087,
+      "all_entities_tier_pct": {
+        "High": 89.84,
+        "Medium": 7.92,
+        "Low": 2.24
+      },
+      "matched_entities_tier_counts": {
+        "High": 634631,
+        "Medium": 64120,
+        "Low": 18148
+      },
+      "matched_entities_tier_pct": {
+        "High": 88.52,
+        "Medium": 8.94,
+        "Low": 2.53
+      }
+    }
+  },
+  "execution_time_s": 1813.5
+}

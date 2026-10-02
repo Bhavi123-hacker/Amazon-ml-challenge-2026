@@ -1,0 +1,323 @@
+{
+  "France": [
+    {
+      "country": "France",
+      "threshold": 0.5,
+      "matched_pairs": 353365,
+      "match_rate": 0.9979666666666667,
+      "singleton_rate": 0.0020333333333333314,
+      "flagged_rate": 0.5695612185700338,
+      "pop_prec_strict": 0.5443510251439729,
+      "pop_prec_conserv": 0.3206768921653248,
+      "sample_prec_strict": 0.525,
+      "sample_prec_conserv": 0.325,
+      "ci_strict": [
+        0.41695451180328746,
+        0.6307545013834838
+      ],
+      "ci_conserv": [
+        0.2324401249422747,
+        0.43359678275032654
+      ],
+      "concordance": true
+    },
+    {
+      "country": "France",
+      "threshold": 0.6,
+      "matched_pairs": 334661,
+      "match_rate": 0.9973666666666666,
+      "singleton_rate": 0.0026333333333333764,
+      "flagged_rate": 0.5534884554818159,
+      "pop_prec_strict": 0.5572092356145473,
+      "pop_prec_conserv": 0.3326511006660471,
+      "sample_prec_strict": 0.5375,
+      "sample_prec_conserv": 0.3625,
+      "ci_strict": [
+        0.4290416436680269,
+        0.6425218761121299
+      ],
+      "ci_conserv": [
+        0.26570633724259446,
+        0.47189409023016365
+      ],
+      "concordance": true
+    },
+    {
+      "country": "France",
+      "threshold": 0.7,
+      "matched_pairs": 313223,
+      "match_rate": 0.9963,
+      "singleton_rate": 0.0037000000000000366,
+      "flagged_rate": 0.5317936422293382,
+      "pop_prec_strict": 0.5745650862165295,
+      "pop_prec_conserv": 0.34881373653914305,
+      "sample_prec_strict": 0.5375,
+      "sample_prec_conserv": 0.375,
+      "ci_strict": [
+        0.4290416436680269,
+        0.6425218761121299
+      ],
+      "ci_conserv": [
+        0.2769401625800477,
+        0.484514771486096
+      ],
+      "concordance": true
+    },
+    {
+      "country": "France",
+      "threshold": 0.8,
+      "matched_pairs": 286060,
+      "match_rate": 0.9949666666666667,
+      "singleton_rate": 0.005033333333333334,
+      "flagged_rate": 0.4984968188491925,
+      "pop_prec_strict": 0.601202544920646,
+      "pop_prec_conserv": 0.37361986995735164,
+      "sample_prec_strict": 0.525,
+      "sample_prec_conserv": 0.425,
+      "ci_strict": [
+        0.41695451180328746,
+        0.6307545013834838
+      ],
+      "ci_conserv": [
+        0.32256388014807325,
+        0.534309080291613
+      ],
+      "concordance": true
+    },
+    {
+      "country": "France",
+      "threshold": 0.9,
+      "matched_pairs": 243390,
+      "match_rate": 0.9919333333333333,
+      "singleton_rate": 0.008066666666666666,
+      "flagged_rate": 0.43118862730596985,
+      "pop_prec_strict": 0.6550490981552242,
+      "pop_prec_conserv": 0.4237644726570524,
+      "sample_prec_strict": 0.6375,
+      "sample_prec_conserv": 0.45,
+      "ci_strict": [
+        0.5281059097698362,
+        0.7342936627574055
+      ],
+      "ci_conserv": [
+        0.3457751037437976,
+        0.5588068698826599
+      ],
+      "concordance": true
+    }
+  ],
+  "US": [
+    {
+      "country": "US",
+      "threshold": 0.5,
+      "matched_pairs": 145021,
+      "match_rate": 0.9797333333333333,
+      "singleton_rate": 0.020266666666666655,
+      "flagged_rate": 0.16327980085642768,
+      "pop_prec_strict": 0.853048179229215,
+      "pop_prec_conserv": 0.8195793712634722,
+      "sample_prec_strict": 0.9,
+      "sample_prec_conserv": 0.8625,
+      "ci_strict": [
+        0.8148912101660255,
+        0.9484530008223144
+      ],
+      "ci_conserv": [
+        0.7703270280036946,
+        0.9214536632044886
+      ],
+      "concordance": true
+    },
+    {
+      "country": "US",
+      "threshold": 0.6,
+      "matched_pairs": 143202,
+      "match_rate": 0.9793,
+      "singleton_rate": 0.02070000000000005,
+      "flagged_rate": 0.15598245834555383,
+      "pop_prec_strict": 0.8596157874890016,
+      "pop_prec_conserv": 0.8258550858228237,
+      "sample_prec_strict": 0.8375,
+      "sample_prec_conserv": 0.8,
+      "ci_strict": [
+        0.7415689513651669,
+        0.9025027266562451
+      ],
+      "ci_conserv": [
+        0.6995355220341885,
+        0.8729726362070666
+      ],
+      "concordance": true
+    },
+    {
+      "country": "US",
+      "threshold": 0.7,
+      "matched_pairs": 141230,
+      "match_rate": 0.9788666666666667,
+      "singleton_rate": 0.021133333333333337,
+      "flagged_rate": 0.14765276499327337,
+      "pop_prec_strict": 0.867112511506054,
+      "pop_prec_conserv": 0.8330186221057849,
+      "sample_prec_strict": 0.875,
+      "sample_prec_conserv": 0.8125,
+      "ci_strict": [
+        0.7849700281693438,
+        0.9306651696322249
+      ],
+      "ci_conserv": [
+        0.7134147429619243,
+        0.8829479218727162
+      ],
+      "concordance": true
+    },
+    {
+      "country": "US",
+      "threshold": 0.8,
+      "matched_pairs": 138784,
+      "match_rate": 0.9784,
+      "singleton_rate": 0.021599999999999953,
+      "flagged_rate": 0.13659355545307816,
+      "pop_prec_strict": 0.8770658000922297,
+      "pop_prec_conserv": 0.8425295423103527,
+      "sample_prec_strict": 0.95,
+      "sample_prec_conserv": 0.9125,
+      "ci_strict": [
+        0.878375474489178,
+        0.9803867628727044
+      ],
+      "ci_conserv": [
+        0.8302301722291654,
+        0.95696854535256
+      ],
+      "concordance": true
+    },
+    {
+      "country": "US",
+      "threshold": 0.9,
+      "matched_pairs": 134556,
+      "match_rate": 0.9777666666666667,
+      "singleton_rate": 0.022233333333333327,
+      "flagged_rate": 0.1162118374505782,
+      "pop_prec_strict": 0.8954093462944797,
+      "pop_prec_conserv": 0.8600578197925027,
+      "sample_prec_strict": 0.925,
+      "sample_prec_conserv": 0.85,
+      "ci_strict": [
+        0.8458779990261992,
+        0.9651752251489122
+      ],
+      "ci_conserv": [
+        0.7558657249889396,
+        0.9120604596258579
+      ],
+      "concordance": true
+    }
+  ],
+  "India": [
+    {
+      "country": "India",
+      "threshold": 0.5,
+      "matched_pairs": 120051,
+      "match_rate": 0.9152,
+      "singleton_rate": 0.08479999999999999,
+      "flagged_rate": 0.27446668499221166,
+      "pop_prec_strict": 0.7864649190760593,
+      "pop_prec_conserv": 0.5528563860359347,
+      "sample_prec_strict": 0.775,
+      "sample_prec_conserv": 0.625,
+      "ci_strict": [
+        0.6721300467523076,
+        0.8526690983021762
+      ],
+      "ci_conserv": [
+        0.515485228513904,
+        0.7230598374199522
+      ],
+      "concordance": true
+    },
+    {
+      "country": "India",
+      "threshold": 0.6,
+      "matched_pairs": 116211,
+      "match_rate": 0.9100666666666667,
+      "singleton_rate": 0.08993333333333331,
+      "flagged_rate": 0.2576090043111237,
+      "pop_prec_strict": 0.7995801946459458,
+      "pop_prec_conserv": 0.5657019387149238,
+      "sample_prec_strict": 0.7875,
+      "sample_prec_conserv": 0.625,
+      "ci_strict": [
+        0.6857763938182242,
+        0.8628772578296451
+      ],
+      "ci_conserv": [
+        0.515485228513904,
+        0.7230598374199522
+      ],
+      "concordance": true
+    },
+    {
+      "country": "India",
+      "threshold": 0.7,
+      "matched_pairs": 112435,
+      "match_rate": 0.9043333333333333,
+      "singleton_rate": 0.09566666666666668,
+      "flagged_rate": 0.24023658113576732,
+      "pop_prec_strict": 0.8130959398763731,
+      "pop_prec_conserv": 0.5789397251745453,
+      "sample_prec_strict": 0.7375,
+      "sample_prec_conserv": 0.525,
+      "ci_strict": [
+        0.6318083375343555,
+        0.8214272877399715
+      ],
+      "ci_conserv": [
+        0.41695451180328746,
+        0.6307545013834838
+      ],
+      "concordance": true
+    },
+    {
+      "country": "India",
+      "threshold": 0.8,
+      "matched_pairs": 108121,
+      "match_rate": 0.8970666666666667,
+      "singleton_rate": 0.10293333333333332,
+      "flagged_rate": 0.21917111384467403,
+      "pop_prec_strict": 0.8294848734288436,
+      "pop_prec_conserv": 0.5949916112503584,
+      "sample_prec_strict": 0.75,
+      "sample_prec_conserv": 0.625,
+      "ci_strict": [
+        0.6451511899886556,
+        0.8319389418790569
+      ],
+      "ci_conserv": [
+        0.515485228513904,
+        0.7230598374199522
+      ],
+      "concordance": true
+    },
+    {
+      "country": "India",
+      "threshold": 0.9,
+      "matched_pairs": 102191,
+      "match_rate": 0.8873666666666666,
+      "singleton_rate": 0.11263333333333336,
+      "flagged_rate": 0.18914581518920454,
+      "pop_prec_strict": 0.8528445557827988,
+      "pop_prec_conserv": 0.6178708888258262,
+      "sample_prec_strict": 0.8625,
+      "sample_prec_conserv": 0.6625,
+      "ci_strict": [
+        0.7703270280036946,
+        0.9214536632044886
+      ],
+      "ci_conserv": [
+        0.5535631838362329,
+        0.7565454018777802
+      ],
+      "concordance": true
+    }
+  ]
+}

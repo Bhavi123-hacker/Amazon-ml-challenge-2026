@@ -1,0 +1,602 @@
+[
+  {
+    "s1_id": "S1-335972376",
+    "cand_id": "S3-936190262",
+    "rank": 4,
+    "prob": 0.9999755013669747,
+    "s1_name": "Quine & Fr\u00e8res EURL",
+    "s1_addr": "107 Rue de l\u2019H\u00f4tel de Ville, Dunkerque, Hauts-de-France",
+    "cand_name": "Quine Fr\u00e8res  EURL Et Fils",
+    "cand_addr": "107 R. De L\u2019hotel De Ville, Dunkerque, Nord"
+  },
+  {
+    "s1_id": "S1-129174111",
+    "cand_id": "S3-332129490",
+    "rank": 1,
+    "prob": 0.9999920363150718,
+    "s1_name": "\u00c9tablissements Memphis SAS",
+    "s1_addr": "89 Rue des Villas, Tourcoing, Hauts-de-France",
+    "cand_name": "\u00c9tablissements Memphis SAS",
+    "cand_addr": "N\u00ba 89 R. Des Villas, Tourcoing"
+  },
+  {
+    "s1_id": "S1-531742252",
+    "cand_id": "S2-59898971",
+    "rank": 4,
+    "prob": 0.999986779193872,
+    "s1_name": "ARS Comite EURL",
+    "s1_addr": "8 All\u00e9e de Vampeule, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "ARS Comite",
+    "cand_addr": "Gironde, BORDEAUX, 8 ALL\u00c9E DE VAMPEULE"
+  },
+  {
+    "s1_id": "S1-110919689",
+    "cand_id": "S3-943332867",
+    "rank": 0,
+    "prob": 0.9999935563520367,
+    "s1_name": "EHPAD de la Henri",
+    "s1_addr": "2 Rue Charles Housset, Nantes, Pays de la Loire",
+    "cand_name": "EHPAD de la Henri",
+    "cand_addr": "2 Rue Charles Housset, Nantes, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-587213403",
+    "cand_id": "S2-302380669",
+    "rank": 19,
+    "prob": 0.9984727488420709,
+    "s1_name": "Bordeaux Residence EURL",
+    "s1_addr": "5 Passage Nungesser, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "BORDEAUX  CLUB FRANCE S.A.S.",
+    "cand_addr": "5 PL. DU PMADEAU, BORDEAUX, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-425462989",
+    "cand_id": "S3-362070849",
+    "rank": 0,
+    "prob": 0.9999956130409053,
+    "s1_name": "Deducation & Fils SASU",
+    "s1_addr": "86 Rue Ferdinand Mathias, Lille, Hauts-de-France",
+    "cand_name": "Deducation & Fils SASU",
+    "cand_addr": "86 - Rue Ferdinand Mathisa, Lille, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-128196684",
+    "cand_id": "S2-921147220",
+    "rank": 0,
+    "prob": 0.9999930342027733,
+    "s1_name": "Nantes Sport SCI",
+    "s1_addr": "31 MAIL Pablo Picasso, Appartement 62, Nantes, Pays de la Loire",
+    "cand_name": "Nantes Sport S.C.I.",
+    "cand_addr": "31 MAIL PABLO PICASSO, APPARTEMENT 62, NANTES, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-483867613",
+    "cand_id": "S3-504519819",
+    "rank": 3,
+    "prob": 0.9999943566063785,
+    "s1_name": "Lille Federation",
+    "s1_addr": "41 RUE dAmiens, Hauts-de-France, Lille",
+    "cand_name": "Lille Feedratoin",
+    "cand_addr": "N\u00b0 41 Rue Damiens, Lille, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-950693968",
+    "cand_id": "S3-320311634",
+    "rank": 0,
+    "prob": 0.9999945238583149,
+    "s1_name": "Jardins & Fr\u00e8res SA",
+    "s1_addr": "3 Rue Cl\u00e9menceau, Dunkerque, Hauts-de-France",
+    "cand_name": "Jardins & Fr\u00e8res",
+    "cand_addr": "3 Rue Cl\u00e9menceau, Dunkerque, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-846463179",
+    "cand_id": "S3-752840890",
+    "rank": 5,
+    "prob": 0.9999934820718562,
+    "s1_name": "Montpezat (France) Amis SARL",
+    "s1_addr": "Nouvelle-Aquitaine, La Teste-de-Buch, 5 Avenue du G\u00e9n\u00e9ral de Gaulle",
+    "cand_name": "Montpezat (France) Amis SARL",
+    "cand_addr": "La Teste-de-buch, Gironde, 5 Avenue Du G\u00e9n\u00e9ral De Gaulle"
+  },
+  {
+    "s1_id": "S1-603177578",
+    "cand_id": "S2-670219855",
+    "rank": 2,
+    "prob": 0.9999857353487558,
+    "s1_name": "Saint-Nazaire Club",
+    "s1_addr": "10 Chemin d'Avalix, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "Saint-Nazaire \u00c7lub",
+    "cand_addr": "SAINT-NAZAIRE, # 10 CH D'AVALIX"
+  },
+  {
+    "s1_id": "S1-53367459",
+    "cand_id": "S2-455582053",
+    "rank": 14,
+    "prob": 0.9989443350275874,
+    "s1_name": "Lart Societe SARL",
+    "s1_addr": "44 Rue Alfred Delcluze, Calais, Hauts-de-France",
+    "cand_name": "LYA Societe",
+    "cand_addr": "44 RUE ANTOINE LELEU, CALAIS, Pas-de-Calais"
+  },
+  {
+    "s1_id": "S1-21883745",
+    "cand_id": "S2-700293362",
+    "rank": 3,
+    "prob": 0.9999885479764282,
+    "s1_name": "Union de Pablo",
+    "s1_addr": "18 Rue du Capitaine Michel, Lille, Hauts-de-France",
+    "cand_name": "UNION DE PABLO",
+    "cand_addr": "18 R DU CAPITAINE MICHEL, LILLE, Nord"
+  },
+  {
+    "s1_id": "S1-882431113",
+    "cand_id": "S2-365010528",
+    "rank": 0,
+    "prob": 0.9999906592641976,
+    "s1_name": "Fleur Anciens (France) EURL",
+    "s1_addr": "28 Rue Gabriel Faur\u00e9, Nantes, Pays de la Loire",
+    "cand_name": "Fleur Anciens (France) EURL",
+    "cand_addr": "28 RUE GABRIEL FAUR\u00c9, NANTES, Loire-Atlantique"
+  },
+  {
+    "s1_id": "S1-537041060",
+    "cand_id": "S2-421183758",
+    "rank": 3,
+    "prob": 0.999991861932218,
+    "s1_name": "Gomes & Fr\u00e8res SASU",
+    "s1_addr": "295 Rue Duguay Trouin, Calais, Hauts-de-France",
+    "cand_name": "Gomes + Fr\u00e8res SASU",
+    "cand_addr": "295 RUE DUGUAY TROUIN, CALAIS, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-877463362",
+    "cand_id": "S2-96028482",
+    "rank": 23,
+    "prob": 0.9982435695801463,
+    "s1_name": "Mer Club SARL",
+    "s1_addr": "3 Les Hauti\u00e8res, Pays de la Loire, Pornic",
+    "cand_name": "mclub.com",
+    "cand_addr": "N\u00ba 3 LES HAUTI\u00c8RES, Pornic"
+  },
+  {
+    "s1_id": "S1-358992098",
+    "cand_id": "S2-170984300",
+    "rank": 1,
+    "prob": 0.9992905638430414,
+    "s1_name": "Lille Centre SCI",
+    "s1_addr": "82 Rue Pierre Legrand, Hauts-de-France, Lille",
+    "cand_name": "Lille \u00c7entre SARL",
+    "cand_addr": "RUE VIOLETTE, LILLE, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-956867543",
+    "cand_id": "S2-269467114",
+    "rank": 0,
+    "prob": 0.9999880877880489,
+    "s1_name": "Maison Festival",
+    "s1_addr": "4 All\u00e9e de l'Enclos, Pessac, Nouvelle-Aquitaine",
+    "cand_name": "Maison F\u00e8stival",
+    "cand_addr": "4 ALL. DE L'ENCLOS, PESSAC"
+  },
+  {
+    "s1_id": "S1-158112453",
+    "cand_id": "S3-797171373",
+    "rank": 8,
+    "prob": 0.9999456606051436,
+    "s1_name": "Equivox Club SAS",
+    "s1_addr": "18 Rue Testaud, Pessac, Nouvelle-Aquitaine",
+    "cand_name": "equivoxclubsas.com",
+    "cand_addr": "N\u00ba 18 Rue Testaud, Pessac, Gironde"
+  },
+  {
+    "s1_id": "S1-990121956",
+    "cand_id": "S3-651651448",
+    "rank": 2,
+    "prob": 0.9999944083048113,
+    "s1_name": "Art Gestion SARL",
+    "s1_addr": "4 Avenue du Rocher d'Enfer, Nantes, Pays de la Loire",
+    "cand_name": "Art Gestion SARL",
+    "cand_addr": "Nantes, 4 Av Du Rocher D'enfer"
+  },
+  {
+    "s1_id": "S1-27526152",
+    "cand_id": "S2-304462948",
+    "rank": 1,
+    "prob": 0.9999914250865313,
+    "s1_name": "LCD Club SARL",
+    "s1_addr": "10 Rue Pierre de Laplace, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "LCD CLUB SARL",
+    "cand_addr": "10 RUE PIERRE DE LAPLACE, SAINT-NAZAIRE, Loire-Atlantique"
+  },
+  {
+    "s1_id": "S1-597037856",
+    "cand_id": "S2-453879625",
+    "rank": 1,
+    "prob": 0.9999858746675653,
+    "s1_name": "RD Centre SARL",
+    "s1_addr": "6 Impasse des Coudriers, Dunkerque, Hauts-de-France",
+    "cand_name": "RD Centre",
+    "cand_addr": "6 IMP. DES COUDRIERS, DUNKERQUE"
+  },
+  {
+    "s1_id": "S1-753374443",
+    "cand_id": "S3-869597442",
+    "rank": 0,
+    "prob": 0.9999918609927113,
+    "s1_name": "Mobilites Club",
+    "s1_addr": "131 Rue de Bouvines, Tourcoing, Hauts-de-France",
+    "cand_name": "Mobilites Club",
+    "cand_addr": "131 Rue De Bouvines, Tourcoing"
+  },
+  {
+    "s1_id": "S1-289444257",
+    "cand_id": "S2-150469550",
+    "rank": 14,
+    "prob": 0.9997067797625507,
+    "s1_name": "Saint-Nazaire Club SAS",
+    "s1_addr": "14 Boulevard de la Fraternit\u00e9, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "Saint-Nazaire Groupe",
+    "cand_addr": "14 CHEMIN DU RELAIS, SAINT-NAZAIRE, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-561696520",
+    "cand_id": "S2-499646349",
+    "rank": 0,
+    "prob": 0.9999554133039461,
+    "s1_name": "Sapeurs Centre",
+    "s1_addr": "37 Rue Fulton, Calais, Hauts-de-France",
+    "cand_name": "Sapeurs Center",
+    "cand_addr": "37 RUE FULTAN, CALAIS, Pas-de-Calais"
+  },
+  {
+    "s1_id": "S1-248423916",
+    "cand_id": "S2-789989052",
+    "rank": 1,
+    "prob": 0.999990275101611,
+    "s1_name": "Maison Documentation SARL",
+    "s1_addr": "6 RUE Saint Domingue, Nantes, Pays de la Loire",
+    "cand_name": "MAISON-DOCUMENTATION S.A.R.L.",
+    "cand_addr": "6 RUE SAINT DOMINGUE, NANTES"
+  },
+  {
+    "s1_id": "S1-697371108",
+    "cand_id": "S2-131875042",
+    "rank": 0,
+    "prob": 0.9999947644560293,
+    "s1_name": "Ze Ecole SARL",
+    "s1_addr": "15 bis Rue Fourcroy, Calais, Hauts-de-France",
+    "cand_name": "SARL Ze Ecole",
+    "cand_addr": "15 BIS R. FOURCROY, Calais, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-645878246",
+    "cand_id": "S3-14008633",
+    "rank": 0,
+    "prob": 0.9999937124423358,
+    "s1_name": "Hainaut Sportive SARL",
+    "s1_addr": "14 Rue de Bouvines, Lille, Hauts-de-France",
+    "cand_name": "HAINAUT SPORTIVE SARL",
+    "cand_addr": "14 Rue De Bouvines, Lille"
+  },
+  {
+    "s1_id": "S1-283288829",
+    "cand_id": "S2-6732621",
+    "rank": 3,
+    "prob": 0.9999574771839562,
+    "s1_name": "Centre M\u00e9dical de la Vis",
+    "s1_addr": "28 Rue Duvergier, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "Centre M\u00e9dical Durance",
+    "cand_addr": "28 RUE BERTRAND DE GOTH, BORDEAUX, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-963324729",
+    "cand_id": "S3-390036665",
+    "rank": 3,
+    "prob": 0.9999174096032483,
+    "s1_name": "Boite (France) Soins SAS",
+    "s1_addr": "17 Allee Rive Droite du Canal, Nouvelle-Aquitaine, La Teste-de-Buch",
+    "cand_name": "Boite (France) Musique SAS",
+    "cand_addr": "24 Allee Rive Droite Du Canal, La Teste-de-buch, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-259157808",
+    "cand_id": "S3-156942979",
+    "rank": 0,
+    "prob": 0.9997147507415913,
+    "s1_name": "SY Etablissement SARL",
+    "s1_addr": "146 Rue de Saint-Gen\u00e8s, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "SY  Etablissement Holding SARL",
+    "cand_addr": "No 148 Rue De Saint-genes, Bordeaux, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-375540684",
+    "cand_id": "S2-992642482",
+    "rank": 1,
+    "prob": 0.9999910804640681,
+    "s1_name": "Etudiants Amicale SARL",
+    "s1_addr": "17 Rue Edouard Vaillant, Pessac, Nouvelle-Aquitaine",
+    "cand_name": "SARL Etudiants Amicale",
+    "cand_addr": "(17) RUE EDOUARD VAILLANT, Pessac"
+  },
+  {
+    "s1_id": "S1-501868954",
+    "cand_id": "S3-661412384",
+    "rank": 9,
+    "prob": 0.9988869831166676,
+    "s1_name": "Saint-Nazaire Musique EURL",
+    "s1_addr": "6 Place du Commerce, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "Saint-Nazaire Comite D\u00e9veloppement SA",
+    "cand_addr": "Saint-nazaire, 6 Route De Tr\u00e9bale, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-808641518",
+    "cand_id": "S3-687403483",
+    "rank": 4,
+    "prob": 0.9999907545069674,
+    "s1_name": "Elan Groupement SAS",
+    "s1_addr": "15 Avenue Jos\u00e9phine Pencalet, Nantes, Pays de la Loire",
+    "cand_name": "Elan Groupement",
+    "cand_addr": "15 - Av. Jos\u00e9phine Pencalet, Nantes, Loire-Atlantique"
+  },
+  {
+    "s1_id": "S1-732401410",
+    "cand_id": "S2-163440851",
+    "rank": 0,
+    "prob": 0.9999829186839473,
+    "s1_name": "Comit\u00e9 du Stop",
+    "s1_addr": "13 Rue Faulconnier, Dunkerque, Hauts-de-France",
+    "cand_name": "comit\u00e9 du stop",
+    "cand_addr": "13 R. FAULCONNIER, DUNKERQUE"
+  },
+  {
+    "s1_id": "S1-289123061",
+    "cand_id": "S3-714645734",
+    "rank": 2,
+    "prob": 0.9999907230889769,
+    "s1_name": "FF Club",
+    "s1_addr": "Nouvelle-Aquitaine, Bordeaux, 425 Rue Pasteur",
+    "cand_name": "FF  Club",
+    "cand_addr": "425 R Pasteur, Nouvelle-Aquitaine, Bordeaux"
+  },
+  {
+    "s1_id": "S1-83875368",
+    "cand_id": "S2-631984008",
+    "rank": 17,
+    "prob": 0.9999344772385652,
+    "s1_name": "New Sportive SARL",
+    "s1_addr": "2 Boulevard Van Iseghem, Nantes, Pays de la Loire",
+    "cand_name": "@newsportive",
+    "cand_addr": "2 BOULEVARD VAN ISEGUEM, NANTES"
+  },
+  {
+    "s1_id": "S1-61957648",
+    "cand_id": "S2-211002721",
+    "rank": 1,
+    "prob": 0.9999912515729699,
+    "s1_name": "\u00c9tablissements Ro SA",
+    "s1_addr": "144 Route de Brais, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "\u00c9TABLISSEMENTS RO SA",
+    "cand_addr": "144 ROUTE DE BRAIS, SAINT-NAZAIRE"
+  },
+  {
+    "s1_id": "S1-742420874",
+    "cand_id": "S3-842325770",
+    "rank": 1,
+    "prob": 0.9999907876784808,
+    "s1_name": "\u00c9tablissements Sine SARL",
+    "s1_addr": "9 Avenue G\u00e9rard Saint, Nantes, Pays de la Loire",
+    "cand_name": "\u00c9tablissements Sine",
+    "cand_addr": "9 Av Gerard Saint, Nantes, Loire-Atlantique"
+  },
+  {
+    "s1_id": "S1-832741283",
+    "cand_id": "S3-382471357",
+    "rank": 1,
+    "prob": 0.9999480607851876,
+    "s1_name": "Centre M\u00e9dical du Meta",
+    "s1_addr": "58 Rue des Pavillons, Lille, Hauts-de-France",
+    "cand_name": "Meta M\u00e9dical du Centre",
+    "cand_addr": "58 R. Des Pavillons, Lille, Nord"
+  },
+  {
+    "s1_id": "S1-46180691",
+    "cand_id": "S3-777336827",
+    "rank": 12,
+    "prob": 0.9995520751876844,
+    "s1_name": "WDA Societe",
+    "s1_addr": "2 Avenue de la Plage Pyla, La Teste-de-Buch, Nouvelle-Aquitaine",
+    "cand_name": "Arts  Ecole EURL",
+    "cand_addr": "2 Avenue De La Plage Pyla, La Teste-de-buch, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-328138400",
+    "cand_id": "S2-746823862",
+    "rank": 0,
+    "prob": 0.9999811895007377,
+    "s1_name": "Ecoles Boule Centre EURL",
+    "s1_addr": "57 Rue Miln, Roubaix, Hauts-de-France",
+    "cand_name": "Ecoles Boule Centre EURL",
+    "cand_addr": "ROUBAIX, 57 R. MILN"
+  },
+  {
+    "s1_id": "S1-569486482",
+    "cand_id": "S2-451435354",
+    "rank": 5,
+    "prob": 0.9993836122781811,
+    "s1_name": "Dunkerque Compagnie SAS",
+    "s1_addr": "63 Rue du Mar\u00e9chal Joffre, Dunkerque, Hauts-de-France",
+    "cand_name": "Dunkerque Compagnie Sas",
+    "cand_addr": "23 RUE DENIS CORDONNIER, DUNKERQUE, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-500300515",
+    "cand_id": "S3-613615374",
+    "rank": 2,
+    "prob": 0.9999367661549081,
+    "s1_name": "Bordeaux Maternelle SA",
+    "s1_addr": "21 Rue Scaliger, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "Bordeaux  Maternelle",
+    "cand_addr": "No 21 Rue Lacornee, Bordeaux"
+  },
+  {
+    "s1_id": "S1-276974372",
+    "cand_id": "S3-522362345",
+    "rank": 0,
+    "prob": 0.9999956313756369,
+    "s1_name": "Chasseurs Amicale SARL",
+    "s1_addr": "75 Rue du Virolois, Tourcoing, Hauts-de-France",
+    "cand_name": "CHASSEURS AMICALE SARL",
+    "cand_addr": "75 R Du Virolois, Tourcoing, Hauts-de-France"
+  },
+  {
+    "s1_id": "S1-203139471",
+    "cand_id": "S2-542785307",
+    "rank": 24,
+    "prob": 0.9997727163246443,
+    "s1_name": "Golf Ecole SARL",
+    "s1_addr": "2 BD Emile Romanet, Nantes, Pays de la Loire",
+    "cand_name": "Ets T\u00eannis SARL",
+    "cand_addr": "2 TER BOULEVARD EMILE ROMANET, NANTES, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-101347450",
+    "cand_id": "S2-297242523",
+    "rank": 0,
+    "prob": 0.9999835921371503,
+    "s1_name": "Institut Sainte Anne",
+    "s1_addr": "10 Rue des Fusill\u00e9s, Dunkerque, Hauts-de-France",
+    "cand_name": "Institut S\u00e0inte Anne",
+    "cand_addr": "10 R. DES FUSILLES, DUNKERQUE"
+  },
+  {
+    "s1_id": "S1-796392862",
+    "cand_id": "S3-179624323",
+    "rank": 2,
+    "prob": 0.999993291579308,
+    "s1_name": "Bordeaux Sante SA",
+    "s1_addr": "2 Rue Fran\u00e7ois Mauriac, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "Bordeaux Sante  SA",
+    "cand_addr": "Bordeaux, 2 Rue Francois Mauriac"
+  },
+  {
+    "s1_id": "S1-400507852",
+    "cand_id": "S3-291258663",
+    "rank": 15,
+    "prob": 0.9998192233024566,
+    "s1_name": "Nantes Amis SARL",
+    "s1_addr": "4 Impasse du Petit Chatelier, Nantes, Pays de la Loire",
+    "cand_name": "Nantes Amis SARL",
+    "cand_addr": "# 4 Boulevard Du Petit Port, Nantes, Loire-Atlantique"
+  },
+  {
+    "s1_id": "S1-977382596",
+    "cand_id": "S2-9024706",
+    "rank": 4,
+    "prob": 0.9984928199969385,
+    "s1_name": "Lyonnaise Club (France)",
+    "s1_addr": "5 Avenue des Hortensias, La Teste-de-Buch, Nouvelle-Aquitaine",
+    "cand_name": "Uema Centre",
+    "cand_addr": "5 AV. DES HORTENSIAS, LA TESTE-DE-BUCH, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-607936664",
+    "cand_id": "S3-504009916",
+    "rank": 4,
+    "prob": 0.9999825892877865,
+    "s1_name": "Authentique Cercle College SARL",
+    "s1_addr": "56 bis Rue Delaroche, Calais, Hauts-de-France",
+    "cand_name": "Authentique Cercle Maison SARL",
+    "cand_addr": "56 Bis Rue Delaroche, Calais, Pas-de-Calais"
+  },
+  {
+    "s1_id": "S1-71827311",
+    "cand_id": "S3-903793095",
+    "rank": 2,
+    "prob": 0.9998776559388726,
+    "s1_name": "Il Amis SARL",
+    "s1_addr": "Pays de la Loire, Saint-Herblain, 2 Avenue de Beauregard",
+    "cand_name": "Boule AMIS",
+    "cand_addr": "Pays de la Loire, St.-herblain, 2 Av De Villandry"
+  },
+  {
+    "s1_id": "S1-51467238",
+    "cand_id": "S2-833650208",
+    "rank": 1,
+    "prob": 0.9999910476054932,
+    "s1_name": "Maison Lilot SAS",
+    "s1_addr": "39 Rue Jean Bart, Dunkerque, Hauts-de-France",
+    "cand_name": "Maison Lilot  SAS",
+    "cand_addr": "39 RUE JEAN BART, Nord, DUNKERQUE"
+  },
+  {
+    "s1_id": "S1-889553907",
+    "cand_id": "S3-345239423",
+    "rank": 1,
+    "prob": 0.9999941928636285,
+    "s1_name": "\u00c9cole primaire Sainte",
+    "s1_addr": "Bordeaux, 94 BD George V, Nouvelle-Aquitaine",
+    "cand_name": "\u00c9cole pr\u00eemaire Sainte",
+    "cand_addr": "94 Bd George V, Bordeaux, Nouvelle-Aquitaine"
+  },
+  {
+    "s1_id": "S1-119028281",
+    "cand_id": "S3-104182667",
+    "rank": 1,
+    "prob": 0.9999939220289518,
+    "s1_name": "KXJ Collectif SARL",
+    "s1_addr": "327 All\u00e9e du Canelot, La Teste-de-Buch, Nouvelle-Aquitaine",
+    "cand_name": "KXJ  Collectif",
+    "cand_addr": "327 Allee Du Canelot, La Teste-de-buch"
+  },
+  {
+    "s1_id": "S1-875788852",
+    "cand_id": "S3-176140473",
+    "rank": 0,
+    "prob": 0.999994904115168,
+    "s1_name": "Consultations Maternelle SAS",
+    "s1_addr": "13 All\u00e9e de la P\u00e9pini\u00e8re, La Baule-Escoublac, Pays de la Loire",
+    "cand_name": "CONSULTATIONS MATERNELLE SAS",
+    "cand_addr": "13 All\u00e9e De La P\u00e9pini\u00e8re, La Baule-escoublac"
+  },
+  {
+    "s1_id": "S1-471399263",
+    "cand_id": "S3-314435995",
+    "rank": 5,
+    "prob": 0.9991402216965379,
+    "s1_name": "Dite Doubles Maternelle SASU",
+    "s1_addr": "78 RUE Ferdinand Buisson, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "Dite Doubles Sportive S.A.S.U.",
+    "cand_addr": "79 R Ferdinand Buisson, Saint-nazaire, Pays de la Loire"
+  },
+  {
+    "s1_id": "S1-38910614",
+    "cand_id": "S2-430211244",
+    "rank": 12,
+    "prob": 0.9989546351250573,
+    "s1_name": "Bordeaux Fetes SAS",
+    "s1_addr": "70 Passage Nicot, Bordeaux, Nouvelle-Aquitaine",
+    "cand_name": "Bordeaux SAS & Fils",
+    "cand_addr": "70 PASSNGE NICOT, BORDEAUX, Gironde"
+  },
+  {
+    "s1_id": "S1-888302121",
+    "cand_id": "S3-247826311",
+    "rank": 15,
+    "prob": 0.9999066300235129,
+    "s1_name": "Saint-Nazaire Foyer SAS",
+    "s1_addr": "1 All\u00e9e des Faisans, Saint-Nazaire, Pays de la Loire",
+    "cand_name": "SAS Saint-Nazaire Amicale",
+    "cand_addr": "1 All\u00e9e Des Fous De Bassan, Saint-Nazaire"
+  },
+  {
+    "s1_id": "S1-793823491",
+    "cand_id": "S3-583736419",
+    "rank": 3,
+    "prob": 0.9999369384936051,
+    "s1_name": "Chasseurs Sportive SARL",
+    "s1_addr": "6 Rue Denfert Rochereau, Lille, Hauts-de-France",
+    "cand_name": "Europeenne Sportive Sarl",
+    "cand_addr": "6 Rue Denfert Rochereau, Lille, Hauts-de-France"
+  }
+]

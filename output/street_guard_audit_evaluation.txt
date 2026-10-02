@@ -1,0 +1,211 @@
+================================================================================
+TESTING STREET NUMBER & GUARD D ON ALL 101 PAIRS FROM 30 AUDITED ENTITIES
+================================================================================
+
+>>> COUNTRY: FRANCE <<<
+
+
+[France #01] S1-638273459
+  S1: Organisme & Fils SAS | 15 Rue Judaïque, Bordeaux, Nouvelle-Aquitaine (Nums: {'15'})
+    [ACCEPTED] S2-796002658 | ACCEPT                 | Nums: {'15'} | ns=95 | ORGANISME & FÎLS SAS | 15 RUE JUDÏAQUE, BORDEAUX
+
+[France #02] S1-38038385
+  S1: Sans (France) Sportive | 73 Rue du Caire, Roubaix, Hauts-de-France (Nums: {'73'})
+    [ACCEPTED] S3-644223114 | ACCEPT                 | Nums: {'73'} | ns=95 | Sans (Frànce) Sportive | Roubaix, Nord, 73 Rue Du Caire
+    [REJECTED] S2-238399610 | MULTI_TENANT_COLLISION | Nums: {'73'} | ns=29 | CLUBS SAS & ASSOCIÉS | 73 RUE DU FRESNOY, ROUBAIX, Hauts-de-France
+
+[France #03] S1-178280187
+  S1: Bordeaux Amicale SARL | 237 Rue de Pessac, Bordeaux, Nouvelle-Aquitaine (Nums: {'237'})
+    [ACCEPTED] S2-603325088 | ACCEPT                 | Nums: {'237'} | ns=100 | Bordeaux Amicale SARL | 237 RUE DE PESSAC, BORDEAUX
+    [ACCEPTED] S2-299379724 | ACCEPT                 | Nums: {'237'} | ns=86 | Bordeaux Amicale | 237 RUE DE PESSAC, BORDEAUX
+    [ACCEPTED] S3-74685387  | ACCEPT                 | Nums: {'237'} | ns=86 | Bordeaux Amicale | #237 R De Pessac, Bordeaux
+    [ACCEPTED] S3-221665185 | ACCEPT                 | Nums: {'237'} | ns=86 | Bordeaux Amicale | #237 R. De Pessac, Bordeaux
+    [ACCEPTED] S3-817956013 | ACCEPT                 | Nums: {'237'} | ns=63 | BORDEAUX JEUNES SARL | #237 Rue De Pessac, Bordeaux
+
+[France #04] S1-289156879
+  S1: Clinique Martin | 253 Rue de Gand, Tourcoing, Hauts-de-France (Nums: {'253'})
+    [ACCEPTED] S3-784542287 | ACCEPT                 | Nums: {'253'} | ns=88 | Clinique Martin-SCI | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    [ACCEPTED] S3-314950338 | ACCEPT                 | Nums: {'253'} | ns=85 | cliniquemartin.com | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    [ACCEPTED] S3-488676615 | ACCEPT                 | Nums: {'253'} | ns=50 | Clinique (Martin) | 253 R. De Gand, Tourcoing, Hauts-de-France
+    [ACCEPTED] S3-247671983 | ACCEPT                 | Nums: {'253'} | ns=80 | Clinique Mflran | 253 Rue De Gand, Tourcoing, Hauts-de-France
+    [REJECTED] S2-727785941 | STREET_NUM_MISMATCH    | Nums: {'56'} | ns=88 | Clinique Martin SNC | # 56 R. DE BAPAUME, TOURCOING, Hauts-de-France
+
+[France #05] S1-669509415
+  S1: Cave Compagnie SARL | 26 Rue Albert Sauvage, Dunkerque, Hauts-de-France (Nums: {'26'})
+    [ACCEPTED] S3-523076270 | ACCEPT                 | Nums: {'26'} | ns=68 | Cave Çompagnie SARL | 26 Rue Albert Sauvage, Dunkerque
+    [ACCEPTED] S3-19009980  | ACCEPT                 | Nums: {'26'} | ns=100 | Cave  Compagnie SARL | 26 Rue Albert Sauvage, Dunkerque
+    [ACCEPTED] S2-953718748 | ACCEPT                 | Nums: {'26'} | ns=95 | CAVE-COMPAGNIE SARL | N° 26 RUE ALBERT SAUVAGE, DUNKERQUE, Nord
+    [ACCEPTED] S3-855957847 | ACCEPT                 | Nums: {'26'} | ns=85 | cavecompagniesarl.com | 26 Rue Albert Sauvage, Dunkerque
+    [ACCEPTED] S2-995223837 | ACCEPT                 | Nums: {'26'} | ns=85 | CAVE  COMPAGNIE | N° 26 RUE ALBRET SAUVAGE, DUNKERQUE, Nord
+
+[France #06] S1-951110487
+  S1: Association du Poissy | 8 Rue des Pommiers, Pornic, Pays de la Loire (Nums: {'8'})
+    [ACCEPTED] S3-123465489 | ACCEPT                 | Nums: {'8'} | ns=84 | Association du Poissy Et Fils | 8 Rue Des Pommiers, Pornic, Pays de la Loire
+    [ACCEPTED] S2-396526082 | ACCEPT                 | Nums: set() | ns=95 | Association du Pôissy | R. DES POMMIERS, PORNIC
+
+[France #07] S1-575780918
+  S1: Msp Ecole SAS | 9 Rue du Marché, Saint-Nazaire, Pays de la Loire (Nums: {'9'})
+    [ACCEPTED] S3-43099804  | ACCEPT                 | Nums: {'9'} | ns=100 | Msp Ecole SAS | #9 R Du Marche, Saint-nazaire, Pays de la Loire
+    [ACCEPTED] S3-428786570 | ACCEPT                 | Nums: {'9'} | ns=100 | Msp  Ecole SAS | #9 R Du Marche, Saint-nazaire, Pays de la Loire
+    [ACCEPTED] S3-839986628 | ACCEPT                 | Nums: {'9'} | ns=93 | Msp Ecole S.A.S | St.-nazaire, #9 Rue Du Marcéh, Pays de la Loire
+    [ACCEPTED] S2-427849267 | ACCEPT                 | Nums: {'9'} | ns=54 | MSP ÉCOLE SAS | 9 RUE DU MARCHE, ST.-NAZAIRE
+    [ACCEPTED] S2-225690231 | ACCEPT                 | Nums: {'9'} | ns=90 | Msp Ecole S.A.S. | 9 RUE DU MARCHÉ, SAINT-NAZAIRE
+
+[France #08] S1-719240142
+  S1: Airsoft & Frères | Hauts-de-France, Lille, 17 Rue des Sarrazins (Nums: {'17'})
+    [ACCEPTED] S3-485583102 | ACCEPT                 | Nums: {'59800', '17'} | ns=86 | Airsoft & Frères SARL | 17 Rue Dupuytren, 59800, Lille, Hauts-de-France
+    [ACCEPTED] S3-578962390 | ACCEPT                 | Nums: {'59800', '17'} | ns=86 | AIRSOFT & FRÈRES SARL | 17 Rue Dupuytren, 59800, Lille, Hauts-de-France
+    [ACCEPTED] S3-79215023  | ACCEPT                 | Nums: {'59800', '17'} | ns=86 | Airsoft & Frères Sàrl | 17 Rue Duruytren, 59800, Lille, Hauts-de-France
+
+[France #09] S1-343124872
+  S1: Chapelle Sportive SARL | 23 Rue de Miséricorde, Nantes, Pays de la Loire (Nums: {'23'})
+    [ACCEPTED] S2-112179821 | ACCEPT                 | Nums: {'23'} | ns=100 | Chapelle Sportive SARL | 23 RUE DE MISÉRICORDE, NANTES
+    [ACCEPTED] S3-945653112 | ACCEPT                 | Nums: {'23'} | ns=87 | Chapelle Sportive | Nº 23 Rue De Miséricrode, Nantes
+
+[France #10] S1-823414681
+  S1: Lille Comite SAS | 19 Rue de Wazemmes, Lille, Hauts-de-France (Nums: {'19'})
+    [ACCEPTED] S2-579369518 | ACCEPT                 | Nums: {'19'} | ns=86 | Lille Comite | NO 19 R. DE WAZEMMES, LILLE, Hauts-de-France
+
+>>> COUNTRY: US <<<
+
+
+[US #01] S1-790393140
+  S1: Macdonald Investments Inc | 725 Pine Street, Fl 3rd, Village Of West Baraboo, WI (Nums: {'725'})
+    [ACCEPTED] S2-179544640 | ACCEPT                 | Nums: {'725'} | ns=55 | Macdonald-Invcestemnts Inc | 725 PINE STREET, BARABOO, WI
+    [REJECTED] S3-56940329  | STREET_NUM_MISMATCH    | Nums: {'738'} | ns=85 | Macdonald Investments Group | Wisconsin, Baraboo, Fl 3rd, 738 Pine Street
+    [ACCEPTED] S2-655307754 | ACCEPT                 | Nums: {'725'} | ns=67 | Macdonald Inc Center | 725 PINE ST, VILLAGE OF WEST BARABOO, WI
+    [REJECTED] S2-493531946 | MULTI_TENANT_COLLISION | Nums: {'725'} | ns=18 | Pyracira | 725 PINE ST, VILLAGE OF WEST BARABOO, WI
+
+[US #02] S1-582037391
+  S1: Tharp, Sibert & Smith Futurecorp | Memphis, 3365 Winchester Place, TN (Nums: {'3365'})
+    [ACCEPTED] S3-894189232 | ACCEPT                 | Nums: {'3365'} | ns=84 | Quozeph fka Tharp, Sibert & Smith Futurecorp | 3365 Winchester Place, Memphis, TN
+    [ACCEPTED] S3-543217081 | ACCEPT                 | Nums: {'3365'} | ns=92 | Tharp, Sibert + Smth [Futurecorp] | 3365 Winchester Pl, Memphis, Tennessee
+    [REJECTED] S2-895756543 | STREET_NUM_MISMATCH    | Nums: {'3378', '3380'} | ns=88 | Tharp, Sibert & Smith Futurecorp Partners | 3378-3380 WINCHESTER PL, MEMPHIS, TN
+    [ACCEPTED] S2-62606901  | ACCEPT                 | Nums: {'3365'} | ns=94 | THARP, SIBERT-+ SMITH FUTURECORP | 003365 WINCHESTER PL, TN, MEMPHIS
+    [REJECTED] S2-30537437  | MULTI_TENANT_COLLISION | Nums: {'3365'} | ns=17 | TSSF | 003365 WINCHESTER PLACE, MEMPHIS, TN
+
+[US #03] S1-456464421
+  S1: Jarvis and Lott L.L.C. | OH, Dayton, 1828 Fauver Avenue (Nums: {'1828'})
+    [ACCEPTED] S2-524765030 | ACCEPT                 | Nums: {'1828'} | ns=100 | Jarvis and L.L.C. Lott | OH, DAYTON, 1828 FAUVER AVE
+    [ACCEPTED] S3-11699378  | ACCEPT                 | Nums: {'1828'} | ns=95 | Jarvis And L0tt L.L.C. | 1828 Fauver Ave, Dayton, Ohio
+    [ACCEPTED] S3-978522917 | ACCEPT                 | Nums: {'1828'} | ns=65 | Jarvis and Lott (L.L.C.) | 1828 Fauver Ave, Dayton, Ohio
+    [ACCEPTED] S2-191392100 | ACCEPT                 | Nums: {'1828'} | ns=55 | @járvislott | 1828 FAUVER AVE, DAYTON, OH
+    [REJECTED] S3-342962203 | STREET_NUM_MISMATCH    | Nums: {'1831'} | ns=70 | Jarvis and Lott Group | 1831 Fauver Ave, Dayton, Ohio
+    [REJECTED] S2-654507149 | STREET_NUM_MISMATCH    | Nums: {'1831'} | ns=51 | JARVIS & LOTT LTD SERVICE | 1831 FAUVER AVE, DAYTON, OH
+
+[US #04] S1-882979695
+  S1: Tory Jackson Growth, Inc | 204 Kingspoint Drive, Sherman, IL (Nums: {'204'})
+    [ACCEPTED] S3-131193925 | ACCEPT                 | Nums: {'204'} | ns=100 | Tory Jackson  Growth, Inc | 00204 Kingspoint Drive, Sherman, Illinois
+    [ACCEPTED] S3-832977812 | ACCEPT                 | Nums: {'204'} | ns=100 | TORY JACKSON GROWTH, INC | 00204 Kingspoint Dr, Sherman, Illinois
+    [ACCEPTED] S3-799860801 | ACCEPT                 | Nums: {'204'} | ns=100 | TORY JACKSON GROWTH, INC | 00204 Kingspoint Dr, Sherman, Illinois
+    [ACCEPTED] S2-644139866 | ACCEPT                 | Nums: set() | ns=91 | Tory Jackson Growth, | KINGSPOINT DRIVE, SHERMAN, IL
+    [ACCEPTED] S3-581113748 | ACCEPT                 | Nums: {'204'} | ns=94 | Tory Jacekcsron Growth, Inc | 00204 Kingspoint Drive, Sherman, Illinois
+    [REJECTED] S3-626597891 | STREET_NUM_MISMATCH    | Nums: {'9'} | ns=67 | Tory  Jackson Fitness, | 09 Kingspoint Dr, Sherman, Illinois
+
+[US #05] S1-731475852
+  S1: Telecom | 1322 Broadway, Unit Apartment 1, Buffalo, NY (Nums: {'1322', '1'})
+    [ACCEPTED] S2-406662278 | ACCEPT                 | Nums: {'1322'} | ns=100 | Telecom | 001322 BROADWAY, BUFFALO, NY
+    [ACCEPTED] S2-899393485 | ACCEPT                 | Nums: {'1322'} | ns=100 | Telecom | 001322 BROADWAY, BUFFALO, NY
+    [REJECTED] S2-418967741 | STREET_NUM_MISMATCH    | Nums: {'1343'} | ns=74 | Telecom  Corp | 1343 BROADWAY, BUFFALO, NY
+    [REJECTED] S3-326195525 | STREET_NUM_MISMATCH    | Nums: {'1074', '1343'} | ns=82 | Telecom  Co | 1343 Broadway, PO Box 1074, Buffalo, New York
+
+[US #06] S1-10941471
+  S1: Taleify Foods LLC | 3530 Grant Avenue, Groves, TX (Nums: {'3530'})
+    [REJECTED] S3-314951797 | STREET_NUM_MISMATCH    | Nums: {'3533'} | ns=60 | Taleify Food [Holdings] | 03533 Grant Ave, Groves CTY, Texas
+
+[US #07] S1-14026184
+  S1: Olson Circle | 982 Electric Avenue, Bigfork, MT (Nums: {'982'})
+    [ACCEPTED] S2-509263924 | ACCEPT                 | Nums: {'982'} | ns=100 | Olson Circle | BIGFORK, 982-A ELECTRIC AVE, MT
+    [REJECTED] S3-647310588 | MULTI_TENANT_COLLISION | Nums: {'982'} | ns=22 | Martin | 982 Electric Avenue, Bigfork, MT
+    [REJECTED] S2-781324654 | MULTI_TENANT_COLLISION | Nums: {'982'} | ns=22 | Thetford Vaneck [LLC] (ID: 84788) | BIGFORK, MT, 982-A ELECTRIC AVENUE
+
+[US #08] S1-631040497
+  S1: Neex Inc. | 1929 Robertson Avenue, Albuquerque, NM (Nums: {'1929'})
+    [ACCEPTED] S2-914563342 | ACCEPT                 | Nums: {'1929'} | ns=100 | Neex Inc. | #1929 ROBERTSON AVE, ALBUQUERQUE, NM
+    [ACCEPTED] S2-690639484 | ACCEPT                 | Nums: {'1929'} | ns=62 | Neex | #1929 ROBERTSON AVE, ALBUQUERQUE, NM
+    [ACCEPTED] S2-790133902 | ACCEPT                 | Nums: {'1929'} | ns=100 | inc. neex | #1929 ROBERTSON AVENUE, SOUTH VALLEY, NM
+    [REJECTED] S2-684595316 | STREET_NUM_MISMATCH    | Nums: {'1930'} | ns=46 | Neex LLC Services | 1930 ROBERTSON AVE, ALBUQUERQUE, NM
+
+[US #09] S1-500077167
+  S1: Reliable Ace Iheartmedia | 452 Isleta Boulevard, Albuquerque, NM (Nums: {'452'})
+    [REJECTED] S2-628535302 | STREET_NUM_MISMATCH    | Nums: {'52'} | ns=92 | RELIABLE ACE IHEARTMEDIA  INC | 52 ISLETA BLVD, SOUTH VALLEY, NM
+    [REJECTED] S2-859719051 | STREET_NUM_MISMATCH    | Nums: {'459'} | ns=67 | Reliable Áce Iheartmedia Midtown Ltd | 459 Isleta Blvd, SOUTH VALLEY, NM
+    [REJECTED] S2-487351029 | STREET_NUM_MISMATCH    | Nums: {'52'} | ns=94 | Reliable Ace Iheartmedia LP | 52 ISLETA BLVD, SOUTH VALLEY, NM
+    [REJECTED] S3-482881480 | STREET_NUM_MISMATCH    | Nums: {'459'} | ns=94 | Reliable Ace Iheartmedia Co | 0459 Isleta Blvd, South Valley, New Mexico
+    [ACCEPTED] S3-19861133  | ACCEPT                 | Nums: {'452'} | ns=44 | @reliableace | 452 Isleta Boulevard, N/A, South Valley, New Mexico
+
+[US #10] S1-415762871
+  S1: Warfield Heritage Cambridge LLC | 526 California Street, Waterloo, IA (Nums: {'526'})
+    [ACCEPTED] S2-4461208   | ACCEPT                 | Nums: {'526'} | ns=71 | Warfield Heritage-Cambridge LLC | 526 CALIFORNIA STREET, WATERLOOO, IA
+    [ACCEPTED] S3-641109959 | ACCEPT                 | Nums: {'526'} | ns=97 | Warfield Heritage-LLC Cambridge | 526 California Street, Waterloo, Iowa
+    [REJECTED] S2-527973810 | STREET_NUM_MISMATCH    | Nums: {'533'} | ns=84 | Warfield Heritage Cambridge Corp. | www.warfieldh.com | 533 CALIFORNIA ST, WATERLOO, IA
+    [REJECTED] S2-424509980 | STREET_NUM_MISMATCH    | Nums: {'533'} | ns=53 | Warfield Studios LLC Services | 533 CALIFORNIA STREET, WATERLOO, IA
+
+>>> COUNTRY: INDIA <<<
+
+
+[India #01] S1-737353004
+  S1: Magnate Pharmaceutical Pvt Ltd | South Delhi, New Delhi, B-65/1 Manoj Bhawangautam Nagar, Delhi (Nums: {'65', '1'})
+    [ACCEPTED] S2-722705463 | ACCEPT                 | Nums: {'65', '1'} | ns=95 | Magnate Pharmaceticil Pvt Ltd | B-65/1 MANOJ BHAWANGAUTAM NAGAR, NEW DELHI, Delhi
+    [ACCEPTED] S3-291379674 | ACCEPT                 | Nums: {'65', '4'} | ns=82 | Magnate Pharmaceutical Overseas Pvt Limited | B-65/4 Manoj Bhawanguatam Nagar, New Delhi, South Delhi, DL
+
+[India #02] S1-682119725
+  S1: Marketing Utkarsh Designer Private Limited | Unit No Floor 2308 Plan S, Plot D 108/1 Shiravane, Thane, Maharashtra (Nums: {'2308', '108', '1'})
+    [ACCEPTED] S2-919112320 | ACCEPT                 | Nums: {'2308', '108', '1'} | ns=95 | Marketing Utkarsh Designer Private  Ltd | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, Maharashtra
+    [ACCEPTED] S2-969279178 | ACCEPT                 | Nums: {'2308', '108', '1'} | ns=95 | Marketing Utkarsh Designer Private Ltd | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, Maharashtra
+    [ACCEPTED] S2-333344460 | ACCEPT                 | Nums: {'2308', '108', '1'} | ns=89 | Marketing Marketing Utkarsh Designer Private Limited | UNIT NO FLOOR 2308 PLAN S, PLOT D 108/1 SHIRAVANE, THANE, महाराष्ट्र
+    [ACCEPTED] S2-260104745 | ACCEPT                 | Nums: {'2308'} | ns=93 | Limited Marketing Utkarsh Private Center | Maharashtra, THANE, UNIT NO FLOOR 2308 PLAN S
+    [ACCEPTED] S2-128034172 | ACCEPT                 | Nums: {'2308', '108', '1'} | ns=100 | Marketing Utkarsh Private Designer Limited | UNIT NO FLOOR 2308 PLAN S, PLTO D 108/1 SHIRAVANE, THANE, Maharashtra
+    [ACCEPTED] S3-383146970 | ACCEPT                 | Nums: {'2308'} | ns=89 | Marketing  Utkarsh Designer Private | Unit No Floor 2308 Plan S, Thane, Kamothe, महाराष्ट्र
+
+[India #03] S1-261275647
+  S1: Unique It Pvt Ltd | C/O-Dig Vijay Singh, Nh-922, Churamanpur, Buxar, Bihar (Nums: {'922'})
+    [ACCEPTED] S2-340505455 | ACCEPT                 | Nums: {'922'} | ns=80 | Unique Ít Pvt Ltd. | C/O-DIG VIJAY SINGH, NH-922, CHURAMANPUR, BUXAR, बिहार
+
+[India #04] S1-156393693
+  S1: FST Vincom LLP | 311, A. R. House, Rsc-48, Near Pragat College, Gorai, Borivali - West, Mumbai, Maharashtra (Nums: {'311', '48'})
+    [ACCEPTED] S3-994331265 | ACCEPT                 | Nums: {'332', '48'} | ns=82 | FST Vincom Group LLP | 332, Borivali - West, Mumbai, A. R. House, Rsc-48, Near Pragat College, Gorai, महाराष्ट्र
+
+[India #05] S1-985153373
+  S1: City Ventures Private Limited | Shop No. 202, D. C. Bhawan, East Ram Krishna Nagar, Sampatchak, Patna, Bihar (Nums: {'202'})
+    [ACCEPTED] S3-237201759 | ACCEPT                 | Nums: {'202'} | ns=74 | Limited City Ventures Center | Shop No. 202, D. C. Bhawan, East Ram Krishna Nagar, Patna, Sampatchak, बिहार
+    [ACCEPTED] S3-809158145 | ACCEPT                 | Nums: {'202'} | ns=80 | Private City Ventures (Limited) | Shop No. 202, Patna, BR, Sampatchak
+
+[India #06] S1-590745612
+  S1: AVS Credit Ltd | 101, Manbhavan Nagar Kanadia Road, Indore, Madhya Pradesh (Nums: {'101'})
+    [ACCEPTED] S2-474167187 | ACCEPT                 | Nums: {'101'} | ns=67 | AVS Credit [Ltd] | मध्य प्रदेश, 101, MANBHAVAN NAGAR KANADIA ROAD
+    [ACCEPTED] S3-681406622 | ACCEPT                 | Nums: {'101'} | ns=65 | (Ltd.) AVS Credit | 0101, Manbhavan Nagar Kanadia Road, Indore, मध्य प्रदेश
+    [REJECTED] S3-623758033 | STREET_NUM_MISMATCH    | Nums: {'108'} | ns=88 | AVS Credit Pvt Ltd | 108, Manbhavan Nagar Kanadia Road, Indore, MP
+    [REJECTED] S3-753124922 | STREET_NUM_MISMATCH    | Nums: {'108'} | ns=78 | Avs Credit Exports Ltd | 108, Manbhavan Nagar Kanadia Road, Indore, MP
+
+[India #07] S1-748612866
+  S1: Lotus Industries Limited | Flat No. 205, Coronation Appartment 28, Park Road, Lucknow, Uttar Pradesh (Nums: {'205', '28'})
+    [ACCEPTED] S2-210562759 | ACCEPT                 | Nums: {'205'} | ns=64 | [Limited] Lotus Industries | FLAT NO. 205, LUCKNOW, PARK ROAD, Uttar Pradesh
+    [ACCEPTED] S3-163518759 | ACCEPT                 | Nums: {'205', '28'} | ns=76 | Nexvantage née Lotus Industries Limited | Flat No. 205, Coronation Appartment 28, Park Road, Lucknow, Uttar Pradesh
+
+[India #08] S1-423593977
+  S1: Better Engineering Associates | Haryana, Sonipat, C/O Sudesh Kalupur West, Ramnagar Suri Pet. Pump (Nums: set())
+    [ACCEPTED] S2-515898636 | ACCEPT                 | Nums: set() | ns=97 | Better Engineering [Associates] | C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    [ACCEPTED] S2-33489195  | ACCEPT                 | Nums: {'41'} | ns=86 | BETTER ENGINEERING ASSOCATES LIMITED | #41 C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    [ACCEPTED] S2-670451748 | ACCEPT                 | Nums: {'41'} | ns=79 | Better Engineering Associates Public Limited | Haryana, 41 C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT
+    [ACCEPTED] S2-366595338 | ACCEPT                 | Nums: set() | ns=77 | Better Engineering | C/O SUDESH KALUPUR WEST, RAMNAGAR SURI PET. PUMP, SONIPAT, Haryana
+    [ACCEPTED] S3-962397731 | ACCEPT                 | Nums: set() | ns=94 | Better Engineering Associates Ltd | C/o Sudesh Kalupur West, Mumbai, HR
+
+[India #09] S1-457944356
+  S1: Great Business Pvt Ltd | 30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi (Nums: {'30', '954'})
+    [ACCEPTED] S3-566347495 | ACCEPT                 | Nums: {'30', '954'} | ns=95 | Great Búsiness Pvt Ltd | A-30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi, DL
+    [ACCEPTED] S2-657610494 | ACCEPT                 | Nums: {'30', '954'} | ns=100 | GREAT BUSINESS PVT LTD | 30/954, 3RD FLOOR, GALI NO. 30 DDA FLATS MADANGIR, NEW DELHI, Delhi
+    [ACCEPTED] S3-612794741 | ACCEPT                 | Nums: {'30', '954'} | ns=90 | Great Business Pvt | A-30/954, 3Rd Floor, Gali No. 30 Dda Flats Madangir, New Delhi, Delhi, DL
+    [ACCEPTED] S2-597871642 | ACCEPT                 | Nums: {'30', '963'} | ns=79 | PVT GREAT ENTERPRISES BUSINESS LTD | 30/963, 3RD FLOOR, GALI NO. 30 DDA FLATS MADANGIR, NEW DELHI, Delhi
+
+[India #10] S1-159606293
+  S1: Modern Services Private Limited | Rz-1/91, G/F, Gali No. 2, East Sagar Pur, Near Subji Mandi, Delhi, South West Delhi, Delhi (Nums: {'91', '2', '1'})
+    [ACCEPTED] S3-529993306 | ACCEPT                 | Nums: {'91', '2', '1'} | ns=97 | Prívate Modern Services Limited | Rz-#1/91, G/f, Gali No. 2, East Sagar Pur, Near Subji Mandi, South West Delhi, New Delhi, DL
+    [REJECTED] S2-781859740 | MULTI_TENANT_COLLISION | Nums: {'91', '2', '1'} | ns=10 | मॉडर्न सर्विसेज प्राइवेट लिमिटेड | RZ-1/91, G/F, GALI NO. 2, EAST SAGAR PUR, NEAR SUBJI MANDI, DELHI, SOUTH WEST DELHI, Delhi
+    [REJECTED] S2-205014742 | MULTI_TENANT_COLLISION | Nums: {'91', '2', '1'} | ns=10 | मॉडर्न सर्विसेज प्राइवेट लिमिटेड | RZ-1/91, G/F, GALI NO. 2, EAST SAGAR PUR, NEAR SUBJI MANDI, DELHI, SOUTH WEST DELHI, Delhi
+
+================================================================================
+TOTAL AUDITED PAIRS: 103
+ACCEPTED:            78 (75.7%)
+REJECTED:            25 (24.3%)
+================================================================================

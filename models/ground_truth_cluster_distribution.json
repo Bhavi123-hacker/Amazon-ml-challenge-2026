@@ -1,0 +1,60 @@
+{
+  "total_population_entities": 2206821,
+  "total_ground_truth_pairs": 7638365,
+  "singletons": 123247,
+  "singleton_pct": 5.584820880352326,
+  "matched_entities": 2083574,
+  "mean_matched_cluster_size": 3.66599170463828,
+  "median_matched_cluster_size": 4.0,
+  "max_cluster_size": 11,
+  "percentiles_matched": {
+    "p50": 4.0,
+    "p75": 5.0,
+    "p90": 6.0,
+    "p95": 6.0,
+    "p98": 7.0,
+    "p99": 8.0,
+    "p99.5": 8.0,
+    "p99.9": 9.0,
+    "p99.99": 10.0,
+    "p100": 11.0
+  },
+  "k12_tail_risk": {
+    "entities_with_gt_greater_than_12": 0,
+    "pct_of_all_entities_greater_than_12": 0.0,
+    "pct_of_matched_entities_greater_than_12": 0.0,
+    "population_coverage_at_k12_pct": 100.0,
+    "pairs_truncated_at_k12": 0,
+    "pair_retention_at_k12_pct": 100.0
+  },
+  "per_country_breakdown": {
+    "India": {
+      "total_entities": 883188,
+      "matched_entities": 833837,
+      "total_pairs": 3059843,
+      "mean_cluster_size": 3.669593697569189,
+      "max_cluster_size": 11,
+      "p95": 6.0,
+      "p99": 8.0,
+      "entities_above_12": 0,
+      "pct_entities_above_12": 0.0,
+      "pairs_lost_at_12": 0,
+      "pct_pairs_lost_at_12": 0.0,
+      "coverage_at_12_pct": 100.0
+    },
+    "US": {
+      "total_entities": 1323633,
+      "matched_entities": 1249737,
+      "total_pairs": 4578522,
+      "mean_cluster_size": 3.6635884190033585,
+      "max_cluster_size": 11,
+      "p95": 6.0,
+      "p99": 8.0,
+      "entities_above_12": 0,
+      "pct_entities_above_12": 0.0,
+      "pairs_lost_at_12": 0,
+      "pct_pairs_lost_at_12": 0.0,
+      "coverage_at_12_pct": 100.0
+    }
+  }
+}

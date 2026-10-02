@@ -1,0 +1,304 @@
+================================================================================
+STEP 1 DIRECT MANUAL AUDIT: 30 RANDOM ENTITIES FROM STREET-GUARDED SUBMISSION
+================================================================================
+
+==================== COUNTRY: France ====================
+
+[France #01] S1-6406783
+  Source 1 : Maison Potentiel SARL | 71 Rue Jules Vallès, Lille, Hauts-de-France
+  Matches (3):
+    * S3-98129585 [France]: Maison Potentiel SARL France | 71 - R Jules Vallès, Lille
+      [Metrics: NameSim=85.7, AddrSim=69.6]
+    * S2-957770639 [France]: Maison Potentiel SARL [Développement] | NO. 71 RUE JULES VALLÈS, LILLE, Nord
+      [Metrics: NameSim=72.4, AddrSim=68.4]
+    * S3-326353658 [France]: Maison Pontoise SASU | 71 Rue Rubens, Calais, Pas-de-Calais
+      [Metrics: NameSim=78.0, AddrSim=48.1]
+
+[France #02] S1-198669746
+  Source 1 : Nantes Amicale SARL | 40 RUE Gabriel Luneau, Nantes, Pays de la Loire
+  Matches (1):
+    * S2-587127687 [France]: Nantes Amicale | 40 R GABRIEL LUNEAU, NANTES, Pays de la Loire
+      [Metrics: NameSim=84.8, AddrSim=97.8]
+
+[France #03] S1-520765327
+  Source 1 : EHPAD Sainte Ensemble | 59 Cours Pasteur, Bordeaux, Nouvelle-Aquitaine
+  Matches (3):
+    * S2-204936672 [France]: EHPAD Sainte Ensemble SAS | 59 COURS PASTEUR, BORDEAUX
+      [Metrics: NameSim=91.3, AddrSim=72.2]
+    * S3-568151780 [France]: EHPAD  Sainte Ensemble | 59 Crs Pasteur, Bordeaux
+      [Metrics: NameSim=100.0, AddrSim=68.6]
+    * S3-691698935 [France]: EHPAD Sainte Ensemble SCI | 59 Crs Pasteur, Bordeaux
+      [Metrics: NameSim=91.3, AddrSim=68.6]
+
+[France #04] S1-818671702
+  Source 1 : École primaire de Bon | 9 Avenue Louis Barthou, Bordeaux, Nouvelle-Aquitaine
+  Matches (4):
+    * S2-327214311 [France]: École primaire de Bon | 9 AV LOUIS BARTHOU, BORDEAUX, Nouvelle-Aquitaine
+      [Metrics: NameSim=100.0, AddrSim=96.0]
+    * S2-672438205 [France]: DE PRIMAIRE ÉCOLE BÔN | 9 AV LOUIS BARTHOU, Bordeaux, Nouvelle-Aquitaine
+      [Metrics: NameSim=95.2, AddrSim=96.0]
+    * S3-475347307 [France]: Bon École primaire | 9 Avenue Louis Barthou, Bordeaux, Nouvelle-Aquitaine
+      [Metrics: NameSim=92.3, AddrSim=100.0]
+    * S2-931861152 [France]: de priiaiae École Bon | 9 AVENUE LOUIS BARTHOU, Bordeaux, Nouvelle-Aquitaine
+      [Metrics: NameSim=90.5, AddrSim=100.0]
+
+[France #05] S1-246525575
+  Source 1 : Badminton Ecole SAS | 43 a Rue de Sécary, La Teste-de-Buch, Nouvelle-Aquitaine
+  Matches (3):
+    * S3-670131573 [France]: BADMINTON ECOLE SAS | 43 A Rue De Sécary, La Teste-de-buch, Nouvelle-Aquitaine
+      [Metrics: NameSim=100.0, AddrSim=100.0]
+    * S3-300149209 [France]: Badminton Ecole | 43 A Rue De Secary, La Teste-de-buch, Nouvelle-Aquitaine
+      [Metrics: NameSim=88.2, AddrSim=98.2]
+    * S2-390444275 [France]: SAS Badminton Ecole | 43 A RUE DE SÉCARY, La Teste-de-Buch, Gironde
+      [Metrics: NameSim=100.0, AddrSim=77.2]
+
+[France #06] S1-714119224
+  Source 1 : Techniciens Cafe | 24 bis Avenue Marc Desbats, Pessac, Nouvelle-Aquitaine
+  Matches (5):
+    * S2-177827899 [France]: techniciens cafe | 24 BIS AVENUE MARC DESBATS, PESSAC
+      [Metrics: NameSim=100.0, AddrSim=77.3]
+    * S2-356428625 [France]: techniciens cafe | PESSAC, 24 BIS AVENUE MARC DESBATS
+      [Metrics: NameSim=100.0, AddrSim=77.3]
+    * S3-650963458 [France]: Techniciens Cafe | 24 Bis Av. Marc Desbats, Pessac, Gironde
+      [Metrics: NameSim=100.0, AddrSim=66.0]
+    * S3-390879580 [France]: Techniciens Cafe | 24 Bis Avenue Marc Desbast, Pessac, Gironde
+      [Metrics: NameSim=100.0, AddrSim=70.1]
+    * S3-697152870 [France]: Techniciens Çafe | 24 Bis Av. Maic Desbats, Pessac, Gironde
+      [Metrics: NameSim=68.8, AddrSim=68.1]
+
+[France #07] S1-562164711
+  Source 1 : Petanque Pharmacie SARL | 1 RUE dAlger, Nantes, Pays de la Loire
+  Matches (2):
+    * S2-854746681 [France]: petanque pharmacie sarl | NO. 1 RUE DALGER, NANTES, Loire-Atlantique
+      [Metrics: NameSim=100.0, AddrSim=70.0]
+    * S2-760355460 [France]: PETANQUE PHARMACIE-SARL | NO. 1 R. DALGER, NANTES, Loire-Atlantique
+      [Metrics: NameSim=95.7, AddrSim=65.8]
+
+[France #08] S1-600472949
+  Source 1 : Établissements Ogec SARL | 2 Rue Félix Coquelle, Dunkerque, Hauts-de-France
+  Matches (4):
+    * S2-358071133 [France]: Établissements Ogec SARL | RUE FÉLIX COQUELLE, DUNKERQUE, Hauts-de-France
+      [Metrics: NameSim=100.0, AddrSim=97.9]
+    * S2-68483331 [France]: SARL ÉTABLISSEMENTS OGEC | R FELIX COQUELLE, Dunkerque, Hauts-de-France
+      [Metrics: NameSim=100.0, AddrSim=93.5]
+    * S2-918449309 [France]: ÉTABLISSEMENTS OGEC SARL | R FÉLIX COQUELLE, DUNKERQUE, Hauts-de-France
+      [Metrics: NameSim=100.0, AddrSim=95.7]
+    * S3-656147120 [France]: établissements Ogec Holding SAS | 2 Q. De La Monnaie, Bordeaux
+      [Metrics: NameSim=80.0, AddrSim=36.8]
+
+[France #09] S1-267071270
+  Source 1 : Aventure Fetes (France) | 87 Avenue de la Vigne Cap Ferret, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  Matches (4):
+    * S3-561520138 [France]: Aventure Fetes (France) SAS | 87 Av. De La Vigne Cap Ferret, Lège Cap Ferret
+      [Metrics: NameSim=92.0, AddrSim=64.3]
+    * S3-222700294 [France]: AVENTURE FETES (FRANCE) | 87 Av. De La Vigne Cap Ferret, Lege Cap Ferret
+      [Metrics: NameSim=100.0, AddrSim=66.1]
+    * S2-88844916 [France]: Aventure Fêtes (France) | (87) AV DE LA VIGNE CAP FERRET, LÈGE-CAP-FERRET
+      [Metrics: NameSim=95.7, AddrSim=77.6]
+    * S2-161262904 [France]: Aventure Fetes (France) EURL | (87) AV DE LA VIGNE CAP FERRET, LÈGE-CAP-FERRET
+      [Metrics: NameSim=90.2, AddrSim=77.6]
+
+[France #10] S1-530688523
+  Source 1 : Jeux Amicale | 84 rue des Hauts Paves, Nantes, Pays de la Loire
+  Matches (3):
+    * S3-233352731 [France]: Jeux Amicale  SARL | No 84 Rue Des Hauts Paves, Nantes, Loire-Atlantique
+      [Metrics: NameSim=82.8, AddrSim=74.7]
+    * S3-172053144 [France]: Jeux Àmicale | No 84 Rue Des Hauts Paves, Nantes, Loire-Atlantique
+      [Metrics: NameSim=50.0, AddrSim=74.7]
+    * S3-59140282 [France]: Jeux & Fils | No 84 Rue Des Hauts Paves, Nantes, Loire-Atlantique
+      [Metrics: NameSim=60.9, AddrSim=74.7]
+
+
+==================== COUNTRY: US ====================
+
+[US #01] S1-918316631
+  Source 1 : Supreme Star | 3611 Lindsay Lane, Crystal Lake, IL
+  Matches (3):
+    * S3-432281454 [US]: Supreme Stár | 3611 Lindsay Lane, Crystal Lake, Illinois
+      [Metrics: NameSim=91.7, AddrSim=92.1]
+    * S3-48846514 [US]: Supreme  Star | 
+      [Metrics: NameSim=100.0, AddrSim=0.0]
+    * S3-114408425 [US]: Supreme-Star | 
+      [Metrics: NameSim=58.3, AddrSim=0.0]
+
+[US #02] S1-245881994
+  Source 1 : Weeks Innovative Bynordic LLC | 1508 Virginia Avenue, Mason City, IA
+  Matches (3):
+    * S3-973286447 [US]: Weeks Innovative Bynordic-Llc | 1508-1512 Virginia Avenue, Mason Citty, Iowa
+      [Metrics: NameSim=86.2, AddrSim=90.0]
+    * S3-944571692 [US]: Weeks Innovative Bynordic | 1508-1512 Virginia Ave, Mason Citty, Iowa
+      [Metrics: NameSim=92.6, AddrSim=85.7]
+    * S2-922712166 [US]: Weeks  Innovative LLC Center | 1508 VIRGINIA AVE, MASON CITY, PMB 3943, IA
+      [Metrics: NameSim=82.1, AddrSim=83.5]
+
+[US #03] S1-171185163
+  Source 1 : Cory Mccarter Optimal Thayer LLC | 304 Chapman Street, Franklin, KY
+  Matches (4):
+    * S3-845800793 [US]: Cory Mccarter  Optimal Thayer LLC | 304 Chapman Street, Franklin, Kentucky
+      [Metrics: NameSim=100.0, AddrSim=91.4]
+    * S2-575457973 [US]: Cory Mccarter Optimal Thayer | 304 CHAPMAN STREET, FRANKLIN, KY
+      [Metrics: NameSim=93.3, AddrSim=100.0]
+    * S3-437073021 [US]: Cory Mccarter Optimal Thayer | 304 Champan St, Franklin, Kentucky
+      [Metrics: NameSim=93.3, AddrSim=81.8]
+    * S3-76525782 [US]: corymccarteroptimal.com | 304 Chapman St, Franklin, Kentucky
+      [Metrics: NameSim=69.1, AddrSim=84.8]
+
+[US #04] S1-491784148
+  Source 1 : Direct Superior Hall, Inc. | 2517 Regency, Magnolia, AR
+  Matches (2):
+    * S3-224409548 [US]: Direct Superior Hall, Inc - 8767796570 | 2517 Regency, Magnolia, Arkansas
+      [Metrics: NameSim=78.1, AddrSim=89.7]
+    * S3-232685244 [US]: Fayenex DBA: Direct Superior Hall, Inc. | 2517 Regency, Magnolia, AR
+      [Metrics: NameSim=80.0, AddrSim=100.0]
+
+[US #05] S1-602400857
+  Source 1 : Novis Best LLC | 4758 246, Smiths Station, AL
+  Matches (5):
+    * S2-425304545 [US]: NOVIS BEST LLC | 4758 246, SMITHS STATION, AL
+      [Metrics: NameSim=100.0, AddrSim=100.0]
+    * S3-497913231 [US]: Novis Bsmst LLC | 4758 246, Smiths Station, Alabama
+      [Metrics: NameSim=89.7, AddrSim=91.8]
+    * S3-477998898 [US]: LLC Novis Btt | 4758 246, Smiths Station, Alabama
+      [Metrics: NameSim=88.9, AddrSim=91.8]
+    * S2-838205274 [US]: Novis Best Inc | 4779 1/2 246, NULL, SMITHS STATION, AL
+      [Metrics: NameSim=85.7, AddrSim=78.8]
+    * S3-600373110 [US]: Novis Best Corp. | 477 246, Smiths Station Township, Alabama
+      [Metrics: NameSim=80.0, AddrSim=75.4]
+
+[US #06] S1-227037032
+  Source 1 : Unified Marine Alliance Inc | 5135 88th Court, Tulsa, OK
+  Matches (3):
+    * S3-45873557 [US]: Unified Marien Alliance Inc | 5135 88th Ct, Tlsa, Oklahoma
+      [Metrics: NameSim=96.3, AddrSim=81.5]
+    * S3-280292067 [US]: UNIFIED MARINE ALLIANCE INC | 5135 88th Court, Tlsa, Oklahoma
+      [Metrics: NameSim=100.0, AddrSim=87.7]
+    * S2-791099996 [US]: Unified Marine Alliance Ínc | 5135 88TH CT, TULSA, OK
+      [Metrics: NameSim=85.2, AddrSim=93.9]
+
+[US #07] S1-796676899
+  Source 1 : Ebonee Mann, DMD, P.C. | 571 Indian Spring Lane, Buffalo Grove, IL
+  Matches (2):
+    * S3-932260205 [US]: P.C., Ebonee DMD, Mánn, | 571 Indian Spring Lane, Buffalo Grove, Illinois
+      [Metrics: NameSim=93.3, AddrSim=93.2]
+    * S3-427726924 [US]: Eb0nee Mann,-DMD, | 571 Indian Spring Lane, Buffalo Grove, Illinois
+      [Metrics: NameSim=56.4, AddrSim=93.2]
+
+[US #08] S1-831597559
+  Source 1 : May's Atlantic Manufacturing | 401 Barnard Mill Road, Hamptonville, NC
+  Matches (1):
+    * S2-931402385 [US]: May's Atlantic Manufacturing Co | 401 BARNARD MILL RD, HAMPTONVILLE, NC
+      [Metrics: NameSim=94.9, AddrSim=97.4]
+
+[US #09] S1-943779220
+  Source 1 : Maid Pilates | 4428 Magdalena Lane, Phoenix, AZ
+  Matches (3):
+    * S3-192266633 [US]: Maid Pilates Corporation | 4428 1/2 Magdalena Ln, Phoenix, Arizona
+      [Metrics: NameSim=66.7, AddrSim=84.5]
+    * S3-330362131 [US]: Maid Pi1ates LP | 4428 1/2 Magdalena Lane, Phoenix, Arizona
+      [Metrics: NameSim=81.5, AddrSim=87.7]
+    * S3-613801207 [US]: Maid Pcelacets | 4428 1/2 Magdalena Ln, Phoenix, Arizona
+      [Metrics: NameSim=76.9, AddrSim=84.5]
+
+[US #10] S1-398186890
+  Source 1 : Lower Launchpad | 9012 Tara Hill Road, Darien, IL
+  Matches (1):
+    * S2-123462882 [US]: Lower Launchpad Corporation | 09012 TARA HILL RD, DARIEN, IL
+      [Metrics: NameSim=71.4, AddrSim=95.1]
+
+
+==================== COUNTRY: India ====================
+
+[India #01] S1-31056631
+  Source 1 : Modern Properties Private Limited | 401, Kairali Chs Ltd, L.T Road No. 1, Goregaon West, Mumbai, Maharashtra
+  Matches (2):
+    * S3-373364695 [India]: Properties Modern Private Limited | 401, Kairali Chs Ltd, L.t Road No. 1, Goregaon West, Goregaon W, MH
+      [Metrics: NameSim=100.0, AddrSim=79.1]
+    * S3-448684553 [India]: Modern Properties Private | 401, Kairali Chs Ltd, L.t Road No. 1, Goregaon West, Goregaon W, महाराष्ट्र
+      [Metrics: NameSim=86.2, AddrSim=70.7]
+
+[India #02] S1-690033035
+  Source 1 : Elite Fincap (India) Pvt Ltd | Inox Group, 612-618, Narain Manzil, 6Th Floor, 23, Barakhamba Road, New Delhi., Delhi
+  Matches (3):
+    * S2-226640550 [India]: ELITE FINCAP (INDIA) PVT | INOX GROUP, 612-618, NARAIN MANZIL, 6TH FLOOR, 23, BARAKHAMBA ROAD, <NULL>, Delhi
+      [Metrics: NameSim=92.3, AddrSim=88.0]
+    * S3-250337003 [India]: Smt Elite Fincap Ltd Pvt (India) | New Delhi., Inox Group, DL, 612-618, Narain Manzil, 6Th Floor, 23, Barakhamba Road
+      [Metrics: NameSim=93.3, AddrSim=95.8]
+    * S3-356242121 [India]: Elite Fincap (toda) Group Pvt Ltd | No 96. Inox Group, 612-618, Narain Manzil, 6Th Floor, 23, Divreportingcircle, New Delhi., DL
+      [Metrics: NameSim=82.0, AddrSim=76.8]
+
+[India #03] S1-542671109
+  Source 1 : Shakti Maa International | C-55, Veer Durgadas Nagar, Pali Marwar, Pali, Rajasthan
+  Matches (1):
+    * S3-3894613 [India]: Synnoviio d/b/a Shakti Maa International | C-55, Veer Durgadas Nagar, Pali Marwar, Pali, Rajasthan
+      [Metrics: NameSim=75.0, AddrSim=100.0]
+
+[India #04] S1-854816883
+  Source 1 : Interactive Polytechnic Corp | 1/5448 C Lane 15 B Balbir Nagar Extension, Shahdara, East Delhi, Delhi
+  Matches (5):
+    * S3-350358150 [India]: Interactive Polytechnic  Corp | G-1/5448 C Lane 15 B Balbir Nagar Extension, Shahdara, East Delhi, दिल्ली
+      [Metrics: NameSim=100.0, AddrSim=79.7]
+    * S3-478041388 [India]: interactivepolytechnic.com | G-1/5448 C Lane 15 B Balbir Nagar Extension, East Delhi, Shahdara, DL
+      [Metrics: NameSim=81.5, AddrSim=84.9]
+    * S3-118541438 [India]: L.L.P. Interactive Polytechnic | East Delhi, Shahdara, दिल्ली, 1/5459- C Lane 15 B Balbir Nagar Extension
+      [Metrics: NameSim=79.3, AddrSim=85.9]
+    * S2-456914988 [India]: Interactive Corp Center | 1/5448 C LANE 15 B BALBIR NAGAR EXTENSION, SHAHDARA, Delhi
+      [Metrics: NameSim=62.7, AddrSim=90.6]
+    * S3-630262974 [India]: Interactive Properties Corp | H.no 1/5459- C Lane 15 B Balbir Nagar Extension, Shahdara, East Delhi, DL
+      [Metrics: NameSim=76.4, AddrSim=89.5]
+
+[India #05] S1-968898970
+  Source 1 : Sai Healthcare Private Limited | Office No. 405, 4Th Floor, Shelton Cubix, Plot No. 87, Sector -15, Belapur, Thane, Maharashtra
+  Matches (1):
+    * S2-302639494 [India]: Sai Healthcare Limited Center Center | 
+      [Metrics: NameSim=66.7, AddrSim=0.0]
+
+[India #06] S1-302940361
+  Source 1 : Unique Smart Finance Private Limited | Asha Sadan, Sector-C, Block -V Bhagwati Vihar, Uttam Nagar, New Delhi, Delhi, V-134
+  Matches (2):
+    * S3-851272413 [India]: Unique  Smart Finance Private Limited | V-134, New Delhi, Delhi, दिल्ली
+      [Metrics: NameSim=100.0, AddrSim=42.1]
+    * S3-736538730 [India]: यूनिक स्मार्ट फाइनेंस प्राइवेट लिमिटेड | V-134, Asha Sadan, Sector-c, Block -V Bhagwati Vihar, Uttam Nagar, Delhi, New Delhi, DL
+      [Metrics: NameSim=10.8, AddrSim=97.6]
+
+[India #07] S1-434439088
+  Source 1 : Galaxy Jay Estate Pvt Ltd | Maharashtra, Pune, Palladium Mangaldas Road, 801, Pune
+  Matches (2):
+    * S2-857710707 [India]: Galaxy Jay [Estate] | 801, PALLADIUM MANGALDAS ROAD, PUNE, Maharashtra
+      [Metrics: NameSim=77.3, AddrSim=94.1]
+    * S2-66967265 [India]: राज श्याम वेंचर्स प्राइवेट लिमिटेड | B G-801, PUNE, Maharashtra
+      [Metrics: NameSim=13.6, AddrSim=55.0]
+
+[India #08] S1-162758312
+  Source 1 : Chennai Logistics | No.6, Old Door No.31, New Door No.77, Dr. M.G.R Salai, Kodambakkam High Road, Chennai, Tamil Nadu
+  Matches (3):
+    * S3-492519708 [India]: Chennai  Logistics | No.a-6, Old Door No.31, New Door No.77, Dr. M.g.r Salai, Kodambakkam High Road, Chennai, TN
+      [Metrics: NameSim=100.0, AddrSim=90.4]
+    * S3-171032533 [India]: Chennai Logistois | #A-6, Old Door No.31, New Door No.77, Dr. M.g.r Salai, Kodambakkam High Road, Chennai, தமிழ்நாடு
+      [Metrics: NameSim=94.1, AddrSim=83.9]
+    * S3-92266322 [India]: Chennai Laoisis | No.a-6, Old Door No.31, New Door No.77, Dr. M.g.r Salai, Kodambakkam High Road, Chennai, TN
+      [Metrics: NameSim=87.5, AddrSim=90.4]
+
+[India #09] S1-350829307
+  Source 1 : New Ventures Private Limited | D No. 8-14-14, Vizianagaram, Andhra Pradesh, Balaji Nagar Vizianagaram
+  Matches (3):
+    * S3-450609693 [India]: newventures.com | D No. 8-14-14, Vizianagaram, AP
+      [Metrics: NameSim=51.2, AddrSim=59.4]
+    * S3-602258489 [India]: New Ventures Agencies Private Limited | #B3/8-14-18, Balaji Nagar Vizianagaram, Vizianagaram, ఆంధ్రప్రదేశ్
+      [Metrics: NameSim=86.2, AddrSim=69.1]
+    * S3-44847584 [India]: న్యూ వెంచర్స్ కన్‌స్ట్రక్షన్స్ ప్రైవేట్ లిమిటెడ్ | D No. B3/8-14-18, Balaji Nagar Vizianagaram, Vizianagaram, ఆంధ్రప్రదేశ్
+      [Metrics: NameSim=7.9, AddrSim=75.2]
+
+[India #10] S1-791055758
+  Source 1 : Sky Jay Healthcare Private Limited | 6/103 Kaushalya Park Hauz Khas, New Delhi, South Delhi, Delhi
+  Matches (2):
+    * S3-182454571 [India]: Sky Jay Healthcare Limited Private | H.no #6/103 Kaushalya Park Hauz Khas, New Delhi, South Delhi, दिल्ली
+      [Metrics: NameSim=100.0, AddrSim=86.8]
+    * S3-447893122 [India]: Sky Jay Properties Private Limited | 6/106 Kaushalya Park Hauz Khas, New Delhi, South Delhi, DL
+      [Metrics: NameSim=67.6, AddrSim=94.1]
+
+================================================================================
+SUMMARY OF SAMPLE: 83 total pairs across 30 entities
+  France : 32 pairs across 10 entities (avg 3.2/entity)
+  US     : 27 pairs across 10 entities (avg 2.7/entity)
+  India  : 24 pairs across 10 entities (avg 2.4/entity)
+================================================================================

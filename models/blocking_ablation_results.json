@@ -1,0 +1,70 @@
+{
+  "evaluation_entities": 3000,
+  "total_ground_truth_matches": 10305,
+  "overall_union_hits": 9927,
+  "overall_union_recall_pct": 96.33,
+  "avg_union_candidates_per_entity": 349.8,
+  "channel_ablation_results": [
+    {
+      "channel_name": "Sorted First-2-Tokens",
+      "total_hits": 6434,
+      "unique_catches": 1,
+      "candidate_volume": 16154,
+      "volume_percentage": 1.38,
+      "value_density_per_1k": 0.062,
+      "ablation_recall_drop_pct": 0.01,
+      "recall_without_channel": 96.32
+    },
+    {
+      "channel_name": "Phonetic Key (Double Metaphone)",
+      "total_hits": 7979,
+      "unique_catches": 36,
+      "candidate_volume": 147944,
+      "volume_percentage": 12.64,
+      "value_density_per_1k": 0.243,
+      "ablation_recall_drop_pct": 0.349,
+      "recall_without_channel": 95.98
+    },
+    {
+      "channel_name": "Postal PIN + Prefix",
+      "total_hits": 435,
+      "unique_catches": 0,
+      "candidate_volume": 436,
+      "volume_percentage": 0.04,
+      "value_density_per_1k": 0.0,
+      "ablation_recall_drop_pct": 0.0,
+      "recall_without_channel": 96.33
+    },
+    {
+      "channel_name": "Address Street/PIN/City Keys",
+      "total_hits": 6652,
+      "unique_catches": 652,
+      "candidate_volume": 10909,
+      "volume_percentage": 0.93,
+      "value_density_per_1k": 59.767,
+      "ablation_recall_drop_pct": 6.327,
+      "recall_without_channel": 90.0
+    },
+    {
+      "channel_name": "Significant Tokens & 4-grams",
+      "total_hits": 9008,
+      "unique_catches": 325,
+      "candidate_volume": 919508,
+      "volume_percentage": 78.54,
+      "value_density_per_1k": 0.353,
+      "ablation_recall_drop_pct": 3.154,
+      "recall_without_channel": 93.18
+    },
+    {
+      "channel_name": "Acronyms",
+      "total_hits": 5726,
+      "unique_catches": 11,
+      "candidate_volume": 75811,
+      "volume_percentage": 6.48,
+      "value_density_per_1k": 0.145,
+      "ablation_recall_drop_pct": 0.107,
+      "recall_without_channel": 96.23
+    }
+  ],
+  "execution_time_s": 53.6
+}

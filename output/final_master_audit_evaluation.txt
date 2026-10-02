@@ -1,0 +1,47 @@
+================================================================================
+FINAL MASTER AUDIT EVALUATION REPORT (SEED 77777)
+SUBMISSION: BitMinds_submission.zip (SHA-256: a744059d2ca80c66a584cfd7fcbf9f87ee36a24d02129589d238d896913655d2)
+FILE: output/matching_results.tsv (SHA-256: eb13769d8732b103273ceabf3ec2604da66076956b1a01a06856d7ea657d30f2)
+================================================================================
+
+AUDIT SAMPLE DETAILS:
+  - 30 randomly sampled entities (10 France, 10 US, 10 India) with reproducible seed 77777
+  - Evaluated directly on the literal final master submission file
+  - All 83 matched pairs verified against raw text from test_source1, 2, and 3
+
+PER-COUNTRY BREAKDOWN:
+1. FRANCE (10 entities, 28 pairs):
+   - Genuine Matches   : 23
+   - False Matches     : 3  (Different street names e.g. Rue Copernic vs Rue d'Alsace)
+   - Ambiguous Matches : 2  (Sub-branch names e.g. Laudition Socio Amis vs Jeunes)
+   -> Strict Precision    : 23 / 28 = 82.14%
+   -> Effective Precision : 24 / 28 = 85.71%
+
+2. UNITED STATES (10 entities, 32 pairs):
+   - Genuine Matches   : 32
+   - False Matches     : 0
+   - Ambiguous Matches : 0
+   -> Strict Precision    : 32 / 32 = 100.00%
+   -> Effective Precision : 32 / 32 = 100.00%
+
+3. INDIA (10 entities, 23 pairs):
+   - Genuine Matches   : 18
+   - False Matches     : 4  (Co-located non-Latin businesses e.g. High Software vs Allied Corporate)
+   - Ambiguous Matches : 1  (Fl 5 vs Fl 3)
+   -> Strict Precision    : 18 / 23 = 78.26%
+   -> Effective Precision : 18.5 / 23 = 80.43%
+
+OVERALL AUDIT METRICS:
+Total Pairs Audited : 83
+Genuine Matches     : 73 (87.95%)
+False Matches       : 7  ( 8.43%)
+Ambiguous Matches   : 3  ( 3.61%)
+
+STRICT PRECISION    : 87.95% (73 / 83)
+EFFECTIVE PRECISION : 89.76% (74.5 / 83)
+
+PROGRESSION THROUGH TONIGHT'S FIXES:
+1. Submitted Baseline (0.668 LB) : 71.3% Strict Precision
+2. Street-Guarded Version       : 85.54% Strict Precision
+3. Final Combined-Guard Version  : 87.95% Strict Precision (+16.65% absolute gain!)
+================================================================================

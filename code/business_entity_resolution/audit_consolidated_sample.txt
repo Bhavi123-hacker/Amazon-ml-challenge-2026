@@ -1,0 +1,1135 @@
+
+=======================================================
+COUNTRY: France (tau=0.999)
+=======================================================
+
+[France #1] Prob: 0.999545 (Rank: 16)
+  S1 (S1-178369639):
+    Name:    La Teste-de-Buch Culturelle SA
+    Address: 16 bis Allee du Moulin, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S2-402598971):
+    Name:    La Teste-de-Buch Amicale E.U.R.L.
+    Address: 16 BIS RUE DE LA SÉOUBE, LA TESTE-DE-BUCH
+
+[France #2] Prob: 0.999982 (Rank: 1)
+  S1 (S1-869849607):
+    Name:    Lyannaj Loisirs SARL
+    Address: 3 Rue Jean Richepin, Saint-Nazaire, Pays de la Loire
+  Candidate (S3-904654987):
+    Name:    Lyannaj Loisirs Sàrl
+    Address: Rue Jean Richepin, Saint-nazaire
+
+[France #3] Prob: 0.999990 (Rank: 4)
+  S1 (S1-834320847):
+    Name:    Welcome Élémentaire SARL
+    Address: Hauts-de-France, Lille, 27 Avenue Louise Michel
+  Candidate (S2-33662556):
+    Name:    WELCOME ÉLÉMENTAIRE SARL
+    Address: 27 AVENUE LOUISE MICHEL, LILLE, Nord
+
+[France #4] Prob: 0.999962 (Rank: 1)
+  S1 (S1-207058601):
+    Name:    Cur (France) Comite SCI
+    Address: 30 Rue du Bocage, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S3-543653197):
+    Name:    Ariabeloquo Labs d/b/a Cur (France) Comite SCI
+    Address: 30 Rue du Bocage, Bordeaux, Nouvelle-Aquitaine
+
+[France #5] Prob: 0.999817 (Rank: 2)
+  S1 (S1-277812292):
+    Name:    Saint-Herblain Section
+    Address: 18 Impasse du Chardon Bleu, Saint-Herblain, Pays de la Loire
+  Candidate (S2-956933572):
+    Name:    SAINT-HERBLAIN SECTION SARL
+    Address: 10 IMPASSE DU VIEUX CHÊNE, SAINT-HERBLAIN, Pays de la Loire
+
+[France #6] Prob: 0.999593 (Rank: 0)
+  S1 (S1-47234015):
+    Name:    Deleves Club
+    Address: 48 Rue Denise, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S3-28855681):
+    Name:    Wexlum d/b/a Deleves Club
+    Address: 48 Rue Denise, Bordeaux, Nouvelle-Aquitaine
+
+[France #7] Prob: 0.999289 (Rank: 8)
+  S1 (S1-102756152):
+    Name:    Edouard Lycée SAS
+    Address: 10 Lieu-Dit Tillay, Saint-Herblain, Pays de la Loire
+  Candidate (S3-406406045):
+    Name:    Jumeaux Soutra Club S.A.S.
+    Address: 10 Lieu-dit La Syonnière, Saint-herblain, Pays de la Loire
+
+[France #8] Prob: 0.999904 (Rank: 1)
+  S1 (S1-891770471):
+    Name:    École primaire Folies
+    Address: 10 Rue Victor Hugo, Dunkerque, Hauts-de-France
+  Candidate (S3-44568119):
+    Name:    École primaire Folies SNC
+    Address: 11 Rue Victor Hugo, Dunkerque
+
+[France #9] Prob: 0.999976 (Rank: 11)
+  S1 (S1-641801128):
+    Name:    La Baule-Escoublac Parents SAS
+    Address: 2 Allée des Tilleuls, La Baule-Escoublac, Pays de la Loire
+  Candidate (S2-57344552):
+    Name:    La Baule-Escoublac Sôciete
+    Address: 2 - ALLEE DES LICHENS, LA BAULE-ESCOUBLAC, Pays de la Loire
+
+[France #10] Prob: 0.999959 (Rank: 0)
+  S1 (S1-863644112):
+    Name:    IN Sportive
+    Address: 7 Allée des Chênes Verts, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  Candidate (S2-468833671):
+    Name:    IN & Associés
+    Address: (7) ALLÉE DES CHÊNES VERTS, LÈGE-CAP-FERRET, Nouvelle-Aquitaine
+
+[France #11] Prob: 0.999991 (Rank: 3)
+  S1 (S1-397833746):
+    Name:    Fontaine Sante SARL
+    Address: 32 Rue Adrienne Bolland, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S2-552033812):
+    Name:    Fontaine Sànte SARL
+    Address: LA TESTE-DE-BUCH, 32 RUE ADRINNE BOLLAND
+
+[France #12] Prob: 0.999982 (Rank: 1)
+  S1 (S1-299555233):
+    Name:    Employes Comite SCI
+    Address: Pornic, 6 La Cochardière, Pays de la Loire
+  Candidate (S2-568181787):
+    Name:    EMPLOYES ÇOMITE SCI
+    Address: 6 LA COCHARDIEOE, PORNIC
+
+[France #13] Prob: 0.999907 (Rank: 5)
+  S1 (S1-914974861):
+    Name:    Bordeaux Ecole SARL
+    Address: 22 Rue du Faubourg des Arts, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S2-330854495):
+    Name:    Bordeaux Ecole SCI
+    Address: 22 RUE CLAIRE, BORDEAUX
+
+[France #14] Prob: 0.999989 (Rank: 2)
+  S1 (S1-536229295):
+    Name:    Site Institut SASU
+    Address: 7 Place des Thébaudières, Saint-Herblain, Pays de la Loire
+  Candidate (S2-965759625):
+    Name:    Site Institut
+    Address: 7 PL DES THÉBAUDIÈRES, ST.-HERBLAIN, Loire-Atlantique
+
+[France #15] Prob: 0.999977 (Rank: 11)
+  S1 (S1-927083319):
+    Name:    Nantes Amicale SAS
+    Address: 6 Rue Saint Mihiel, Pays de la Loire, Nantes
+  Candidate (S3-587708308):
+    Name:    Nantes Àmicale SAS
+    Address: Loire-Atlantique, # 6 Rue Sait Mihiel, Nantes
+
+[France #16] Prob: 0.999993 (Rank: 2)
+  S1 (S1-885228250):
+    Name:    Citoyens Amicale SARL
+    Address: 3 Place d'Andalousie, Dunkerque, Hauts-de-France
+  Candidate (S3-331053960):
+    Name:    SARL Citoyens Amicale
+    Address: 3 Pl. D'andalousie, Dunkerque, Nord
+
+[France #17] Prob: 0.999992 (Rank: 0)
+  S1 (S1-430217763):
+    Name:    Sols Foyer SARL
+    Address: Pays de la Loire, Nantes, 33 Rue André Hougron
+  Candidate (S2-303574849):
+    Name:    Sols Foyer SARL
+    Address: 33 RUE ANDRE HOUGRON, NANTES
+
+[France #18] Prob: 0.999910 (Rank: 18)
+  S1 (S1-70133593):
+    Name:    Maison de Santé Dame
+    Address: 2 Avenue du Cabernet, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  Candidate (S3-541866925):
+    Name:    Maison de Santé Saint Jean
+    Address: Nº 2 Rte De Bordeaux, Lège-cap-ferret, Nouvelle-Aquitaine
+
+[France #19] Prob: 0.999672 (Rank: 9)
+  S1 (S1-38037579):
+    Name:    Lycée Bouchon
+    Address: 12 Rue Bernard Palissy, Saint-Nazaire, Pays de la Loire
+  Candidate (S2-313325652):
+    Name:    ARISTOS PRIMAIRE EURL
+    Address: (12) RUE BERNARD PALISSY, SAINT-NAZAIRE, Pays de la Loire
+
+[France #20] Prob: 0.999950 (Rank: 1)
+  S1 (S1-153831145):
+    Name:    SVR Federation SARL
+    Address: 72 Rue Médec-Col J. Vialar Goudou, Pessac, Nouvelle-Aquitaine
+  Candidate (S2-353092435):
+    Name:    svrfederationsarl.com
+    Address: 72 R. MÉDEC-COL J. VIALAR GOUDOU, PESSAC, Gironde
+
+[France #21] Prob: 0.999983 (Rank: 1)
+  S1 (S1-227468731):
+    Name:    La Teste-de-Buch Amicale SCI
+    Address: 33 Rue Paul Langevin, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S3-140551538):
+    Name:    La Tst-de-Buhc Amicale SCI
+    Address: 33 R Paul Langevin, La Teste De Buch, Gironde
+
+[France #22] Prob: 0.999993 (Rank: 0)
+  S1 (S1-626593568):
+    Name:    Ets Cpts SAS
+    Address: 36 Rue Casimir Delavigne, Calais, Hauts-de-France
+  Candidate (S2-655078083):
+    Name:    Ets  Cpts
+    Address: 36 RUE CASIMIR DELAVIGNE, CALAIS, Hauts-de-France
+
+[France #23] Prob: 0.999742 (Rank: 5)
+  S1 (S1-199936420):
+    Name:    Bordeaux Societe SARL
+    Address: 14 Rue des Gants, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S2-574279363):
+    Name:    BORDEAUX SOCIETE  EURL
+    Address: # 14 R DES DUOVES, BORDEAUX
+
+[France #24] Prob: 0.999747 (Rank: 2)
+  S1 (S1-621775524):
+    Name:    Ici Loisirs SARL
+    Address: 1 Place des Fusillés, Calais, Hauts-de-France
+  Candidate (S2-678626757):
+    Name:    ICI PARENTS SARL
+    Address: 1 PLACE DES FUSILLÉS, CALAIS
+
+[France #25] Prob: 0.999702 (Rank: 17)
+  S1 (S1-734088767):
+    Name:    La Baule-Escoublac Centre SARL
+    Address: 2 Allée des Troves, La Baule-Escoublac, Pays de la Loire
+  Candidate (S2-184711928):
+    Name:    La Baule-Escoublac Comite S.A.S.
+    Address: 2 ALLÉE JEANNE, LA BAULE-ESCOUBLAC
+
+[France #26] Prob: 0.999991 (Rank: 2)
+  S1 (S1-755701167):
+    Name:    Nantes Club SAS
+    Address: 6 RUE du Lt Jean de Sesmaisons, Nantes, Pays de la Loire
+  Candidate (S2-254378535):
+    Name:    SAS Nantes Club
+    Address: N° 6 RUE DU LT JEAN DE SESMAISONS, Loire-Atlantique, Nantes
+
+[France #27] Prob: 0.999157 (Rank: 1)
+  S1 (S1-228152489):
+    Name:    LXU Comite
+    Address: 18 QUATER Rue Camille Desmoulins, Lille, Hauts-de-France
+  Candidate (S3-565308421):
+    Name:    Tavocalomira
+    Address: 18 Rue Camille Desmoulins, Lille, Hauts-de-France
+
+[France #28] Prob: 0.999995 (Rank: 1)
+  S1 (S1-780833430):
+    Name:    Ah Amis SAS
+    Address: 16 Allée des Mélèzes, La Baule-Escoublac, Pays de la Loire
+  Candidate (S3-216043340):
+    Name:    SAS Ah Amis
+    Address: 16 Allee Des Melezes, La Baule-Escoublac
+
+[France #29] Prob: 0.999198 (Rank: 7)
+  S1 (S1-69856789):
+    Name:    Soutien Ecole SCI
+    Address: 36 Rue de Solférino, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S3-257904070):
+    Name:    Korvioiri
+    Address: 36 RUE Solferino, Bordeaux, Nouvelle-Aquitaine
+
+[France #30] Prob: 0.999988 (Rank: 0)
+  S1 (S1-184048844):
+    Name:    Cinema Black Santé
+    Address: 39 Quai des Chartrons, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S2-172578223):
+    Name:    Cinema Black Santé
+    Address: Gironde, N° 39 QUAI DES CHARTRONS, BORDEAUX
+
+[France #31] Prob: 0.999973 (Rank: 1)
+  S1 (S1-228321265):
+    Name:    Villeroy Club SAS
+    Address: Mérignac, Nouvelle-Aquitaine, 48 Avenue du Chut
+  Candidate (S3-581038249):
+    Name:    SAS Villeroy Club
+    Address: Avenue Du Chut, Mérignac
+
+[France #32] Prob: 0.999948 (Rank: 15)
+  S1 (S1-908411381):
+    Name:    La Teste-de-Buch Élémentaire SARL
+    Address: 19 a Rue Henri Dheurle, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S3-355315469):
+    Name:    La Teste-de-Buch Sportive SARL
+    Address: 19 Rue De La Rgèue Blanque, La Teste De Buch, Nouvelle-Aquitaine
+
+[France #33] Prob: 0.999992 (Rank: 1)
+  S1 (S1-258022300):
+    Name:    Cordee & Cie SARL
+    Address: Lille, Hauts-de-France, 30 Rue Mariotte
+  Candidate (S2-660644638):
+    Name:    CORDEE & CIE SARL
+    Address: #30 RUE MARIOTTE, LILLE
+
+[France #34] Prob: 0.999912 (Rank: 6)
+  S1 (S1-339551863):
+    Name:    Centre Hospitalier Saint Jardinieres
+    Address: 61-67 RUE Notre-Dame, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S2-64236006):
+    Name:    CENTREHOSPITALIERSAINT.COM
+    Address: 61-67 RUE NOTRE-DAME, BORDEAUX, Gironde
+
+[France #35] Prob: 0.999746 (Rank: 11)
+  S1 (S1-302630396):
+    Name:    Fédération du Detudes
+    Address: 90 BD Montebello, Lille, Hauts-de-France
+  Candidate (S3-551543552):
+    Name:    Fdrationdudetudes.Com
+    Address: 90 Bd Montebello, Lille, Nord
+
+[France #36] Prob: 0.999994 (Rank: 1)
+  S1 (S1-572010122):
+    Name:    Eaux Departementale Loisirs
+    Address: 6 Rue de la Somme, Pessac, Nouvelle-Aquitaine
+  Candidate (S2-388193982):
+    Name:    Eaux Loisirs Departementale
+    Address: 6 R DE LA SOMME, PESSAC, Nouvelle-Aquitaine
+
+[France #37] Prob: 0.999992 (Rank: 0)
+  S1 (S1-219254539):
+    Name:    Bureau Groupement SARL
+    Address: 6 Allée du Canelot, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S2-947540150):
+    Name:    BUREAU GROUPEMENT SARL
+    Address: 6 ALLEE DU CANELOT, LA TESTE-DE-BUCH, Gironde
+
+[France #38] Prob: 0.999992 (Rank: 0)
+  S1 (S1-468318394):
+    Name:    Association de Generation
+    Address: 174 Boulevard Robert Schuman, Nantes, Pays de la Loire
+  Candidate (S3-332493145):
+    Name:    Association De Generation-Sasu
+    Address: Nantes, 174 Bd. Robert Schuman
+
+[France #39] Prob: 0.999955 (Rank: 2)
+  S1 (S1-798082949):
+    Name:    Chasse Loisirs EURL
+    Address: 16 Rue Gustave Nadaud, Dunkerque, Hauts-de-France
+  Candidate (S2-23576186):
+    Name:    chasseloisirseurl.com
+    Address: 16 R GUSTAVE NADAUD, DUNKERQUE
+
+[France #40] Prob: 0.999992 (Rank: 0)
+  S1 (S1-15033775):
+    Name:    Souffles Comite (France) SAS
+    Address: 66 Rue Francis Jammes, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S3-339910701):
+    Name:    Souffles Comite (France)
+    Address: Bordeaux, 66 Rue Francis Jammes
+
+[France #41] Prob: 0.999963 (Rank: 1)
+  S1 (S1-161543339):
+    Name:    Club du Etang
+    Address: Hauts-de-France, Calais, 51 Rue Denis Papin
+  Candidate (S3-447091444):
+    Name:    Club dû Etang
+    Address: R. Denis Papin, Hauts-de-France, Calais
+
+[France #42] Prob: 0.999994 (Rank: 1)
+  S1 (S1-699417351):
+    Name:    Chasseurs Service SARL
+    Address: 16 Bis Avenue du Midi, Nantes, Pays de la Loire
+  Candidate (S3-84498473):
+    Name:    Chasseurs Sërvice SARL
+    Address: 16 Bis Avenue Du Midi, Nantes
+
+[France #43] Prob: 0.999993 (Rank: 4)
+  S1 (S1-150761375):
+    Name:    Bordeaux Collège SARL
+    Address: Bordeaux, 7 B Rue des Girondins, Nouvelle-Aquitaine
+  Candidate (S3-29606678):
+    Name:    Bordeaux Çollège SARL
+    Address: 7 B Rue Des Girondins, Bordeaux, Gironde
+
+[France #44] Prob: 0.999994 (Rank: 0)
+  S1 (S1-752219817):
+    Name:    Établissements Chercheurs SARL
+    Address: La Teste-de-Buch, Nouvelle-Aquitaine, 64 Avenue Louis Gaume
+  Candidate (S2-3842878):
+    Name:    Établissements Chercheurs Sàrl
+    Address: N° 64 AV. LOUIS GAUME, LA TESTE DE BUCH, Nouvelle-Aquitaine
+
+[France #45] Prob: 0.999988 (Rank: 6)
+  S1 (S1-210371492):
+    Name:    Pessac Ecole SARL
+    Address: 8 bis Rue du Rossignol, Pessac, Nouvelle-Aquitaine
+  Candidate (S2-38326498):
+    Name:    @pessacecole
+    Address: 8 BIS RUE DU ROSSIGNOL, PESSAC, Nouvelle-Aquitaine
+
+[France #46] Prob: 0.999989 (Rank: 0)
+  S1 (S1-610146565):
+    Name:    Saadf Club
+    Address: Hauts-de-France, Roubaix, 28 Rue du Chemin Neuf
+  Candidate (S3-658206280):
+    Name:    Saadf [Club]
+    Address: N° 28 R Du Chemin Neuf, Roubaix
+
+[France #47] Prob: 0.999987 (Rank: 1)
+  S1 (S1-425547411):
+    Name:    Deleves Maternelle SAS
+    Address: 3 Rue de la Forestiere, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  Candidate (S2-455864212):
+    Name:    Deleves Maternelle S.A.S.
+    Address: 3 R DE LA FORESTIERE, LÈGE-CAP-FERRET
+
+[France #48] Prob: 0.999991 (Rank: 0)
+  S1 (S1-975001667):
+    Name:    NXQ Pharmacie
+    Address: 43 Rue de Soissons, Bordeaux, Nouvelle-Aquitaine
+  Candidate (S3-317555461):
+    Name:    NXQ Pharmacie-Eurl
+    Address: 43 Rue De Soissons, Bordeaux, Gironde
+
+[France #49] Prob: 0.999257 (Rank: 3)
+  S1 (S1-774084302):
+    Name:    Comité des Communale
+    Address: 37 Allée des Avocettes, Saint-Nazaire, Pays de la Loire
+  Candidate (S2-220425575):
+    Name:    Comité dù Tennis SAS
+    Address: NO 37 ALL. DES LIERRES, SAINT-NAZAIRE
+
+[France #50] Prob: 0.999318 (Rank: 3)
+  S1 (S1-708696289):
+    Name:    La Teste-de-Buch Sport SCI
+    Address: 37 Rue du Parc de l’Estey, La Teste-de-Buch, Nouvelle-Aquitaine
+  Candidate (S2-926948537):
+    Name:    LA-TESTE-DE-BUCH SPORT SCI
+    Address: N° 9 CALANTE DES PIRELONS, La Teste-de-Buch, Nouvelle-Aquitaine
+
+[France #51] Prob: 0.999991 (Rank: 2)
+  S1 (S1-845474489):
+    Name:    Illusion Developpement Restauration SA
+    Address: 2 ALL Prosper Merimee, la Herissiere, Saint-Herblain, Pays de la Loire
+  Candidate (S2-220291605):
+    Name:    Illusion Developpement Restauration SA
+    Address: #2 ALL PROSPER MERIMEE, LA HERISSIERE, SAINT-HERBLAIN, Loire-Atlantique
+
+[France #52] Prob: 0.999734 (Rank: 22)
+  S1 (S1-237608903):
+    Name:    DGE Club SARL
+    Address: 3 RUE de Pornichet, Nantes, Pays de la Loire
+  Candidate (S2-191991575):
+    Name:    nantes club sarl
+    Address: NO. 3 RUE DE BARBIN, NANTES, Pays de la Loire
+
+[France #53] Prob: 0.999025 (Rank: 0)
+  S1 (S1-844866140):
+    Name:    Si & Cie SA
+    Address: 60 Boulevard du 8 Mai 1945, Dunkerque, Hauts-de-France
+  Candidate (S3-32321851):
+    Name:    Si & Çie SCI
+    Address: Dunkerque, N°69 Boluevard Du 8 Mai 1945, Hauts-de-France
+
+[France #54] Prob: 0.999995 (Rank: 4)
+  S1 (S1-124164583):
+    Name:    MOO Jeunes SA
+    Address: 1 Rue Pauline Roland, Nantes, Pays de la Loire
+  Candidate (S3-96668098):
+    Name:    MOO Jeuens SA
+    Address: #1 Rue Pauline Roland, Nantes, Pays de la Loire
+
+[France #55] Prob: 0.999965 (Rank: 0)
+  S1 (S1-782087565):
+    Name:    Karate Sportive SASU
+    Address: 4 Rue Chevalier de Saint-George, Saint-Nazaire, Pays de la Loire
+  Candidate (S3-458427526):
+    Name:    Quowex formerly known as Karate Sportive SASU
+    Address: 4 Rue Chevalier de Saint-George, Saint-Nazaire, Pays de la Loire
+
+[France #56] Prob: 0.999992 (Rank: 1)
+  S1 (S1-980851433):
+    Name:    Dunkerque Amis SCI
+    Address: 3 Rue Paul Nybelin, Dunkerque, Hauts-de-France
+  Candidate (S2-652336630):
+    Name:    Dunkerque Amis S.C.I.
+    Address: 3 RUE PAUL NYBELIN, DUNKERQUE
+
+[France #57] Prob: 0.999397 (Rank: 3)
+  S1 (S1-296378250):
+    Name:    Poil (France) Sport SAS
+    Address: Pays de la Loire, 2 RUE de la Fantaisie, Nantes
+  Candidate (S3-724768499):
+    Name:    Gabriel (France)  Maison
+    Address: Pays de la Loire, 2 Rue Des Bourderies, Nantes
+
+[France #58] Prob: 0.999750 (Rank: 15)
+  S1 (S1-167891395):
+    Name:    Demeure Union SA
+    Address: Dunkerque, 47 16 Rue Marceau, Hauts-de-France
+  Candidate (S3-661575046):
+    Name:    Avixylo
+    Address: 47 1 Rue Marceau, Dunkerque, Hauts-de-France
+
+[France #59] Prob: 0.999991 (Rank: 2)
+  S1 (S1-748524461):
+    Name:    Juristes Fetes EURL
+    Address: 147 Rue Leavers, Hauts-de-France, Calais
+  Candidate (S2-306001593):
+    Name:    Juristes  Fetes EURL
+    Address: 147 RUE LEAVERS, CALAIS, Pas-de-Calais
+
+[France #60] Prob: 0.999995 (Rank: 0)
+  S1 (S1-794591248):
+    Name:    Mystik (France) Comite SAS
+    Address: Dunkerque, Hauts-de-France, 21 Quai Wilson
+  Candidate (S3-35404038):
+    Name:    Mystik  (France) Comite S.A.S.
+    Address: N°21 Quai Wilson, Dunkerque, Hauts-de-France
+
+
+=======================================================
+COUNTRY: US (tau=0.86)
+=======================================================
+
+[US #1] Prob: 0.888463 (Rank: 15)
+  S1 (S1-247258063):
+    Name:    Ramos Ridge Chenghe Inc.
+    Address: 1452 Ellsworth Road, Unit 1439, Mesa, AZ
+  Candidate (S2-205902855):
+    Name:    Trujillo L.L.C. Digital
+    Address: 1452 ELLSWORTH RD, null, MESA, AZ
+
+[US #2] Prob: 0.999824 (Rank: 1)
+  S1 (S1-384455749):
+    Name:    Tri-State Southern LLC
+    Address: WA, 14023 14th Avenue, Tacoma
+  Candidate (S3-593091377):
+    Name:    Tri-State LLC Services
+    Address: 14023-C Fourteenth Ave, Tacoma, Washington
+
+[US #3] Prob: 0.999985 (Rank: 0)
+  S1 (S1-358142530):
+    Name:    Mecca Biotechnology LLC
+    Address: 700 Deer Valley Drive, Unit 5, Park City (summit Co), UT
+  Candidate (S3-625918333):
+    Name:    Orbiriza DBA: Mecca Biotechnology LLC
+    Address: 700 Deer Valley Drive, Unit 5, Park City (summit Co), UT
+
+[US #4] Prob: 0.999994 (Rank: 0)
+  S1 (S1-672536929):
+    Name:    Comoex LLC
+    Address: 1 French Island, Orland, ME
+  Candidate (S2-766651950):
+    Name:    comoex llc
+    Address: 1 FRENCH ISLAND, ORLAND, ME
+
+[US #5] Prob: 0.999836 (Rank: 1)
+  S1 (S1-805371765):
+    Name:    Shoshana Hollis, D.C., M.D., P.C.
+    Address: 226 Mountain View Road, Oak Grove, AL
+  Candidate (S3-321299154):
+    Name:    Shoshana Hollis, D.C.,-M.D., P.C. Riverside
+    Address: 237- Mountain View Rd, N/A, Oak Grove, Alabama
+
+[US #6] Prob: 0.999332 (Rank: 1)
+  S1 (S1-495582159):
+    Name:    Popal Group
+    Address: 1628 Shenandoah Drive, Ardmore, OK
+  Candidate (S2-635437587):
+    Name:    Popal Group LLC
+    Address: 1629 SHENANDOAH DR, ARDMORE, OK
+
+[US #7] Prob: 0.999772 (Rank: 0)
+  S1 (S1-736819292):
+    Name:    Pool Family Practice
+    Address: MN, Anoka, 1725 2nd Avenue
+  Candidate (S3-667174292):
+    Name:    Calorizazeta trading as Pool Family Practice
+    Address: 1725 2nd Avenue, Anoka, MN
+
+[US #8] Prob: 0.999799 (Rank: 4)
+  S1 (S1-953277754):
+    Name:    Fry & Weiss
+    Address: 105 Emerald Drive, Storm Lake, IA
+  Candidate (S2-776817469):
+    Name:    Fry & Weiss Co
+    Address: 107 EMERALD DRIVE, PMB 1478, STORM LAKE, IA
+
+[US #9] Prob: 0.999957 (Rank: 2)
+  S1 (S1-460807112):
+    Name:    Allied Signature Opportunity LLC
+    Address: 6400 Pilgrim Lane, Arlington, TX
+  Candidate (S3-917918924):
+    Name:    Allied Signature Opportunity
+    Address: Pilgrim Ln, Arlington, Texas
+
+[US #10] Prob: 0.999992 (Rank: 1)
+  S1 (S1-51903436):
+    Name:    Fion Energetics LLC
+    Address: 156 5th Avenue, NY, Oyster Bay
+  Candidate (S3-910539327):
+    Name:    FION ENERGETICS LLC
+    Address: 156 1/2 5st Ave, Oyster Bay, New York
+
+[US #11] Prob: 0.999916 (Rank: 4)
+  S1 (S1-211425986):
+    Name:    Complete Top, LLC
+    Address: 978 Wolcott Avenue, Norfolk City, VA
+  Candidate (S3-488334972):
+    Name:    Keloiriaria DBA: Complete Top, LLC
+    Address: 978 Wolcott Avenue, Norfolk City, VA
+
+[US #12] Prob: 0.999910 (Rank: 4)
+  S1 (S1-289331125):
+    Name:    Certified Defense Services
+    Address: 132 Sherman Street, Unit 5, Cambridge, MA
+  Candidate (S3-439458003):
+    Name:    Certified Defense Services LLC
+    Address: 137 Sherman Street, # 5, Cambridge CITY, Massachusetts
+
+[US #13] Prob: 0.999990 (Rank: 4)
+  S1 (S1-569196935):
+    Name:    All Packaging Networks
+    Address: 533 500, Crawfordsville, IN
+  Candidate (S3-592436262):
+    Name:    All Packaging
+    Address: 533 500, NULL, Crawfordsville, Indiana
+
+[US #14] Prob: 0.975812 (Rank: 15)
+  S1 (S1-600560882):
+    Name:    Complete Xcel LLC
+    Address: 1050 Bobolink Avenue, Eugene, OR
+  Candidate (S2-87562059):
+    Name:    Complete  Xcel LLC
+    Address: 
+
+[US #15] Prob: 0.999841 (Rank: 2)
+  S1 (S1-899891118):
+    Name:    Mountain Purecycle LLC
+    Address: 7064 Jeannie Avenue, Cincinnati, OH
+  Candidate (S2-212767155):
+    Name:    Mountain  Purecycle
+    Address: 7064C JEANNIE AVENUE, CINCINNATI, OH
+
+[US #16] Prob: 0.999776 (Rank: 2)
+  S1 (S1-161999791):
+    Name:    Flores and Penrod Intelligence, Inc
+    Address: 2803 Myang Avenue, Mchenry, IL
+  Candidate (S3-457774371):
+    Name:    Flores and Penrod Intelligence, Group
+    Address: 2807 1/2 Myang Ave, Mchenry, Illinois
+
+[US #17] Prob: 0.999733 (Rank: 1)
+  S1 (S1-733115388):
+    Name:    Frank Fischer, D.D.S.
+    Address: 130 Avon Street, MA, Unit 67, Malden
+  Candidate (S2-495024530):
+    Name:    Frank Fischer, D.D.S. [Inc]
+    Address: 141 AVON STREET, MALDEN, MA
+
+[US #18] Prob: 0.998738 (Rank: 9)
+  S1 (S1-292144685):
+    Name:    Alexa's Harbor Electric
+    Address: 4304 Pennington Avenue, Killeen, TX
+  Candidate (S2-666491759):
+    Name:    JACKLYNBROOKSPRUDENTIAL.COM
+    Address: 4304 PENNINGTON AVE, KILLEEN, TX
+
+[US #19] Prob: 0.999992 (Rank: 2)
+  S1 (S1-893562746):
+    Name:    Montgomery & Barrios Pharmaceuticals Inc
+    Address: 4317 Chapel Road, Perry Hall, MD
+  Candidate (S3-775888175):
+    Name:    Montgomery &  Barrios Pharmaceuticals Inc
+    Address: 4317 Chapel Road, Perry Hall, Maryland
+
+[US #20] Prob: 0.999992 (Rank: 1)
+  S1 (S1-812440995):
+    Name:    Cozy Yoga Inc
+    Address: 1992 Mohawk Place, Kent, OH
+  Candidate (S3-126670489):
+    Name:    Cozy  Yoga Inc
+    Address: 1992 Mohawk Pl, Kent, Ohio
+
+[US #21] Prob: 0.999899 (Rank: 4)
+  S1 (S1-318198271):
+    Name:    Gerri's Boutique
+    Address: 106 Sweet Pond Road, Guilford, VT
+  Candidate (S3-561380304):
+    Name:    @gerrisboutique
+    Address: 106 Sweet Pond Rd, Brattleboro CDP, Vermont
+
+[US #22] Prob: 0.999994 (Rank: 1)
+  S1 (S1-385306956):
+    Name:    Underwood Spade, Inc.
+    Address: 7633 Grey Ridge Lane, Shingletown, CA
+  Candidate (S2-293421771):
+    Name:    UNDERWOOD SMPADD, (INC.)
+    Address: SHINGLETOWN, CA, 7633 GREY RIDGE LN
+
+[US #23] Prob: 0.999994 (Rank: 3)
+  S1 (S1-821225724):
+    Name:    Jenks and Mann LLC
+    Address: 17 Blaine Street, Hornell, NY
+  Candidate (S3-965897830):
+    Name:    Jenks and Mann  L.L.C.
+    Address: 17-19 Blaine Street, Hornell, New York
+
+[US #24] Prob: 0.999992 (Rank: 4)
+  S1 (S1-834187378):
+    Name:    Southern Atlantic Tidewater
+    Address: Greensboro, NC, 203 Chapman Street
+  Candidate (S2-609724186):
+    Name:    SOUTHERN TIDEWATER ATLANTlC
+    Address: 203 CHAPMAN STREET, NC, GREENSBORO
+
+[US #25] Prob: 0.999948 (Rank: 1)
+  S1 (S1-543797691):
+    Name:    Walsh Ace Catalyst Inc
+    Address: 1116 River Road, Bethlehem, NY
+  Candidate (S3-223286554):
+    Name:    Brixhalo trading as Walsh Ace Catalyst Inc
+    Address: 1116 River Road, NY, Bethlehem
+
+[US #26] Prob: 0.999992 (Rank: 4)
+  S1 (S1-542725620):
+    Name:    Hendrix City Inc
+    Address: 1818 Lazy Creek Lane, Pearland, TX
+  Candidate (S3-4476134):
+    Name:    ... Hendrix City [Inc]
+    Address: 1818 Lazy Creek Lane, Pearrland, Texas
+
+[US #27] Prob: 0.999990 (Rank: 0)
+  S1 (S1-976703477):
+    Name:    Walker Market LLC
+    Address: 17 Violet Place, Unit Apartment 2, Rhinebeck, NY
+  Candidate (S2-988964655):
+    Name:    WALKER  MARKET
+    Address: 17 Violet Place, RHINEBECK, NY
+
+[US #28] Prob: 0.999989 (Rank: 2)
+  S1 (S1-4000851):
+    Name:    Pediatric Dental Reliable Care Associates Clinic
+    Address: 12577 Delwood Drive, Arizona City, AZ
+  Candidate (S3-946482287):
+    Name:    Nexflux t/a Pediatric Dental Reliable Care Associates Clinic
+    Address: 12577 Delwood Drive, Arizona City, AZ
+
+[US #29] Prob: 0.999903 (Rank: 3)
+  S1 (S1-281185269):
+    Name:    Complete Reliable Premium LLC
+    Address: 109 Falls Creek Lane, Gunter, TX
+  Candidate (S3-502602127):
+    Name:    Complete Reliable Premium Eastgate LLC
+    Address: 118 Fals Creek Lane, Gunter, Texas
+
+[US #30] Prob: 0.999955 (Rank: 1)
+  S1 (S1-533969637):
+    Name:    Horizon Premier LLC
+    Address: 5325 Woodpecker Drive, Hope Mills, NC
+  Candidate (S3-868353818):
+    Name:    Horizon Premier
+    Address: Woodpecker Dr, Hope Mills, North Carolina
+
+[US #31] Prob: 0.999980 (Rank: 3)
+  S1 (S1-531217988):
+    Name:    Historical Association
+    Address: Cleveland, 6725 Mouse Creek Road, TN
+  Candidate (S3-397989866):
+    Name:    Historical Association Corporation
+    Address: 6725 Mouse Creek Road, PO Box 9995, Ceveland, Tennessee
+
+[US #32] Prob: 0.998871 (Rank: 2)
+  S1 (S1-878976164):
+    Name:    Simons & Santillan Inc
+    Address: 300 Lake Dornoch Drive, Pinehurst, NC
+  Candidate (S2-209218436):
+    Name:    Simons & Santillan West Inc.
+    Address: 303 LAKE DORNOCH DR, PINEHURST, NC
+
+[US #33] Prob: 0.999991 (Rank: 1)
+  S1 (S1-613567785):
+    Name:    A Apex Patriot LLC
+    Address: 1501 Old Monrovia Road, Bldg 17, Huntsville, AL
+  Candidate (S3-791227045):
+    Name:    A Apex Patriot  LLC
+    Address: 1501 Old Monrovia Rond, Bldg 17, Huntsville, Alabama
+
+[US #34] Prob: 0.999987 (Rank: 0)
+  S1 (S1-252864975):
+    Name:    Direct Printing Global Center
+    Address: 15270 Brookside Lane, Unit 125, Surprise, AZ
+  Candidate (S2-906935547):
+    Name:    Direct Printing Global Center
+    Address: AZ, SURPRISE, ##15270 BROOKSIDE LANE
+
+[US #35] Prob: 0.999991 (Rank: 0)
+  S1 (S1-605070812):
+    Name:    Brower Colonial Gesher LLC
+    Address: 17 Market Street, Red Hook, NY
+  Candidate (S3-935828094):
+    Name:    Brower-Colonial Gesher LLC
+    Address: 17- Market St, Red Hook, New York
+
+[US #36] Prob: 0.992702 (Rank: 0)
+  S1 (S1-68768079):
+    Name:    Reliable Automation Studios L.L.C.
+    Address: 3608 Whispering Hills Drive, Chester, NY
+  Candidate (S2-649404715):
+    Name:    Reliable Automation Studios Inc
+    Address: 3629 WHISPERING HILLS DRIVE, CHESTER, NY
+
+[US #37] Prob: 0.999991 (Rank: 1)
+  S1 (S1-793300249):
+    Name:    Strong Securities of Memphis LLC
+    Address: 3507 Daggett Road, Memphis, TN
+  Candidate (S2-659440070):
+    Name:    Strong Securities (of)
+    Address: 3507 DAGGETT RD, MEMPHIS CITY, TN
+
+[US #38] Prob: 0.993562 (Rank: 2)
+  S1 (S1-359947270):
+    Name:    Peterson Open
+    Address: 10359 Haymarket Street, Tucson, AZ
+  Candidate (S2-138244691):
+    Name:    Peterson Open Harbor
+    Address: AZ, 10364 HAYMARKET STREET, TUCSON
+
+[US #39] Prob: 0.999990 (Rank: 3)
+  S1 (S1-98597851):
+    Name:    Royal Dbdr
+    Address: 216 Main Street, Preston, MD
+  Candidate (S3-642968816):
+    Name:    Royal Dbdr
+    Address: 216 Main Street, Pretson, Maryland
+
+[US #40] Prob: 0.967027 (Rank: 1)
+  S1 (S1-5586588):
+    Name:    Bragg Wheeler LLC
+    Address: 313 Oxford Court, Maumee, OH
+  Candidate (S2-460808599):
+    Name:    Ltd Bragg Wheeler
+    Address: ##322 OXFORD COURT, MAUMEE, OH
+
+
+=======================================================
+COUNTRY: India (tau=0.86)
+=======================================================
+
+[India #1] Prob: 0.966042 (Rank: 8)
+  S1 (S1-774605537):
+    Name:    Smps Core Private Limited
+    Address: Maharashtra, Mumbai, 9Th Floor, Shreenath Apartments Liberty Garden, Malad West, Mumbai City, 903
+  Candidate (S2-854742260):
+    Name:    जय डेवलपर्स प्राइवेट लिमिटेड
+    Address: 903, MUMBAI, MUMBAI CITY, Maharashtra
+
+[India #2] Prob: 0.993064 (Rank: 4)
+  S1 (S1-746028612):
+    Name:    Agro Bansal Technologies Private Limited
+    Address: Flat No.F-1, Plot No.35, 'C' Block, Sakthi Enclave Thiruvalluvar Street, Kadaperi, Tambara, M, Chennai, Tamil Nadu
+  Candidate (S3-592538960):
+    Name:    Agro Bansal Technology Limited
+    Address: Flat No.f-5, Plot No.35, 'C' Block, Sakthi Enclave Thiruvalluvar Street, Kadaperi, Tambara, M, Chennai, தமிழ்நாடு
+
+[India #3] Prob: 0.999995 (Rank: 1)
+  S1 (S1-889154587):
+    Name:    Bright Management Private Limited
+    Address: 16/A, Gordhannagar, Baliyakaka Road, Ahmadabad City, Ahmedabad, Gujarat
+  Candidate (S3-840804449):
+    Name:    Bright Management Private Limited
+    Address: Ahmadabad City, Gordhannagar, Baliyakaka Road, Ahmedabad, 16/A, ગુજરાત
+
+[India #4] Prob: 0.999971 (Rank: 2)
+  S1 (S1-240759655):
+    Name:    OFT Power Private Limited
+    Address: 709-710, One Indiabulls Park, Near Jetalpur Bridge Jetalpur Road, Vadodara, Gujarat
+  Candidate (S3-701122481):
+    Name:    OFT Power Limited Private
+    Address: 709-710, Vadodara, GJ
+
+[India #5] Prob: 0.999942 (Rank: 0)
+  S1 (S1-728103194):
+    Name:    International Christian India Limited
+    Address: H. No. 291, Marwali Tq. Naigaon, Dist. Nanded, Nanded, Maharashtra
+  Candidate (S3-342537291):
+    Name:    International  Christian India Group Limited
+    Address: H. No. 294, Marwali Tq. Naigaon, Dist. Nanded, Nanded, MH
+
+[India #6] Prob: 0.999968 (Rank: 2)
+  S1 (S1-366321892):
+    Name:    Prime Digital Construction Private Limited
+    Address: No. 74/5536/2-F Reghar Pura, Karol Bagh, New Delhi, Central Delhi, Delhi
+  Candidate (S3-151844786):
+    Name:    Prime Ddgila Construction Technologies Private Limited
+    Address: #74/5536/15-F Reghar Pura, New Delhi, Central Delhi, DL
+
+[India #7] Prob: 0.999958 (Rank: 2)
+  S1 (S1-791177230):
+    Name:    IY Chemicals Private Limited
+    Address: Tiruvallur, Koil, Thedeer Nagar, Tamil Nadu, 17Periyar St.Seemathamman, Poonamalee
+  Candidate (S2-563227610):
+    Name:    IY Chemicals Private Ltd
+    Address: தமிழ்நாடு, 17PERIYAR/9 ST.SEEMATHAMMAN, KOIL, THEDEER NAGAR, POONAMALEE
+
+[India #8] Prob: 0.999975 (Rank: 0)
+  S1 (S1-982175803):
+    Name:    Solus Brothers Private Limited
+    Address: Block11-603 Ncc Urban, Onebuilder Osman Sagar Rd, Rajendranagar, K.V.Rangareddy, Telangana
+  Candidate (S3-485387173):
+    Name:    Private Solus Brothers Limited
+    Address: Block11-603 Ncc Urban, Rajendranagar, K.v.rangareddy, TG
+
+[India #9] Prob: 0.996177 (Rank: 3)
+  S1 (S1-534259937):
+    Name:    Hari Properties Limited
+    Address: Pl No. H-P-1, H Block, Midc Pimpri, Pune, Maharashtra
+  Candidate (S3-220961852):
+    Name:    Hari Properties LLP
+    Address: 399 Pl No. H-p-8, H Block, Midc Pimpri, Hinjawadi, MH
+
+[India #10] Prob: 0.999992 (Rank: 5)
+  S1 (S1-768455929):
+    Name:    Skyline Sangh
+    Address: 1/219, Mullai Nagar, A.G., Palayam, Kullampalayam, Erode, Tamil Nadu
+  Candidate (S2-857124007):
+    Name:    @skylinesangh
+    Address: Tamil Nadu, 1/219, MULLAI NAGAR, A.G., PALAYAM, KULLAMPALAYAM, ERODE
+
+[India #11] Prob: 0.999508 (Rank: 2)
+  S1 (S1-52042812):
+    Name:    Bhondsi Energy Private Limited
+    Address: Shop No. Eps-059B, First Floor, Emerald Plaza, Bhondsi, Gurgaon, Haryana
+  Candidate (S2-888256019):
+    Name:    BHONDSI ENERGY PRIVATE
+    Address: #78 SHOP NO. EPS-059B, FIRST FLOOR, EMERALD PLAZA, BHONDSI, हरियाणा
+
+[India #12] Prob: 0.999724 (Rank: 0)
+  S1 (S1-176469338):
+    Name:    Seva (India) Trading Center
+    Address: 505-A Block, Lake City Phase-I, Manjeera Pipeline Roa, D, Hyderabad, Telangana
+  Candidate (S2-691934936):
+    Name:    Seva (India) Trading Centre
+    Address: DOOR NO 05-A BLOCK, LAKE CITY PHASE-I, MANJEERA PIPELINE ROA, D, HYDERABAD, Telangana
+
+[India #13] Prob: 0.999993 (Rank: 1)
+  S1 (S1-937292619):
+    Name:    YV Technology Private Limited
+    Address: 3A, Auckland Place Suite No. 3A, 3Rd Floor, Kolkata, Kolkata, Howrah, West Bengal
+  Candidate (S3-960167341):
+    Name:    YV Technology Private Ltd
+    Address: 3A, Auckland Place Suite No. 3A, 3Rd Floor, Kolkata, Kolkata, Howrah, WB
+
+[India #14] Prob: 0.999991 (Rank: 2)
+  S1 (S1-547500021):
+    Name:    Element & Brothers Private Limited
+    Address: House No 8-2-269/S/66 Sagar Society, Road No -2, Banjara Hills, Hyderabad, Telangana
+  Candidate (S2-771022306):
+    Name:    ELEMENT &  BROTHERS PRIVATE
+    Address: HOUSE NO 8-2-269/S/66 SAGAR SOCIETY, ROAD NO -2, BANJARA HILLS, HYDERABAD, Andhra Pradesh
+
+[India #15] Prob: 0.998992 (Rank: 15)
+  S1 (S1-967454076):
+    Name:    Roopaya Exim Co
+    Address: C/O Kiran Kumar Sharma, H #5/77, Baramangwa Busty, P.O Takling, Darjeeling, West Bengal
+  Candidate (S3-338748202):
+    Name:    BC
+    Address: C/O Kiran Kumar Sharma, H #5/77, Baramangwa Busty, P.O Takling, Darjeeling, West Bengal
+
+[India #16] Prob: 0.994385 (Rank: 11)
+  S1 (S1-400349118):
+    Name:    Excellent Developers Limited
+    Address: Sa 17/144-26 Agrsen Nagar, Varanasi, Uttar Pradesh
+  Candidate (S2-769427067):
+    Name:    Crown Sangh
+    Address: SA 17/144-26, AGRASEN NAGAR COLONY, VARANASI, Uttar Pradesh
+
+[India #17] Prob: 0.999874 (Rank: 4)
+  S1 (S1-290008247):
+    Name:    Dominus & Associates Pvt Ltd
+    Address: No.74, Ground Floor 2Nd Street, Bethel Nagar, Injambakkam, Kanchipuram, Kancheepuram, Tamil Nadu
+  Candidate (S3-838264086):
+    Name:    Dominus & Associates PVT LTD
+    Address: Kanchipuram, H.no 74, TN, Neelankarai
+
+[India #18] Prob: 0.987096 (Rank: 10)
+  S1 (S1-985124563):
+    Name:    Kolkata Realtech Group
+    Address: 20C Southern Avenue, Kolkata, Calcutta, West Bengal
+  Candidate (S2-791600302):
+    Name:    North Infra Private  Limited
+    Address: 20C SOUTHERN AVENUE, KOLKATA, West Bengal
+
+[India #19] Prob: 0.999933 (Rank: 1)
+  S1 (S1-526309244):
+    Name:    Adyashakti & Sons Private Limited
+    Address: R.N.812, 8Th Floor, Raghava Ratna Towers Chirag Ali Lane, Abids, Hyderabad, Telangana
+  Candidate (S3-828549071):
+    Name:    M/s Adyashakti and Sons Pibrtvmate Limited
+    Address: R.n.812, Hyderabad, Abids, TG
+
+[India #20] Prob: 0.999989 (Rank: 1)
+  S1 (S1-446040672):
+    Name:    Kolkata Impex Clinic
+    Address: Kolkata, Sovabazar Street, 56, Howrah, West Bengal
+  Candidate (S2-721761775):
+    Name:    Kolkata Impex
+    Address: 56, SOVABAZAR STREET, KOLKATA, West Bengal
+
+[India #21] Prob: 0.762551 (Rank: 18)
+  S1 (S1-317439446):
+    Name:    New Delhi Services Ltd
+    Address: A-12, Sf Lajpat Nagar-Ii, New Delhi, Delhi
+  Candidate (S3-755265157):
+    Name:    The New Delhi Fertilizers Company
+    Address: Rz-12-a., Ground Floor, Puran Nagar, New Delhi, South West Delhi, DL
+
+[India #22] Prob: 0.999994 (Rank: 4)
+  S1 (S1-827889563):
+    Name:    Media Biyani Technologies Private Limited
+    Address: Flat 707 Bhoomi Dhara Pl, No 4/4A Sector 6 Kamothe, Raigad, Maharashtra
+  Candidate (S3-422021163):
+    Name:    Media  Biyani Technologies Private Limited
+    Address: Flat 707 Bhooi Dhara Pl, No 4/4A Sector 6 Kamothe, Raigad, महाराष्ट्र
+
+[India #23] Prob: 0.999974 (Rank: 2)
+  S1 (S1-24765770):
+    Name:    Integrity Foods Limited
+    Address: At Sarla Po Malewadi, Shrirampur, Ahmednagar, Maharashtra
+  Candidate (S3-24231646):
+    Name:    Integrity Foods Limited
+    Address: At Sarla Po Malewadi, Shrirampur, Ahilyanagar, Ahmednagar, MH
+
+[India #24] Prob: 0.999986 (Rank: 3)
+  S1 (S1-902181182):
+    Name:    Ace Advisory (India) Pvt Ltd
+    Address: 6-2-618/8 & 9, Unit # 303, 3Rd Floor, Abk Olbee Plaza, Road # 1, Banjara Hills., Hyderabad, Telangana
+  Candidate (S2-421179321):
+    Name:    Ace Advisory (heida) Pvt Ltd
+    Address: DOOR NO 6-2-618/8 & 9, UNIT # 303, 3RD FLOOR, ABK OLBEE PLAZA, ROAD # 1, BANJARA HILLS., HYDERABAD, Andhra Pradesh
+
+[India #25] Prob: 0.999993 (Rank: 0)
+  S1 (S1-62149550):
+    Name:    Jayhind Educational Society
+    Address: Village Harola Near C-101 Second Floor, Office No-12 Sector-4, Noida, Gautam Buddha Nagar, Uttar Pradesh
+  Candidate (S2-43244787):
+    Name:    Jayhind Educational Society Corp
+    Address: VILLAGE HAROLA NEAR C-101 SECOND FLOOR, OFFICE NO-12 SECTOR-4, NOIDA, Uttar Pradesh
+
+[India #26] Prob: 0.999687 (Rank: 6)
+  S1 (S1-952799340):
+    Name:    India Sikandra Strips Private Limited
+    Address: Flat No 1906 Tower R Pan Oasis Sector 70 Near Gate, Uttar Pradesh, Gautam Buddha Nagar, Noida
+  Candidate (S2-489889659):
+    Name:    सदर्न श्री एक्सपोर्ट्स प्राइवेट लिमिटेड
+    Address: FLAT NO 1906 TOWER R PAN OASIS SECTOR 70 NEAR GATE, NOIDA, GAUTAM BUDDHA NAGAR, उत्तर प्रदेश
+
+[India #27] Prob: 0.999983 (Rank: 0)
+  S1 (S1-554967163):
+    Name:    Surya It Private Limited
+    Address: Fl 3A, Shubh Aashirwad, Soc S.N. 15/1, Patwardhan Baug, Pune, Maharashtra
+  Candidate (S2-382340916):
+    Name:    suryait.com
+    Address: FL 3A , SHUBH AASHIRWAD, SOC S.N. 15/1, PATWARDHAN BAUG, PUNE, Maharashtra
+
+[India #28] Prob: 0.874149 (Rank: 13)
+  S1 (S1-585238301):
+    Name:    Munjal Medical Centre Pvt Ltd
+    Address: S.No. 79 79A 80 Arwade Mill, Balaji Mill Road Sangli, Miraj, Sangli, Maharashtra
+  Candidate (S2-75673433):
+    Name:    Munjal Medical Centre-Corporation
+    Address: 
+
+[India #29] Prob: 0.999850 (Rank: 5)
+  S1 (S1-929072856):
+    Name:    Elitech Hospitals Private Limited
+    Address: Plot No-836 Badadebil, Adamburu Rudrapur, Cuttack, Darpan, Jajpur, Orissa
+  Candidate (S2-459317038):
+    Name:    Elitech H0spitals Prívate Limited
+    Address: PLOT 401 PLOT NO-836 BADADEBIL, ADAMBURU RUDRAPUR, CUTTACK, DARPAN, Odisha
+
+[India #30] Prob: 0.976738 (Rank: 13)
+  S1 (S1-711272007):
+    Name:    Yamuesh Storage LLP
+    Address: 208/7 Rishi Bankim Chandra Rd, Kolkata, Calcutta, West Bengal
+  Candidate (S3-177431464):
+    Name:    M/s Pyramid Center
+    Address: Door No 208/7 Rishi Bankim Chandra Rd, Kolkata, Calcutta, WB
+
+[India #31] Prob: 0.999969 (Rank: 0)
+  S1 (S1-425367271):
+    Name:    Dynamic Software Pvt Ltd
+    Address: No.39, Landons Road, Kilpauk, Madras-10 Madras-10, Madras-10, Tamil Nadu, Chennai
+  Candidate (S3-13170261):
+    Name:    Irilumcalo One t/a Dynamic Software Pvt Ltd
+    Address: No.39, Landons Road, Kilpauk, Madras-10 Madras-10, Madras-10, Chennai, Tamil Nadu
+
+[India #32] Prob: 0.999995 (Rank: 0)
+  S1 (S1-202851800):
+    Name:    Vijay International Private Limited
+    Address: 32, 33, Spartan Avenue, Thiruvalluvar Nagar Mogappair, Chennai, Tamil Nadu
+  Candidate (S2-743620899):
+    Name:    vijay international private limited
+    Address: A-32, 33, SPARTAN AVENUE, THIRUVALLUVAR NAGAR MOGAPPAIR, CHENNAI, Tamil Nadu
+
+[India #33] Prob: 0.999995 (Rank: 2)
+  S1 (S1-729181245):
+    Name:    Higgs Renewable Pvt. Ltd.
+    Address: C/O Rati Kanta Roy, Sitala (East) Sonarpur, South 24 Parganas, Sonarpur, Kolkata, Howrah, West Bengal
+  Candidate (S3-604170461):
+    Name:    Higgs-Renewable Pvt. Ltd.
+    Address: C/o Rati Kanta Roy, Sitala (East) Sonarpur, South 24 Parganas, Sonarpur, Kolkata, Howrah, WB
+
+[India #34] Prob: 0.999994 (Rank: 0)
+  S1 (S1-492818672):
+    Name:    Tech Infotech Pvt Ltd
+    Address: Maker Bhawan No 2 5Th Floornew Marine Lines, Mumbai, Maharashtra
+  Candidate (S2-46208883):
+    Name:    TECH-INFOTECH PVT LTD
+    Address: MAKER BHAWAN NO 2 5TH FLOORNEW MARINE LINER, MUMBAI, Maharashtra
+
+[India #35] Prob: 0.996449 (Rank: 18)
+  S1 (S1-713207259):
+    Name:    Central Life Partners
+    Address: Sector 10, Gautam Buddha Nagar, Noida, C 137, Uttar Pradesh
+  Candidate (S2-730904815):
+    Name:    ईस्ट स्काई एनर्जी प्राइवेट लिमिटेड
+    Address: SECTOR-10, GAUTAM BUDDHA NAGAR, NOIDA, D-##357, GHAZIABAD, Uttar Pradesh
+
+[India #36] Prob: 0.988253 (Rank: 1)
+  S1 (S1-801493559):
+    Name:    Toran Travels (India) Private Limited
+    Address: H- 302, Udyog Vihar, Industrial Estate Vithalwadi, Thane, Maharashtra
+  Candidate (S2-647894584):
+    Name:    Toran Travels (Inmi) Exports Private Limited
+    Address: DOOR NO ##873 H- 313, UDYOG VIHAR, INDUSTRIAL ESTATE VITHALWADI, महाराष्ट्र
+
+[India #37] Prob: 0.999980 (Rank: 5)
+  S1 (S1-570065988):
+    Name:    Ind Lab LLP
+    Address: H No 520, Navniti Apartments, Ip Extension, Patparganj, New Delhi, Delhi
+  Candidate (S3-852721697):
+    Name:    Ind Láb
+    Address: H No 520, DL, New Delhi
+
+[India #38] Prob: 0.909209 (Rank: 7)
+  S1 (S1-26464220):
+    Name:    Davangere Business Pvt Ltd
+    Address: #199/1A, 3Rd Main, 7Th Cross, P.J Badavane, Davangere, Davanagere, Karnataka
+  Candidate (S3-137476804):
+    Name:    Private Life Jai Systems Ltd
+    Address: 3Rd Main, 7Th Cross, P.j Badavane, Davanagere, Davangere, KA, H.no 199/1A
+
+[India #39] Prob: 0.999994 (Rank: 3)
+  S1 (S1-407227409):
+    Name:    Khari Competitive Private Limited
+    Address: Hd-151, Wework Prestige Central, 36, Infantry Road, Bengaluru, Bangalore North, Bangalore, Karnataka
+  Candidate (S2-192221623):
+    Name:    Khari  Competitive Private [Limited]
+    Address: Karnataka, HD-151, WEWORK PRESTIGE CENTRAL, 36, INFANTRY ROAD, BENGALURU, BANGALORE NORTH
+
+[India #40] Prob: 0.999992 (Rank: 0)
+  S1 (S1-560504533):
+    Name:    Taraendra Guru Pvt Ltd
+    Address: O-Ii, 66, Palam Vyapar Kendra (Pvk), Palam Vihar, Palam Vihar, Gurgaon, Haryana
+  Candidate (S2-439603412):
+    Name:    TARAENDRA GURU PVT LTD
+    Address: O-II, 66, PALAM VYAPAR KENDRA (PVK), PALAM VIHAR, PALAM VIHAR, <NULL>, Haryana
+

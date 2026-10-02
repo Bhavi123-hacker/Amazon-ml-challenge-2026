@@ -1,0 +1,1935 @@
+
+=======================================================
+CALIBRATION SAMPLE: FRANCE (80 pairs: 40 Flagged, 40 Clean)
+=======================================================
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4637 | AddrSim: 1.0000
+  S1 (S1-237283658):
+    Name: Familiale Pharmacie SCI
+    Addr: 4 Allée des Sternes, La Baule-Escoublac, Pays de la Loire
+  CAND (S3-188906920):
+    Name: Tavosol
+    Addr: 4 Allée des Sternes, La Baule-Escoublac, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.3225 | AddrSim: 1.0000
+  S1 (S1-693786429):
+    Name: Arc Culture SA
+    Addr: 6 Cours du Médoc, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-405212150):
+    Name: Syncira
+    Addr: 6 Cours du Médoc, Bordeaux, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.3922 | AddrSim: 1.0000
+  S1 (S1-409670444):
+    Name: Tenere Groupement SARL
+    Addr: 14 Rue du Capitaine Michel, Lille, Hauts-de-France
+  CAND (S3-247441850):
+    Name: Onyxumbra
+    Addr: 14 Rue du Capitaine Michel, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5238 | AddrSim: 0.9762
+  S1 (S1-135017331):
+    Name: Collège Sainte
+    Addr: 35 RUE Lesage Senault, Lille, Hauts-de-France
+  CAND (S3-453314365):
+    Name: Lille çulturel SARL
+    Addr: 35 R. Lesage Senault, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5246 | AddrSim: 1.0000
+  S1 (S1-57302964):
+    Name: Social & Cie SASU
+    Addr: 19 Allée des Avocettes, Saint-Nazaire, Pays de la Loire
+  CAND (S2-333227):
+    Name: Ets  Lentente
+    Addr: 19 ALL DES AVOCETTES, SAINT-NAZAIRE, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5222 | AddrSim: 0.9722
+  S1 (S1-110225683):
+    Name: Clinique du Bdc
+    Addr: 213 i Route de Fort-Mardyck, Dunkerque, Hauts-de-France
+  CAND (S3-334411600):
+    Name: CM
+    Addr: 213 A Route De Fort-mardyck, Dunkerque
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4817 | AddrSim: 1.0000
+  S1 (S1-91250914):
+    Name: Karate Parents SAS
+    Addr: 2 Rue des Urbanistes, Lille, Hauts-de-France
+  CAND (S3-904110261):
+    Name: Lille College SAS
+    Addr: N° 2 Rue Des Urbanistes, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.3991 | AddrSim: 1.0000
+  S1 (S1-15402577):
+    Name: Chateaux Club
+    Addr: 11 Rue de Wasquehal, Tourcoing, Hauts-de-France
+  CAND (S3-39086799):
+    Name: DVS Lcydée SARL
+    Addr: No. 11 Rue De Wasquehal, Tourcoing, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5761 | AddrSim: 1.0000
+  S1 (S1-642110390):
+    Name: Quete Amicale SARL
+    Addr: 4 RUE de lHeronniere, ACENIER, Nantes, Pays de la Loire
+  CAND (S2-874032314):
+    Name: Rural Amis  SARL
+    Addr: 4 RUE DE LHERONNIERE, NANTES, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5945 | AddrSim: 1.0000
+  S1 (S1-297277196):
+    Name: Lenseignement Trajectoires Comite SAS
+    Addr: 24 AV Gustave Delory, Roubaix, Hauts-de-France
+  CAND (S2-151863954):
+    Name: SPORTSRESIDENCEFRANCE.COM
+    Addr: 24 - AV GUSTAVE DELORY, ROUBAIX, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5007 | AddrSim: 1.0000
+  S1 (S1-528588794):
+    Name: Comité du Bns
+    Addr: 49 Rue des Faures, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-831482118):
+    Name: EHPD AIDE
+    Addr: 49 Rue Des Faures, Bordeaux, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.2879 | AddrSim: 1.0000
+  S1 (S1-757495285):
+    Name: Ville Ecole SARL
+    Addr: 827 Rue Roger Martin du Gard, Calais, Hauts-de-France
+  CAND (S3-427365400):
+    Name: Fayejaxlyra
+    Addr: 827 Rue Roger Martin Du Gard, Calais
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4758 | AddrSim: 1.0000
+  S1 (S1-714532665):
+    Name: Mjpm Loisirs SAS
+    Addr: 38 Rue Capitaine Yves Hervouet, Nantes, Pays de la Loire
+  CAND (S3-250656255):
+    Name: Institut Saint Colleges
+    Addr: Nantes, 38 Rue Capitaine Yves Hervouet, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4665 | AddrSim: 1.0000
+  S1 (S1-949787141):
+    Name: Formation Amis
+    Addr: 6 ALL de lErdre, Nantes, Pays de la Loire
+  CAND (S3-622318014):
+    Name: Nantes Club
+    Addr: 6 All De Lerdre, Nantes, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5078 | AddrSim: 1.0000
+  S1 (S1-550461826):
+    Name: Protection Circonscription Club SAS
+    Addr: 8 Rue Blaise Pascal, Nantes, Pays de la Loire
+  CAND (S3-791995110):
+    Name: Kornovi Labs
+    Addr: 8 Rue Blaise Pascal, Nantes, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5868 | AddrSim: 0.9333
+  S1 (S1-891046484):
+    Name: Financement Conseil SARL
+    Addr: 44 Rue Victor Hugo, Lille, Hauts-de-France
+  CAND (S3-416424318):
+    Name: Voix Societe (France) EI
+    Addr: 44 Rue Victor Martel, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4561 | AddrSim: 1.0000
+  S1 (S1-49950922):
+    Name: Football Amis SAS
+    Addr: 58 Rue de Mons, Roubaix, Hauts-de-France
+  CAND (S2-799276455):
+    Name: Developpement Club France SAS
+    Addr: 58 RUE DE MONS, ROUBAIX, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4420 | AddrSim: 1.0000
+  S1 (S1-768553885):
+    Name: Caserne Danse SARL
+    Addr: 40 RUE Jules Delpit, 1er Etage, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-615058875):
+    Name: Tavonex
+    Addr: 40 RUE Jules Delpit, 1er Etage, Bordeaux, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5941 | AddrSim: 1.0000
+  S1 (S1-874563171):
+    Name: Circonscription (France) Comite SAS
+    Addr: 28 Rue du Général de Gaulle, Pornic, Pays de la Loire
+  CAND (S3-766434625):
+    Name: Recherche Patrimoine (France) France S.A.R.L.
+    Addr: 28 Rue Du Général De Gaulle, Le Clion, Pornic, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5492 | AddrSim: 1.0000
+  S1 (S1-169080058):
+    Name: Club du Communale
+    Addr: 611 Boulevard de la République François Mitterrand, Dunkerque, Hauts-de-France
+  CAND (S2-873186010):
+    Name: Dance Comite S.A.
+    Addr: 611 - BLVD DE LA RÉPUBLIQUE FRANÇOIS MITTERRAND, Hauts-de-France, DUNKERQUE
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4192 | AddrSim: 1.0000
+  S1 (S1-85973292):
+    Name: Assas Sante SARL
+    Addr: 10 Avenue du Grand Verdura, La Teste-de-Buch, Nouvelle-Aquitaine
+  CAND (S3-690994670):
+    Name: Soliri
+    Addr: 10 Avenue du Grand Verdura, La Teste-de-Buch, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4957 | AddrSim: 1.0000
+  S1 (S1-978717953):
+    Name: AZA Compagnie
+    Addr: Bordeaux, 1 Rue de Sauternes, Nouvelle-Aquitaine
+  CAND (S3-68221621):
+    Name: Quolum
+    Addr: 1 Rue de Sauternes, Bordeaux, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5764 | AddrSim: 1.0000
+  S1 (S1-707942670):
+    Name: Run (France) Foyer SAS
+    Addr: 3 RUE Alphonse Mercier, Lille, Hauts-de-France
+  CAND (S2-604733415):
+    Name: Enfants Grôupement
+    Addr: 3 RUE ALPHONSE MERCIER, LILLE, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4683 | AddrSim: 1.0000
+  S1 (S1-697017433):
+    Name: Mouvement Club SAS
+    Addr: 37 RUE de Suede, Lille, Hauts-de-France
+  CAND (S3-321987471):
+    Name: Bde Berceaux Sportive
+    Addr: 37 Rue De Suede, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.3872 | AddrSim: 1.0000
+  S1 (S1-931998847):
+    Name: Cultuelle Sportive (France) SAS
+    Addr: 127 RUE de Paris, Lille, Hauts-de-France
+  CAND (S3-349771438):
+    Name: Xyloxylo
+    Addr: 127 RUE de Paris, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5012 | AddrSim: 1.0000
+  S1 (S1-64660754):
+    Name: Lille Ecole SARL
+    Addr: 3 RUE de la Digue, Hauts-de-France, Lille
+  CAND (S2-984891448):
+    Name: SARL Team & Fïls
+    Addr: 3 RUE DE LA DIGUE, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5308 | AddrSim: 1.0000
+  S1 (S1-442866893):
+    Name: Amicale de Recre
+    Addr: 108 Rue de Roubaix, Dunkerque, Hauts-de-France
+  CAND (S3-373707384):
+    Name: Alpe Pârents EURL
+    Addr: 108 Rue De Roubaix, Dunkerque, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5159 | AddrSim: 0.9917
+  S1 (S1-119367282):
+    Name: Établissements Racing SCI
+    Addr: 126 1 Avenue Jean Jaurès, Roubaix, Hauts-de-France
+  CAND (S2-597161575):
+    Name: AF
+    Addr: 126 4 AVENUE JEAN JAURES, Roubaix, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5208 | AddrSim: 1.0000
+  S1 (S1-693872440):
+    Name: Cent (France) Club SAS
+    Addr: 4 Route du Château de Beauregard, Saint-Nazaire, Pays de la Loire
+  CAND (S3-269360556):
+    Name: CC
+    Addr: 4 Route du Château de Beauregard, Saint-Nazaire, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5833 | AddrSim: 1.0000
+  S1 (S1-703725054):
+    Name: Tai Club SAS
+    Addr: 32 Rue de la Pomme d'Or, Calais, Hauts-de-France
+  CAND (S2-897806736):
+    Name: Tai SAS & Associés
+    Addr: #32 RUE DE LA POMME D'OR, CALAIS
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5476 | AddrSim: 1.0000
+  S1 (S1-155050452):
+    Name: Ets Ave SARL
+    Addr: 69 Rue de la Barre, Lille, Hauts-de-France
+  CAND (S3-408433465):
+    Name: EA
+    Addr: 69 Rue de la Barre, Lille, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5175 | AddrSim: 0.9438
+  S1 (S1-78610368):
+    Name: Fonds (France) Jeunes
+    Addr: 12 Rue Jean Haas, Saint-Nazaire, Pays de la Loire
+  CAND (S2-279226248):
+    Name: SU
+    Addr: 12 RUE JEAN COUNE, Saint-Nazaire, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.3988 | AddrSim: 1.0000
+  S1 (S1-670188831):
+    Name: Collège de Cadaujac
+    Addr: 39 Rue de Lyon, Lille, Hauts-de-France
+  CAND (S2-370204583):
+    Name: Chaire Spôrtive SARL
+    Addr: (39) RUE DE LYON, LILLE, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4738 | AddrSim: 1.0000
+  S1 (S1-380463710):
+    Name: Espoir Culturelle EI
+    Addr: 5 Rue de Tresses, Bordeaux, Nouvelle-Aquitaine
+  CAND (S2-821091859):
+    Name: Chasseurs Amis SA
+    Addr: 5 RUE DE TRESSES, BORDEAUX, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5131 | AddrSim: 0.9800
+  S1 (S1-828534217):
+    Name: Amicale du Boxe
+    Addr: 25 Rue du Maréchal Joffre, Dunkerque, Hauts-de-France
+  CAND (S2-944043082):
+    Name: Dentraide & Cie E.I.
+    Addr: 25 R. DU MARÉCHAL JOFFRE, DUNKERQUE, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5131 | AddrSim: 1.0000
+  S1 (S1-772247805):
+    Name: École maternelle Jean
+    Addr: Nantes, 13 Rue du Château, Pays de la Loire
+  CAND (S2-862816614):
+    Name: Nantes Sportive SASU
+    Addr: 13 RUE DU CHATEAU, NANTES, Pays de la Loire
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4174 | AddrSim: 1.0000
+  S1 (S1-737691170):
+    Name: UB Maternelle SARL
+    Addr: 13 Rue Laclotte, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-945130914):
+    Name: PMI Sport
+    Addr: 13 Rue Laclotte, Bordeaux, Nouvelle-Aquitaine
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5094 | AddrSim: 1.0000
+  S1 (S1-848224829):
+    Name: Union de Holy
+    Addr: 1 Rue Emile Verhaeren, Dunkerque, Hauts-de-France
+  CAND (S2-273414301):
+    Name: Miss & Frères Sas
+    Addr: 1 - RUE EMILE VERHAEREN, DUNKERQUE, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.5493 | AddrSim: 0.9783
+  S1 (S1-969200492):
+    Name: Club du Rural
+    Addr: 115 Rue du Grand Chemin, Roubaix, Hauts-de-France
+  CAND (S2-60355947):
+    Name: Scolaire Spôrtive SAS
+    Addr: 115 R DU GRAND CHEMIN, ROUBAIX, Hauts-de-France
+
+[France - FLAGGED SUSPICIOUS] NameSim: 0.4381 | AddrSim: 0.9965
+  S1 (S1-511140599):
+    Name: Asd & Frères SAS
+    Addr: 5 Avenue des Bruyères, La Teste-de-Buch, Nouvelle-Aquitaine
+  CAND (S3-549480308):
+    Name: Petite Çonseil SAS
+    Addr: 5 Aveune Des Bruyères, La Teste-de-buch, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.8545 | AddrSim: 1.0000
+  S1 (S1-899319134):
+    Name: Lille Danse
+    Addr: 1 PL Deliot, Lille, Hauts-de-France
+  CAND (S2-571861254):
+    Name: Lille Unîon
+    Addr: 1 PL DELIOT, LILLE
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-940845843):
+    Name: La Teste-de-Buch Amicale SARL
+    Addr: 101 Avenue du Général de Gaulle, La Teste-de-Buch, Nouvelle-Aquitaine
+  CAND (S3-895155133):
+    Name: la teste-de-buch amicale sarl
+    Addr: 101 Avenue Du Général De Gaulle, La Teste-de-buch, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.9281 | AddrSim: 0.8274
+  S1 (S1-184249721):
+    Name: Matieres Élémentaire (France) EURL
+    Addr: 23 Rue Paul Antin, Bordeaux, Nouvelle-Aquitaine
+  CAND (S2-806926532):
+    Name: MATIERES ÉLÉMLAIRE (FRANCE) (EURL)
+    Addr: 23 R PAUL ANTIN, BORDEAUX, Gironde
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-874934309):
+    Name: Chasse Travaux SARL
+    Addr: 31 Rue Basque, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-495831626):
+    Name: Chasse Travaux-S.A.R.L.
+    Addr: # 31 Rue Basque, Bordeaux
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9808
+  S1 (S1-898531254):
+    Name: XX Construction
+    Addr: 12 AV de la Branchoire, Saint-Herblain, Pays de la Loire
+  CAND (S2-396814800):
+    Name: XX Construction Distribution
+    Addr: SAINT-HERBLAIN, 14 AV DE LA BRANCHOIRE, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-734735943):
+    Name: QUU Comite SARL
+    Addr: 176 Cours Balguerie Stuttenberg, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-284850639):
+    Name: QUU Comite S.A.R.L.
+    Addr: 176 Cours Balguerie Stuttenberg, Bordeaux, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.8809 | AddrSim: 0.8214
+  S1 (S1-974474574):
+    Name: Lège-Cap-Ferret Peinture
+    Addr: Nouvelle-Aquitaine, Lège-Cap-Ferret, 6 Boulevard de la Plage Cap Ferret
+  CAND (S2-98842992):
+    Name: SARL Lège-Cap-Ferret Amicale Participations
+    Addr: 6 AVENUE DES SAULES, Lège-Cap-Ferret, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8558
+  S1 (S1-183858240):
+    Name: WLG Amicale
+    Addr: 29 Bis Rue Adolphe Moitié, Nantes, Pays de la Loire
+  CAND (S2-990253993):
+    Name: wlg amicale
+    Addr: 29 BIS R ADOLHPE MOITIÉ, NANTES
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.9482 | AddrSim: 0.8684
+  S1 (S1-243680885):
+    Name: Bordeaux Ecole EI
+    Addr: Bordeaux, Nouvelle-Aquitaine, 19 Rue du Commandant Charcot
+  CAND (S3-971910111):
+    Name: Bordeaux Ecole S.C.I.
+    Addr: 19 R Du Portail, Bordeaux, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.7503
+  S1 (S1-569409605):
+    Name: Établissements Lenseignement SARL
+    Addr: 25 Impasse Toussaint-Louverture, Bordeaux, Nouvelle-Aquitaine
+  CAND (S2-594189190):
+    Name: Établissements Lenseignement
+    Addr: NO 25 IMP TOUSSAINT-SOUVERTURE, BORDEAUX
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.6647 | AddrSim: 0.9703
+  S1 (S1-546065678):
+    Name: Bella & Cie SARL
+    Addr: 4 PL du Muguet Nantais, Maison des Confluences, Nantes, Pays de la Loire
+  CAND (S3-611528975):
+    Name: Ligue & SARL France
+    Addr: No 4 Pl Du Muguet Nantais, Nantes, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9407
+  S1 (S1-63829806):
+    Name: Sarcelle Amicale EURL
+    Addr: 3 Avenue de Chaville, Saint-Herblain, Pays de la Loire
+  CAND (S2-613625654):
+    Name: Sarcelle Amicale
+    Addr: 3 AVENUE DE CHAVILLE, ST.-HERBLAIN, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9655
+  S1 (S1-481781760):
+    Name: Amicale du Jeunesse
+    Addr: 35 Allée du Chastelet, Pornic, Pays de la Loire
+  CAND (S2-652414228):
+    Name: AMICALE DU JEUNESSE
+    Addr: N°35 ALLÉE DU CHASTELET, PORNIC
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.6641 | AddrSim: 0.9176
+  S1 (S1-914925464):
+    Name: Association du Imagine
+    Addr: 46 Route des Mottais, Saint-Nazaire, Pays de la Loire
+  CAND (S2-331443133):
+    Name: Animation Institut (France) EURL
+    Addr: N° 46 ROUTE DE BÉAC, SAINT-NAZAIRE, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-445616009):
+    Name: Établissements Chasseurs SCI
+    Addr: 1 Rue Millet, Pessac, Nouvelle-Aquitaine
+  CAND (S3-97336770):
+    Name: SCI Établissements Chasseurs
+    Addr: Pessac, No 1 Rue Millet, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.9224 | AddrSim: 0.8565
+  S1 (S1-95847685):
+    Name: La Teste-de-Buch Sportive
+    Addr: 16 Allee des Reinettes, La Teste-de-Buch, Nouvelle-Aquitaine
+  CAND (S3-677313079):
+    Name: La Teste-De-Buch Amis SARL
+    Addr: 16 All. Des Charmes, La Teste-de-buch, Gironde
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8986
+  S1 (S1-137411095):
+    Name: Clinique Sainte Vincent
+    Addr: 77 Rue Pigault Lebrun, Calais, Hauts-de-France
+  CAND (S2-136379645):
+    Name: CLINIQUE VINCENT SAINTE
+    Addr: NO. 77 RUE PIGAULT LEBRUN, CALAIS, Pas-de-Calais
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.6593 | AddrSim: 1.0000
+  S1 (S1-370816756):
+    Name: Communale Federation SARL
+    Addr: 131 Rue du Luxembourg, Roubaix, Hauts-de-France
+  CAND (S3-239702927):
+    Name: Caloumbrairi
+    Addr: Roubaix, 131 Rue du Luxembourg, Hauts-de-France
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-619863762):
+    Name: Repos Services SARL
+    Addr: 78 2 Rue La Fontaine, Hauts-de-France, Roubaix
+  CAND (S3-289059086):
+    Name: REPOS SERVICES SARL
+    Addr: Roubaix, Hauts-de-France, 78 2 Rue La Fontaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.7429
+  S1 (S1-842655203):
+    Name: Calais Club
+    Addr: 50 Rue Chateaubriand, Calais, Hauts-de-France
+  CAND (S3-487095258):
+    Name: Calais Club SARL
+    Addr: 50 Rue Gaillard, Calais
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8560
+  S1 (S1-363753242):
+    Name: Dare & Fils
+    Addr: 2 QUATER RUE DE CANNES, Hauts-de-France, Lille
+  CAND (S3-377711170):
+    Name: Dare & Fîls
+    Addr: 2 Qeater R De Cannes, Lille, Nord
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-135335846):
+    Name: Amicale des Sciences
+    Addr: Hauts-de-France, Lille, 30 Rue Balzac
+  CAND (S3-932253339):
+    Name: Amicale Des-Sciences
+    Addr: 30 Rue Balzac, Lille, Hauts-de-France
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-184956650):
+    Name: The & Frères EURL
+    Addr: 6 RUE du Bastion du Meunier, appartement 34, Lille, Hauts-de-France
+  CAND (S2-334054151):
+    Name: EURL THE & FRÈRES
+    Addr: 6 RUE DU BASTION DU MEUNIER, APPARTEMENT 34, Lille, Hauts-de-France
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.7183 | AddrSim: 0.8889
+  S1 (S1-772414891):
+    Name: Aide Élémentaire SAS
+    Addr: 25 Rue d'Isly, Lille, Hauts-de-France
+  CAND (S2-720480956):
+    Name: Departemental-Groupe
+    Addr: (25) RUE CAUMATRIN, LILLE, Hauts-de-France
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9287
+  S1 (S1-554537187):
+    Name: Saint-Herblain Parents
+    Addr: 42 Rue du Moulin de la Gagnerie, Saint-Herblain, Pays de la Loire
+  CAND (S3-701373370):
+    Name: Saint-Herblain Parents
+    Addr: 42 - Rue Du Moulin De La Gagnerie, St.-herblain
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.8557 | AddrSim: 0.8274
+  S1 (S1-725637048):
+    Name: Modeliste College SARL
+    Addr: 218 Rue Pelleport, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-821978472):
+    Name: Modeliste SARL & Associés
+    Addr: 218 R. Pelleport, Bordeaux, Gironde
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.8962 | AddrSim: 0.8333
+  S1 (S1-619803085):
+    Name: Saint-Nazaire Compagnie SARL
+    Addr: 9 Rue Philibert Delorme, Saint-Nazaire, Pays de la Loire
+  CAND (S2-709071659):
+    Name: Saint-Nazaire Elementaire
+    Addr: Nº 9 RUE DE LA GUBANE, SAINT-NAZAIRE
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9459
+  S1 (S1-316301681):
+    Name: Uni & Frères SAS
+    Addr: 129 Rue Jean-Renaud Dandicolle, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-20213425):
+    Name: Uni & Frères Holding SAS
+    Addr: 131 Rue Jean-renaud Dandicolle, Bordeaux
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.7629
+  S1 (S1-770751032):
+    Name: Daction Club SARL
+    Addr: Nouvelle-Aquitaine, La Teste-de-Buch, 11 Avenue de Bisserié
+  CAND (S3-18840738):
+    Name: Daction Club Sarl
+    Addr: 11 Avenue De Bisierie, La Teste-de-buch, Gironde
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8642
+  S1 (S1-506911859):
+    Name: Eleves Culture SAS
+    Addr: 36 Rue Jeanne la Corsaire, Nantes, Pays de la Loire
+  CAND (S3-187525691):
+    Name: Eleves  Culture SAS
+    Addr: Nantes, 1 Rue Jeanne La Corsaire, Loire-Atlantique
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9778
+  S1 (S1-289342634):
+    Name: Centre Hospitalier de la Joseph
+    Addr: 15 Rue René Delissen, Dunkerque, Hauts-de-France
+  CAND (S2-184284885):
+    Name: Centre Hospitalier de la Joseph
+    Addr: 15 R. RENÉ DELISSEN, DUNKERQUE, Hauts-de-France
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 0.6456 | AddrSim: 1.0000
+  S1 (S1-217864054):
+    Name: LQ Sportive EI
+    Addr: 191 Boulevard Victor Hugo, Calais, Hauts-de-France
+  CAND (S2-735522633):
+    Name: Lames Societe
+    Addr: 191 BOULEVARD VICTOR HUGO, CALAIS
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9210
+  S1 (S1-22068737):
+    Name: Amelie Pharmacie SARL
+    Addr: 13 Allée Julien Duvivier, Saint-Nazaire, Pays de la Loire
+  CAND (S3-464617479):
+    Name: Amelie Pharmacie  SARL
+    Addr: 13 All. Julien Duvivier, St-nazaire, Loire-Atlantique
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-797042549):
+    Name: 24 Comite SASU
+    Addr: 8 RUE Honore Broutelle, Nantes, Pays de la Loire
+  CAND (S3-202072142):
+    Name: (S.A.S.U.) 24 Comite
+    Addr: 8 Rue Honore Broutelle, Nantes, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9545
+  S1 (S1-2938803):
+    Name: Preparation Atelier SA
+    Addr: 1 C2 Rue Babeuf, Lille, Hauts-de-France
+  CAND (S2-938013522):
+    Name: SA Preparation Atelier
+    Addr: N° 1 C2 RUE BABEUF, Lille
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-569188390):
+    Name: Clinique de la Defense
+    Addr: 7 Avenue Anne de Bretagne, La Baule-Escoublac, Pays de la Loire
+  CAND (S3-745205871):
+    Name: Clinique de la-Defense
+    Addr: 7 Avenue Anne De Bretagne, La Baule-escoublac, Pays de la Loire
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9787
+  S1 (S1-338961270):
+    Name: Établissements Eleves SAS
+    Addr: 34 Rue des Vignerons, Bordeaux, Nouvelle-Aquitaine
+  CAND (S2-215735956):
+    Name: ÉTABLISSEMENTS ELEVES (S.A.S)
+    Addr: BORDEAUX, #34 R. DES VIGNERONS, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8444
+  S1 (S1-34262380):
+    Name: Luso Ecole SA
+    Addr: 84 BIS Rue Anne Delavaux, Lille, Hauts-de-France
+  CAND (S3-584395922):
+    Name: Luso Ecole SA
+    Addr: R Anne Delavaux, Lille, Nord
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-817743153):
+    Name: Bordeaux Parents SARL
+    Addr: 172 Rue Blanqui, Bordeaux, Nouvelle-Aquitaine
+  CAND (S3-925098276):
+    Name: Bordeaux Parents-Sarl
+    Addr: 172 Rue Blanqui, Bordeaux, Nouvelle-Aquitaine
+
+[France - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-376471346):
+    Name: Calais Amicale SAS
+    Addr: Calais, 105 Boulevard Victor Hugo, Hauts-de-France
+  CAND (S2-808456827):
+    Name: Calais Àmicale SAS
+    Addr: 105 BOULEVARD VICTOR HUGO, CALAIS
+
+
+=======================================================
+CALIBRATION SAMPLE: US (80 pairs: 40 Flagged, 40 Clean)
+=======================================================
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5427 | AddrSim: 1.0000
+  S1 (S1-745288224):
+    Name: PHU Lafayette LLC
+    Addr: 1407 Mccormick Street, Fl 1, Olympia, WA
+  CAND (S2-856895719):
+    Name: Fluxhaloyuma
+    Addr: 1407 MCCORMICK ST, OLYMPIA, WA
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-325580634):
+    Name: Classic Mortgage International
+    Addr: 33960 3950 Road, Washington County, OK
+  CAND (S2-113126087):
+    Name: CLASSIC MORTGAGE CORPORATION
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.4636 | AddrSim: 0.9487
+  S1 (S1-501430668):
+    Name: Petecor Floating
+    Addr: 47-38 162 Street, Flushing, NY
+  CAND (S2-490996140):
+    Name: Hoffman, Moore and-Odonnell Staked LLC
+    Addr: 47-24 167 ST, FLUSHING, NY
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-926840877):
+    Name: Silver Fields
+    Addr: 1 Fowler Avenue, Edgartown, MA
+  CAND (S2-739211718):
+    Name: Silver Fields
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-391668069):
+    Name: Aurelie Cusson Token Care
+    Addr: 8 Union Avenue, Unit 1, Everett, MA
+  CAND (S3-110415045):
+    Name: Aurelie Cusson Token
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-822489380):
+    Name: Mao Inc.
+    Addr: 8845 Old Well Place, Marana, AZ
+  CAND (S2-677378370):
+    Name: Mao
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5165 | AddrSim: 1.0000
+  S1 (S1-906336722):
+    Name: Zipfel, Kendig & Gray
+    Addr: 11860 Gatwick View Drive, Fishers, IN
+  CAND (S2-881425717):
+    Name: Stevens PC Partners
+    Addr: IN, ##11860 GATWICK VIEW DRIVE, FISHERS
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-140585258):
+    Name: Mountain Family Practice
+    Addr: Orange Beach, AL, 4224 Orange Beach Boulevard, Unit Lot 29
+  CAND (S2-737151423):
+    Name: Mountain Family Practice Inc.
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-206127655):
+    Name: Heritage Market LLC
+    Addr: 4731 Aldea Road, Litchfield Park, AZ
+  CAND (S2-86970572):
+    Name: Heritage  Market LLC
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5052 | AddrSim: 1.0000
+  S1 (S1-266224958):
+    Name: Bridges Keystone Blueport
+    Addr: 99 Brackett Street, Unit 501, Quincy, MA
+  CAND (S2-690379532):
+    Name: Optimal Regions
+    Addr: #99 BRACKETT ST, QUINCY, MA
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5790 | AddrSim: 1.0000
+  S1 (S1-831283431):
+    Name: North Energy
+    Addr: 12009 Rockcliff Drive, Huntsville, AL
+  CAND (S2-79200997):
+    Name: Custom Regional Machine  Works - 9514316130
+    Addr: 12009 ROCKCLIFF DRIVE, HUNTSVILLE, AL
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-466319069):
+    Name: United Freight
+    Addr: VA, Richmond City, 2512 Bethel Street
+  CAND (S3-910992773):
+    Name: United Freight Incorporated
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-942079369):
+    Name: Tacuri Fargo
+    Addr: 1906 Scotch Pine Street, Tomball, TX
+  CAND (S3-732994936):
+    Name: Tacuri  Fargo
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5000 | AddrSim: 0.9457
+  S1 (S1-351229121):
+    Name: Killian's Boutique
+    Addr: 425 Armsley Square, Ontario, CA
+  CAND (S2-303880660):
+    Name: AUROLA GLASS
+    Addr: 425 ARMSLEY SQUARE, OTNARIO CITY, CA, N/A
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5317 | AddrSim: 1.0000
+  S1 (S1-864504078):
+    Name: White Bluerock
+    Addr: 1713 Parker Road, Houston, TX
+  CAND (S2-774670828):
+    Name: Incorporated Great League
+    Addr: 1713 PARKER ROAD, HOUSTON, TX
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5235 | AddrSim: 1.0000
+  S1 (S1-597719759):
+    Name: Carole Carter, DO, P.C. Associates
+    Addr: 160 Sherman Street, Quincy, MA
+  CAND (S2-127760046):
+    Name: Mcpherson Wholesarle Inc
+    Addr: 160 SHERMAN STREET, PO BOX 8426, QUINCY CTIY, MA
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.4689 | AddrSim: 0.9518
+  S1 (S1-370224940):
+    Name: Lonet Industries LLC
+    Addr: 530 Wynnewood Road, Pelham Manor, NY
+  CAND (S3-235819012):
+    Name: 78/50 Paceline LP
+    Addr: 530 Wynnewood Road, Pelham, New York
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-479551025):
+    Name: AT Interstate Online
+    Addr: IL, 418 Main Street, Rochester
+  CAND (S2-860870335):
+    Name: AT Interstate Online (Ltd)
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-267707202):
+    Name: Humble British LLC
+    Addr: 50 Longacre Drive, North East, MD
+  CAND (S3-80532626):
+    Name: Humble British LLC
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.3907 | AddrSim: 0.9590
+  S1 (S1-469614955):
+    Name: Pediatric Desert Clinic
+    Addr: 8321 Putters Court, Arlington, WA
+  CAND (S3-34335731):
+    Name: Umbrakor
+    Addr: 8321 Putters Court, Arlington, Washington
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5241 | AddrSim: 1.0000
+  S1 (S1-165465303):
+    Name: Nelia's Star Media L.L.C.
+    Addr: 4936 Valle, Tucson, AZ
+  CAND (S2-677997996):
+    Name: Piedmont-Companies LLC
+    Addr: TUCSON, 4936 VALLE, AZ
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-997011335):
+    Name: King's Consulting Partners
+    Addr: 4 J T Boulevard, Dickinson, NY
+  CAND (S2-696742664):
+    Name: KING'S  CONSULTING
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-983867643):
+    Name: Tiliex Bitcoin
+    Addr: 4168 Chapman Drive, Kent, OH
+  CAND (S3-819406692):
+    Name: Tiliex Bitcoin
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.3628 | AddrSim: 0.9107
+  S1 (S1-98588589):
+    Name: Peete Apex Sciences LLC
+    Addr: 3180 Selkirk Drive, WI, City Of Sun Prairie
+  CAND (S3-307310019):
+    Name: Global Patriot  Royalty Inc
+    Addr: ##3180 Selkirk Drive, SUN Prairie CIY, Wisconsin
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5718 | AddrSim: 0.9286
+  S1 (S1-71035435):
+    Name: Womens Health Bay Care
+    Addr: 127 Locke Street, Baltimore, MD
+  CAND (S2-241734285):
+    Name: Metro Nwetok II P.C.
+    Addr: 127 LEE STREET, BALTIMORE, MD
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5825 | AddrSim: 0.9508
+  S1 (S1-10200206):
+    Name: Delta Desert Petroleum LLC
+    Addr: 3357 Bay Point Drive, Palacios, TX
+  CAND (S3-172111530):
+    Name: (LLP) Cadanet Industries
+    Addr: 3357 1/2 Bay Point Drive, Palacios, Texas
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-223743945):
+    Name: Lee & Holt LLC
+    Addr: 55 Ln 101Faa Jimmerson Lake, IN, Angola
+  CAND (S2-649601236):
+    Name: Lee & Holt Llc
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5350 | AddrSim: 0.9545
+  S1 (S1-240034113):
+    Name: Antonio & Brady Inc
+    Addr: 3303 Lincoln Avenue, Sioux Falls, SD
+  CAND (S3-779267936):
+    Name: Wexnovi
+    Addr: 3303 Lincoln Ave, Sioux Falls, South Dakota
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.4395 | AddrSim: 1.0000
+  S1 (S1-538093016):
+    Name: Raven Kochav Inc
+    Addr: 5518 Freedom Street, Ravenna, OH
+  CAND (S2-946172632):
+    Name: Family Federation-Inc.
+    Addr: 5518 FREEDOM STREET, RAVENNA TWP, OH
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-77011150):
+    Name: Pediatric Golden Clinic LLC
+    Addr: 23736 209th Street, Queen Creek, AZ
+  CAND (S3-137702958):
+    Name: Pediatric Golden Clinic
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5134 | AddrSim: 1.0000
+  S1 (S1-508826568):
+    Name: EW Choice Enbridge LLC
+    Addr: 110 Cypress Street, Silsbee, TX
+  CAND (S2-115154700):
+    Name: EYE EYE LIBERTY PHYSICIANS PLLC
+    Addr: 110 CYPRESS STREET, SILSBEE, TX
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.5338 | AddrSim: 0.9388
+  S1 (S1-396537924):
+    Name: Blair Popular
+    Addr: 664 Penrose Circle, Mesa, AZ
+  CAND (S3-255785648):
+    Name: Maid Seafood
+    Addr: 664 Penrose Circle, Mesa Desert, Arizona
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.3542 | AddrSim: 0.9637
+  S1 (S1-202221813):
+    Name: Stovall, Cotton and Montano Tokyo Inc.
+    Addr: 190 Wheatland Court, Moscow, ID
+  CAND (S2-794898638):
+    Name: Naex Ínc
+    Addr: 190 WHEATLADN COURT, MOSCOW CITY, ID
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.4679 | AddrSim: 1.0000
+  S1 (S1-118609701):
+    Name: Tree, Ojeda and Gaffney Gen Inc
+    Addr: 721 Montrose Boulevard, Buffalo, MN
+  CAND (S2-599507685):
+    Name: Dovazeph
+    Addr: 721 MONTROSE BLVD, BUFFALO, MN
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-54489094):
+    Name: Premier Hospitality Concepts Inc
+    Addr: 14412 Ashmill Drive, Chesterfield County, VA
+  CAND (S3-37506033):
+    Name: Premier Hospitality Concepts
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.9433 | AddrSim: 0.0000
+  S1 (S1-126176145):
+    Name: Missie Petty Premier High
+    Addr: 163 Moonlight Pass, Union Mills, NC
+  CAND (S3-553698815):
+    Name: Missie Pnftty Premier High
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-718474784):
+    Name: Heritage Equity International
+    Addr: VT, Andover, 345 Hill Top Road
+  CAND (S2-786619373):
+    Name: Heritage Equity International
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-68668093):
+    Name: Safe Platinum Armada
+    Addr: 610 Columbia Street, Unit APT B, Evansville, IN
+  CAND (S3-982716367):
+    Name: Safe-Platinum Armada
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-367769669):
+    Name: Watts Medical Center L.L.C.
+    Addr: 403 Jackson Street, Unit Apt 209, City Of La Crosse, WI
+  CAND (S2-586994738):
+    Name: WATTS MEDICAL CENTER LLC
+    Addr: 
+
+[US - FLAGGED SUSPICIOUS] NameSim: 0.9524 | AddrSim: 0.0000
+  S1 (S1-370105839):
+    Name: Vittoria H. Herbert, P.A.
+    Addr: 1252 Sunset Drive, Casa Grande, AZ
+  CAND (S2-336462024):
+    Name: Vittoria Herbert, P.A. Center
+    Addr: 
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9015
+  S1 (S1-747083964):
+    Name: Cruz Altisource
+    Addr: 4844 Brandonville Pike, Terra Alta, WV
+  CAND (S3-305007602):
+    Name: Cruz Altisource Ltd
+    Addr: 844 Brandonville Pike, Terra ALTA, West Virginia
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.6275
+  S1 (S1-512204838):
+    Name: Education Ministries Center
+    Addr: 5048 Brigantine Court, Wilmington, DE
+  CAND (S3-588359849):
+    Name: Education Ministries Center LLC
+    Addr: Pike Creek Valley, 5052 Brigantine Court, Delaware
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9789 | AddrSim: 0.9836
+  S1 (S1-245803349):
+    Name: Nixon Ubs of Mutual LLC
+    Addr: 55813 County Road 216, Mutual, OK
+  CAND (S2-789629233):
+    Name: Nixon Ubs of Mutua1  LLC
+    Addr: MUTUAL, OK, 5813 COUNTY ROAD 216
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8621
+  S1 (S1-873661598):
+    Name: Rodriguez Energy
+    Addr: 1990 Red Hawk Drive, AL, Enterprise
+  CAND (S3-212240968):
+    Name: Rodriguez Energy
+    Addr: 1989 Red Hawk Dr, Enterprise Township, Alabama
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9346 | AddrSim: 0.9461
+  S1 (S1-596352108):
+    Name: Hinojosa, Gay and Southwick Oncology Inc
+    Addr: 2034 Farmbrook Circle, Grove City, OH
+  CAND (S3-718601709):
+    Name: Hinojosa, Gay And Southwick Inc Center
+    Addr: 2034 Farmbrook Cir, Grove City, Ohio
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8636
+  S1 (S1-954134438):
+    Name: Integrated Total Flaherty Group
+    Addr: 48 Gobbler Way, Parsons, WV
+  CAND (S3-759850377):
+    Name: Integrated Total Flaherty Uptown Group
+    Addr: 69 Gobbler Way, Parsons, West Virginia
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.8667 | AddrSim: 0.9538
+  S1 (S1-375833641):
+    Name: Beacon Bay Trg
+    Addr: TX, Houston, 9818 Pine Lake Drive
+  CAND (S3-779943796):
+    Name: Trg Bay Behcaoon
+    Addr: 9818 Pine Lake Dr, Houston, Texas
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9444
+  S1 (S1-410276321):
+    Name: Sugar Land Cancer Express Committee Inc
+    Addr: TX, 3123 Wagon Trail Drive, Sugar Land
+  CAND (S2-207452591):
+    Name: Sugar Land Cancer Express Committee  South Inc
+    Addr: 7128 Wagon Trail Dr, SUGAR LAND, TX
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9091
+  S1 (S1-765659899):
+    Name: Interstate Express Associates LLC
+    Addr: 180 South Road, Unit 40, Thomasville, NC
+  CAND (S2-724007082):
+    Name: Interstate (Express)
+    Addr: 0180 SOUTH RD, THOMASVILLE, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.8996 | AddrSim: 1.0000
+  S1 (S1-200128086):
+    Name: Office of Housing
+    Addr: 9 76th Street, Ocean City, MD
+  CAND (S2-46578395):
+    Name: officehousing.com
+    Addr: 9  76TH STREET, OCEAN CITY, MD
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9828
+  S1 (S1-666683312):
+    Name: Guenna's Continental Yoga
+    Addr: 1712 Doc Nichols Road, Durham, NC
+  CAND (S2-496838291):
+    Name: GUENNA'S CONTINENTAL YOGA UPTOWN
+    Addr: 1725 DOC NICHOLS RD, DURHAM, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9586 | AddrSim: 0.9032
+  S1 (S1-888125129):
+    Name: Jenkins, Haslam & Wilson Specialty LLC
+    Addr: 16311 Park Avenue, Spanaway, WA
+  CAND (S2-786820513):
+    Name: Jenkins, Haslam &-Wilson Medical
+    Addr: 16318 1/2 PARK AVE, SPANAWAY, WA
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9702
+  S1 (S1-701948127):
+    Name: Department of Education Clinic
+    Addr: 2436 Keyes Island, International Falls, MN
+  CAND (S3-777201580):
+    Name: Department Of Education Clinic Inc.
+    Addr: 2436 Keyes Island, International Falls, Minnesota
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9010 | AddrSim: 1.0000
+  S1 (S1-89191092):
+    Name: Hicks Ishares, Inc
+    Addr: 606 Orchard Lane, NC, Banner Elk
+  CAND (S2-640039919):
+    Name: hicksishares.com
+    Addr: 606. ORCHARD LN, BANNER ELK, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9714
+  S1 (S1-567826450):
+    Name: Nepomuceno Games Inc
+    Addr: 105 Kendall Street, Glenwood, IN
+  CAND (S3-657605186):
+    Name: Nepomuceno Games Ínc
+    Addr: 105  Kendall St, Glenwood, Indiana
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9454 | AddrSim: 0.9639
+  S1 (S1-62701527):
+    Name: Fenaor Resources
+    Addr: NY, 680 Central Avenue, Unit Suite 11N, Albany
+  CAND (S3-119036582):
+    Name: Fenaorresources.Com
+    Addr: 680-C Central Avenue, Unit Suite 11N, Albany, New York
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9286
+  S1 (S1-326761081):
+    Name: Family Center of Parma
+    Addr: 5360 Andover Drive, Parma, OH
+  CAND (S3-655799713):
+    Name: Family Center Of Parma Partners Society
+    Addr: Parma, 5369 Andover Dr, Ohio
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9355
+  S1 (S1-8083714):
+    Name: Fitzer's Diner
+    Addr: Sacramento, CA, 8685 Redlands Way
+  CAND (S2-434102717):
+    Name: Fitzer's Diner Harbor
+    Addr: 8692 REDLANDS WAY, SACRAMENTO, CA
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9524
+  S1 (S1-219732252):
+    Name: Professional Transit Innovations LLC
+    Addr: AZ, 12535 Mauna Loa Lane, El Mirage
+  CAND (S3-229774289):
+    Name: Professional-Transit
+    Addr: 12535 Mauna Loa Ln, El Mirage, Arizona
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.8582 | AddrSim: 1.0000
+  S1 (S1-752375302):
+    Name: Silver Chs LLC
+    Addr: 28824 Kramer Drive, Town Of Waterford, WI
+  CAND (S2-363727639):
+    Name: Snbifer Chs  LLC
+    Addr: 28824-28826 KRAMER DRIVE, TOWN OF WATERFORD, WI
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9013 | AddrSim: 1.0000
+  S1 (S1-583255926):
+    Name: Quex Enhanced LLC
+    Addr: 154 Old Kings Highway, Wilton, CT
+  CAND (S2-992534857):
+    Name: Quex Eochdancmed LLC
+    Addr: 154-156 OLD KINGS HWY, PO BOX 2477, WILTON CITY, CT
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9421
+  S1 (S1-50514797):
+    Name: North Golden Aria
+    Addr: 4721 Village Mill Way, Rancho Cordova, CA
+  CAND (S3-692589198):
+    Name: NORTH GOLDEN ARIA MIDTOWN
+    Addr: 4742 Village Mill Way, Rancho Cordova, California
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9841
+  S1 (S1-110286637):
+    Name: Heartland Usa Inc
+    Addr: La Porte, 1602 Michigan Avenue, IN
+  CAND (S2-378161896):
+    Name: Heartland  Usa
+    Addr: 160 MICHIGAN AVE, LA PORTE, IN
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9852
+  S1 (S1-482277787):
+    Name: Legacy Digital Worldwide
+    Addr: 39 Abbey Street, Girard, OH
+  CAND (S3-295487442):
+    Name: Legacy Digital Worldwide
+    Addr: 39 Abbey Street, Girard, Ohio
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-305066082):
+    Name: Beacon Elite Hennessy
+    Addr: 2518 Clarence Avenue, Berwyn, IL
+  CAND (S2-533312504):
+    Name: Beacon  Elite Hennessy
+    Addr: IL, BERWYN, 2518- CLARENCE AVE
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9388
+  S1 (S1-179926857):
+    Name: Dotti Paul Titan, Inc.
+    Addr: NC, 119 Breakers Place, Cary
+  CAND (S3-491028974):
+    Name: Dotti Paul (Titan,)
+    Addr: 119-D Breakers Place, CARY CDP, North Carolina
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.9389 | AddrSim: 0.9600
+  S1 (S1-569156754):
+    Name: Caroljean Cummins Keystone
+    Addr: 4796 Thompson Road, Clarence, NY
+  CAND (S3-796406137):
+    Name: Caroljeancumminskeystone.Com
+    Addr: ##4796 Thompson Rd, Clarenec, New York
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9886
+  S1 (S1-811290880):
+    Name: Royal Electronics Services LLC
+    Addr: 525 Marquette St, Davenport, IA
+  CAND (S3-165902241):
+    Name: Royal Electronics Services
+    Addr: 525 Marquette St, Davenport, Iowa
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.6400 | AddrSim: 0.9714
+  S1 (S1-182516380):
+    Name: Business Data International L.L.C.
+    Addr: South Richmond Hill, 104-11 109 Street, NY
+  CAND (S2-198367133):
+    Name: DBINTERNATIONAL.COM
+    Addr: 104-11 109 ST, S RICHMOND HILL, NY
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-187819771):
+    Name: Chapel Hill Express Solutions LLC
+    Addr: 9505 Dodsons Crossroads Crossroads, NC, Chapel Hill
+  CAND (S2-123947324):
+    Name: Chapel Hill Express Solutions
+    Addr: 9505 1/2 DODSONS CROSSROADS CROSSROADS, CHAPEL HILL, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-574623651):
+    Name: Precision Hospitality Global PC
+    Addr: 1362 Pigeon Fork Road, Lawrenceburg, KY
+  CAND (S2-71181990):
+    Name: Precision Hospitality Global
+    Addr: 1362-1366 PIGEON FORK ROAD, LAWRENCEBURG, KY
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-119791854):
+    Name: Newberry Reserve of Round Rock LLC
+    Addr: 7720 Oconnor Drive, Unit 4516, Round Rock, TX
+  CAND (S2-81747371):
+    Name: Newberry Reserve óf Round Rock LLC
+    Addr: ##7720 OCONNOR DRIVE, TX, ROUND ROCK
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 0.7784 | AddrSim: 1.0000
+  S1 (S1-680807801):
+    Name: Youth Society
+    Addr: 500 Sandhills Circle, NC, Pinehurst
+  CAND (S2-991412605):
+    Name: Nexlum (Society)
+    Addr: 500 SANDHILLS CIRCLE, PINEHURST, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9117
+  S1 (S1-61440151):
+    Name: Prairie Program
+    Addr: 1525 Main Street, Unit 256, Bountiful, UT
+  CAND (S2-99845375):
+    Name: PRAIRIE PROGRAM
+    Addr: 1525 MAIN STRET, BOUNTIFUL, UT
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9476
+  S1 (S1-989580787):
+    Name: Carlton Graphics
+    Addr: 1010 Neilson Court, Murfreesboro, TN
+  CAND (S3-998881074):
+    Name: Carlton Graphics Uptown Co
+    Addr: ##1017 Neilson Ct, Murfreesboro, Tennessee
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-850757050):
+    Name: Prairie Resources LLC
+    Addr: 27502 20, WA, Sedro-woolley
+  CAND (S3-403430461):
+    Name: Miraevo t/a Prairie Resources LLC
+    Addr: 27502 20, Sedro-woolley, WA
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-960790835):
+    Name: Corporate Intelligence Industries
+    Addr: 522 Union Street, Lawrence, MA
+  CAND (S2-316870769):
+    Name: Corporate Intelligence Corporate
+    Addr: 522 UNION ST, LAWRENCE, MA
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9613
+  S1 (S1-981637134):
+    Name: Prairie Summit LLC
+    Addr: 127 Kel Ash Road, Rocky Point, NC
+  CAND (S2-947261653):
+    Name: PRAIRIE SUMMIT RIVERSIDE LLC
+    Addr: 134 KEL ASH RD, ROCKY POINT, NC
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9812
+  S1 (S1-949596225):
+    Name: Jillie Alexander, DPM, M.D., P.C.
+    Addr: 8709 Lake June Road, Dallas, TX
+  CAND (S3-580267919):
+    Name: Jillie Alexander, Dpm, M.D., P.C.
+    Addr: 8709 Lake June Road, Dallas, Texas
+
+[US - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-139159201):
+    Name: Adelaide Valenzuela Crystal Aberdeen Inc
+    Addr: 24 Millbrook Court, Newington, CT
+  CAND (S3-724370710):
+    Name: -- Adelaide Valenzuela Crystal Aberdeen
+    Addr: 24 1/2 Millbrook Court, Newington, Connecticut
+
+
+=======================================================
+CALIBRATION SAMPLE: INDIA (80 pairs: 40 Flagged, 40 Clean)
+=======================================================
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3732 | AddrSim: 0.9307
+  S1 (S1-947463697):
+    Name: RR Vyapaar Private Limited
+    Addr: D No 8/2/293//82/J111/415, 3 Rd Floor, Road No 78, Jubilee Hills, Hyderabad, Telangana
+  CAND (S2-454626633):
+    Name: హైటెక్ ఇంటర్నేషనల్ ఇండస్ట్రీస్ జ్యువెలర్స్ లిమిటెడ్
+    Addr: NO 8/2/293/82/NL/314, JUBILEE HILLS, HYDERABAD, Telangana
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3589 | AddrSim: 0.9057
+  S1 (S1-702858215):
+    Name: Classic Management Pvt Ltd
+    Addr: Chennai, Tamil Nadu, Chennai, No. 34, Poonamallee High Road, Koyambedu
+  CAND (S2-947867102):
+    Name: ஸ்டார் டெக்னாலஜி கார்மென்ட்ஸ் பிரைவேட் லிமிடெட்
+    Addr: CHENNAI, Tamil Nadu, CHENNAI, DOOR NO #34
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3663 | AddrSim: 1.0000
+  S1 (S1-91320858):
+    Name: Global Technology Pvt Ltd
+    Addr: Aurangabad, Rh No.3 G.No 103/P Satara, Martand Grahkul Pruthvi N, Aurangabad, Maharashtra
+  CAND (S2-389599046):
+    Name: ग्लोबल टेक्नोलॉजी प्रा. लि.
+    Addr: RH NO.A-3 G.NO 103/P SATARA, Maharashtra, AKASHWANI, AURANGABAD, MARTAND GRAHKUL PRUTHVI N
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-687296120):
+    Name: Tg Institute
+    Addr: 4-133 Lohesra, Lokeshwaram, Nirmal, Adilabad, Telangana
+  CAND (S2-321990621):
+    Name: TG INSTITUTE LTD
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5343 | AddrSim: 0.9846
+  S1 (S1-241772748):
+    Name: Madhurima Brothers Private Limited
+    Addr: 235, Binnamangala, 2 Floor, 13Th Cross Rd, Bangalore North, Bangalore, Karnataka
+  CAND (S2-912661624):
+    Name: Sahdev [Services]
+    Addr: DOOR NO A-235 BINNAMANGALA 2ND, FLOOR 13TH CROSS ROAD 2ND, BANGALORE NORTH, Karnataka
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3668 | AddrSim: 0.9670
+  S1 (S1-942095377):
+    Name: Supreme Enterprises Private Limited
+    Addr: Shop No D-8 Krishna Arcad Bagmugaliya, Bhopal, Madhya Pradesh
+  CAND (S3-796277662):
+    Name: ब्लू ट्रेडिंग प्रा. लि.
+    Addr: Shop No D-##8 Krishna Arcad Bagmugaliya, Bhopal, MP
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-467985546):
+    Name: Leena Global Pvt Ltd
+    Addr: Chokkahalli Industrial Area Hosakote, Bangalore Rural, Karnataka
+  CAND (S3-585569983):
+    Name: Leena Global  Pvt
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-727339925):
+    Name: Sapa Farms Private Limited
+    Addr: Ramapur Sarai Inayat, Allahabad, Uttar Pradesh
+  CAND (S2-237704074):
+    Name: Sapa Farms Limited Center
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3880 | AddrSim: 1.0000
+  S1 (S1-678958405):
+    Name: Dynamic Golden Producer Private Limited
+    Addr: 10 Se 43 Savarn Path, Mansarovar, Jaipur, Rajasthan
+  CAND (S2-135716820):
+    Name: डायनामिक गोल्डन प्रोड्यूसर प्राइवेट लिमिटेड
+    Addr: 10 SE 43 SAVARN PATH, MANSAROVAR, JAIPUR, Rajasthan
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3948 | AddrSim: 0.9703
+  S1 (S1-95414728):
+    Name: Products Par Projects Private Limited
+    Addr: Kerala, Ernakulam, Aroma Cottagedoor No Xliv 64 S R M Road, Ernakulam
+  CAND (S3-345436121):
+    Name: Keloriza
+    Addr: Aroma Cottagedoor No Xliv 64. S R M Road, Ernakulam, KL
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3819 | AddrSim: 0.9000
+  S1 (S1-814693802):
+    Name: Foundation Goodward Food
+    Addr: 31, Haribhakti Extension, Old Padra Road, Vadodara, Gujarat
+  CAND (S2-803003182):
+    Name: ઇન્ટરનેશનલ ઇન્વેસ્ટમેન્ટ પ્રા. લિ.
+    Addr: OFFICE NO. BL 31, HARIBHAKTI COLONY, OLD PADRA ROAD, VADODARA, Gujarat
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5777 | AddrSim: 0.9610
+  S1 (S1-135046265):
+    Name: Gold Consultants Private Limited
+    Addr: H No.3-5-696, Flat No.106, Shiv Sadan Apartments, Himyathnagar, Hyderabad, Telangana
+  CAND (S3-547489805):
+    Name: Smt G0ld Motors Private Limited Center
+    Addr: H No.3-5-703, Flat No.106, Shiv Sadan Apartments, Himyathnagar, Hyderabad, N/A, TG
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5647 | AddrSim: 1.0000
+  S1 (S1-71704552):
+    Name: North Dynamic Infrastructure Private Limited
+    Addr: 6/3, First Floor, Pvt No. 104, Wea, Karol Bagh, New Delhi, Central Delhi, Delhi
+  CAND (S2-35845105):
+    Name: Manjit Development (India)
+    Addr: 6/3, FIRST FLOOR, PVT NO. 104, WEA, KAROL BAGH NEW DELHI, NEW DELHI, Delhi
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4444 | AddrSim: 0.9208
+  S1 (S1-405144513):
+    Name: Maa Media Private Limited
+    Addr: G-1, 160, Riico Industrial Area, Baran, Baran, Rajasthan
+  CAND (S2-343416667):
+    Name: Sree View
+    Addr: G 1 -1209 RIICO INDUSTRIAL AREA RAMPURA MUNDANA, BHIWADI, Rajasthan
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3720 | AddrSim: 0.9362
+  S1 (S1-504538422):
+    Name: Mantu Drugs Pvt. Ltd.
+    Addr: 24-67 Venkatapuram, Hyderabad, Telangana
+  CAND (S2-128970382):
+    Name: ఎస్‌ఎస్ కన్‌స్ట్రక్షన్ ప్రైవేట్ లిమిటెడ్
+    Addr: NO 24, HYDERABAD, Telangana
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3654 | AddrSim: 0.9536
+  S1 (S1-622655736):
+    Name: Subham Holdings
+    Addr: 1 R.N. Mukherjee Road, Martin Burn Buidling, 5Th Floor, Room No. 7, Kolkata, Kolkata, Howrah, West Bengal
+  CAND (S2-335412619):
+    Name: গুজরাট এক্সপোর্টস প্রাইভেট লিমিটেড
+    Addr: 1, R.N. MUKHERJEE ROAD MARTIN BURN BUILDING, 4TH FLOOR, ROOM N, O : - 36, KOLKATA, KOLKATA, HOWRAH, West Bengal
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5625 | AddrSim: 1.0000
+  S1 (S1-880009199):
+    Name: Shahi Foundation Pvt Ltd
+    Addr: Flat No- 1148, Tower Blue Bell, Gaur Saundaryam, Gr Noida West, Noida, Gautam Buddha Nagar, Uttar Pradesh
+  CAND (S2-759557315):
+    Name: ms.com
+    Addr: FLAT NO- 1148, TOWER BLUE BELL, GAUR SAUNDARYAM, GR NOIDA WEST, NOIDA, GAUTAM BUDDHA NAGAR, Uttar Pradesh
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5690 | AddrSim: 1.0000
+  S1 (S1-563824412):
+    Name: Radhika Urja Private Limited
+    Addr: 37, Srushti Row House, Chorayasi, Surat, Gujarat
+  CAND (S2-391502994):
+    Name: Chorayasi Industries Private Ltd - 9723262607
+    Addr: 37, SRUSHTI ROW HOUSE, CHORAYASI, Gujarat
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-255377825):
+    Name: Candid Marketing Pvt Ltd
+    Addr: 8/103 Rajas Chs, Manisha, Nagar Gate No 1, Kalwa W, Thane, Maharashtra
+  CAND (S2-75366266):
+    Name: Candid Marketing  Pvt [Ltd]
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5167 | AddrSim: 1.0000
+  S1 (S1-924154766):
+    Name: Hotel City Logistics Limited
+    Addr: Plot No. 9, Flat No. 10, 3Rd Floor, Giriraj Appt. Near Landmark Building, Ramdaspeth, Nagpur, Maharashtra
+  CAND (S3-280776916):
+    Name: SI
+    Addr: Plot No. 9, Flat No. 10, 3Rd Floor, Giriraj Appt Near Landmark Building, Ramdaspeth, Nagpur, Maharashtra
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4171 | AddrSim: 0.9695
+  S1 (S1-192642610):
+    Name: Woodtech Knits Private Limited
+    Addr: Flat No. G 402, Ayodhya Park Kavala Naka, Kolhapur, Maharashtra
+  CAND (S3-296523530):
+    Name: Lifespace Toamdrs Private Limited
+    Addr: Flat No. G 402, Ayodhya Park Kavala Naka, Kolhapur, MH
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4359 | AddrSim: 1.0000
+  S1 (S1-536471063):
+    Name: WGO Solutions Private Limited
+    Addr: No. 03, Grace City Palasamudram, Gorantla (Mandal), Anantapur, Andhra Pradesh
+  CAND (S2-564633081):
+    Name: Anantapur Fabrik Private Ltd
+    Addr: H.NO B3/03 , GRACE CITY PALASAMUDRAM, GORANTLA (MANDAL), ANANTAPUR, Andhra Pradesh
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4192 | AddrSim: 1.0000
+  S1 (S1-168232133):
+    Name: XP Biz Limited
+    Addr: No.199, Maran Maligai, P H Road, Ambattur, Tiruvallur, Tamil Nadu
+  CAND (S3-411441095):
+    Name: Iriaria Sys
+    Addr: No.199, Maran Maligai, P H Road, Ambattur, Tiruvallur, Tamil Nadu
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3786 | AddrSim: 1.0000
+  S1 (S1-533266474):
+    Name: AO Car Public Limited
+    Addr: Nagpur, Parbati Appartment Puranik Layout, Bharat Nagar, Flat No.2, Maharashtra
+  CAND (S2-650051286):
+    Name: कृष्णा मार्केटिंग
+    Addr: FLAT NO. 2, NAGPUR, Maharashtra
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4048 | AddrSim: 1.0000
+  S1 (S1-294228940):
+    Name: Kpb Seva Samiti of New Delhi
+    Addr: C-147, Third Floor Okhla Industrial Area, Phase-1, New Delhi, South Delhi, Delhi
+  CAND (S2-11825049):
+    Name: Anjali Trust [Limited]
+    Addr: Delhi, C-147, THIRD FLOOR OKHLA INDUSTRIAL AREA, PHASE-1, NEW DELHI
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3755 | AddrSim: 1.0000
+  S1 (S1-384932380):
+    Name: Andhra Pradesh Excellence Pvt. Ltd.
+    Addr: 1-7-176Bakaram Hyderabad, Andhra Pradesh, Hyderabad, Telangana
+  CAND (S2-77586793):
+    Name: హోటల్ లక్ష్మీ సాఫ్ట్‌వేర్ ప్రైవేట్ లిమిటెడ్
+    Addr: 1-7-176BAKARAM HYDERABAD, ANDHRA PRADESH, HYDERABAD, Telangana
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4315 | AddrSim: 1.0000
+  S1 (S1-489677514):
+    Name: Preferred Services Private Limited
+    Addr: Maharashtra, Gat No 318, Nashik, Behind Wada Hotel, Dhakambe Shiwar, Dindori Road, Dindori
+  CAND (S2-954045733):
+    Name: Dr Ariadelta
+    Addr: GAT NO 318, BEHIND WADA HOTEL, DHAKAMBE SHIWAR, DINDORI ROAD, DINDORI, NASHIK, Maharashtra
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5097 | AddrSim: 0.9838
+  S1 (S1-128703966):
+    Name: Right Travels Group
+    Addr: First Floor, Saravana Matrix Tower 2/88, Old Mahabalipuram Road, Seevaram, Perungudi, Chennai, Tamil Nadu
+  CAND (S3-68715439):
+    Name: Super Technologies
+    Addr: First Floor, Saravana Matrix Tower 2/88, Old Mahabalipuram Road, Seevaram, Perungudi, Chennai, TN
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5667 | AddrSim: 1.0000
+  S1 (S1-122921539):
+    Name: Guru Estate Private Limited
+    Addr: 2-121/5 Ss Shetty Complex, Nh 66, Kulai, Hosabettu, Mangalore, Dakshina Kannada, Karnataka
+  CAND (S2-843498554):
+    Name: TIRUPATI PRIME SOFTWARE PVT  LTD
+    Addr: Karnataka, #2-121/5 SS SHETTY COMPLEX, NH 66, KULAI, HOSABETTU, MANGALORE
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3846 | AddrSim: 1.0000
+  S1 (S1-927709655):
+    Name: Baba Services Private Limited
+    Addr: Maharashtra, Mumbai, 1104 Gyaneshwar Apattments186 Veer Sararkar Marg Prabhadevi
+  CAND (S2-301895243):
+    Name: बाबा सर्विसेज प्राइवेट लिमिटेड
+    Addr: 1104 GYANESHWAR APATTMENTS186 VEER SARARKAR MARG PRABHADEVI, BOMBAY, MUMBAI, Maharashtra
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-31826191):
+    Name: Silver Om Marketing Private Limited
+    Addr: 75, Pumping Station Road-3, Erode, Tamil Nadu
+  CAND (S3-900931455):
+    Name: Silver Om Marketing Private
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5600 | AddrSim: 1.0000
+  S1 (S1-51617273):
+    Name: Blue Trading Ltd
+    Addr: Near Mas, Indrayani Corner, Telco R, Pune, Maharashtra, Pune City, J Block J 7/C 2
+  CAND (S2-474268367):
+    Name: PARTNERS BLUE LTD
+    Addr: J BLOCK J 7/C 2, NEAR MAS, INDRAYANI CORNER, TELCO R, PUNE CITY, PUNE, Maharashtra
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3646 | AddrSim: 0.9486
+  S1 (S1-32225141):
+    Name: Smart Logistics
+    Addr: H No 1-8-702/52/1, 302, 3Rd Floor Padma Colony, Hyderabad, Telangana
+  CAND (S3-734443644):
+    Name: శివం ఎంటర్‌ప్రైజెస్ ప్రైవేట్ లిమిటెడ్
+    Addr: H No 1-8-702/52/1, 302, 3Rd Floor Padma Colony, Hyderabad, Vidyanagar, తెలంగాణ
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-153124274):
+    Name: Mritunjay Institute
+    Addr: 6-S, Pemino, Altamount Road, Nr Washington House Cumballa Hill, Mumbai, Mh, Mumbai, Mumbai City, Maharashtra
+  CAND (S3-897604604):
+    Name: Mritunjay ínstitute
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 1.0000 | AddrSim: 0.0000
+  S1 (S1-310511542):
+    Name: Asara Autoparts Private Limited
+    Addr: H.No. 1-11-252/12 Motilal Nehru Nagar, Begumpet, Hyderabad, Kurnool, Telangana
+  CAND (S3-378371628):
+    Name: Asara Autoparts Private-Ltd
+    Addr: 
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3722 | AddrSim: 1.0000
+  S1 (S1-635406950):
+    Name: Marine Advisors Co
+    Addr: Faridabad, Haryana, Sanjay Colony, Apna Ghar Society, Nit, Faridabad, G-8294-A
+  CAND (S3-279006088):
+    Name: Novifluxzeph Co
+    Addr: G-8294-A, Sanjay Colony, Apna Ghar Society, Nit, Faridabad, Haryana
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.3623 | AddrSim: 0.9398
+  S1 (S1-404444579):
+    Name: Malappuram Housing Ltd
+    Addr: 28/588/G, Suit No 013, Workhaus Business Center, Tirur, Malappuram, Malapuram, Kerala
+  CAND (S2-590870648):
+    Name: ഫസ്റ്റ് ഫുഡ് പ്രൈവറ്റ് ലിമിറ്റഡ്
+    Addr: DOOR NO 28/588/G, MALAPPURAM, MALAPURAM, Kerala
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.4757 | AddrSim: 1.0000
+  S1 (S1-483148264):
+    Name: Blue Industries Private Limited
+    Addr: A - 488, Shastri Nagar, New Delhi, Delhi
+  CAND (S3-623425127):
+    Name: eastsuperimpex.com
+    Addr: A - 488, Shastri Nagar, New Delhi, DL
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5534 | AddrSim: 0.9744
+  S1 (S1-362008356):
+    Name: Jaguar Consultancy Private Limited
+    Addr: Faridabad, Haryana, Flat No. 503, Trump Tower Omaxe Heights, Sector 86
+  CAND (S3-924027888):
+    Name: Lotus Agro
+    Addr: Flat No. 503, Trump Tower Omaxe Heights, Sector 86, Faridabad, HR
+
+[India - FLAGGED SUSPICIOUS] NameSim: 0.5368 | AddrSim: 1.0000
+  S1 (S1-605114288):
+    Name: Class Cold
+    Addr: Gujarat, D-54, Silver Park, Karodiya Road, Gorwa Village, Vododara, Vadodara
+  CAND (S2-81818273):
+    Name: ranbhumi facilities private limited
+    Addr: D-54, SILVER PARK, KARODIYA ROAD, GORWA VILLAGE, VODODARA, Gujarat
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-356181391):
+    Name: Indore Madhav Private Limited
+    Addr: 308 Kanha Hights, 14-A Sanskriti Royal Park Rau, Indore, Madhya Pradesh
+  CAND (S2-549924705):
+    Name: Indore Mádhav Private
+    Addr: H.NO 308 KANHA HIGHTS, 14-A SANSKRITI ROYAL PARK RAU, INDORE, Madhya Pradesh
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.8897 | AddrSim: 1.0000
+  S1 (S1-213366142):
+    Name: Opg Polytechnic
+    Addr: Mansingh Hotels And Resorts Limited 241, Mmx Mall, G.T. Road, Mohan Nagar, Ghaziabad, Uttar Pradesh
+  CAND (S2-535938344):
+    Name: Opg Ponbmytecnci
+    Addr: MANSINGH HOTELS AND RESORTS LIMITED 241, MMX MALL, G.T. ROAD, MOHAN NAGAR, GHAZIABAD, Uttar Pradesh
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-747534209):
+    Name: East Forms LLP
+    Addr: New No. 23, Aswathnagar Sanjaynagar, Bangalore, Karnataka
+  CAND (S2-405562021):
+    Name: EAST LLP FORMS
+    Addr: Karnataka, 23 , ASWATHNAGAR SANJAYNAGAR, BANGALORE
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9171
+  S1 (S1-403953017):
+    Name: Vastu Traders Company
+    Addr: 208 Anand Lodge, V E Road, Tuticorin, Tamil Nadu
+  CAND (S3-693411563):
+    Name: Vastu Traders Ventures Company
+    Addr: 211 Anand Lodge, V E Road, Tuticorin, TN
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9754
+  S1 (S1-691803561):
+    Name: VGE Lifesciences Private Limited
+    Addr: Chamber No.64, Third Floor New High Cout, Jodhpur, Rajasthan
+  CAND (S3-7419968):
+    Name: ... VGE Lífesciences Private Limited
+    Addr: Chamber No.64, Third Floor New High Cout, Jodhpur, RJ
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9219
+  S1 (S1-644045293):
+    Name: Guru Properties Private Limited
+    Addr: Building No. D-50, Flat No. 470 M.I.G Colony, Bandra (East), Mumbai, Maharashtra
+  CAND (S3-64774357):
+    Name: Paivcaet Guru Properties Limited
+    Addr: Buiding No. D-50, Flat No. 470 M.i.g Colony, Bandra (East), Mumbai, MH
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9268
+  S1 (S1-626580048):
+    Name: Egmore Shoppe Public Limited
+    Addr: #B7, Sidhurplaza, No42, Montethroad, Egmore, Chennai-8. Ad, Egmore, Chennai-8., Ad, Egmore, Chennai-8., Tamil Nadu
+  CAND (S3-360026515):
+    Name: Egmore Shoppe Public
+    Addr: #B7, Egmore, Chennai-8., TN
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9630
+  S1 (S1-187875042):
+    Name: SZ Consulting LLP
+    Addr: 5/52, Vishal Khand 9, Gomti Nagar, Lucknow, Uttar Pradesh
+  CAND (S3-864367930):
+    Name: SZ Consulting
+    Addr: 5/52, Vishal Khand 9, Gomti Nagar, Lucknow, UP
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.7451
+  S1 (S1-471511450):
+    Name: Real Hotel Developers
+    Addr: Flat No.-102, Plot No-6 & 6A, Farabi Apartment Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh
+  CAND (S3-351096774):
+    Name: Real Hotel-Developers
+    Addr: Flat No.-102, Lucknow, उत्तर प्रदेश
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-87595227):
+    Name: C.C. Colony Producer Pvt Ltd
+    Addr: B-4, C.C. Colony, Delhi
+  CAND (S2-832486782):
+    Name: C.C. Colony Producer Pvt [Ltd.]
+    Addr: B-4, C.C. COLONY, Delhi
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9695
+  S1 (S1-19379485):
+    Name: Shakti Ventures Private Limited
+    Addr: C3/132/233/2 Kajirdanga 1St Lane, Kolkata, Howrah, West Bengal
+  CAND (S3-892999933):
+    Name: Shakti  Ventures Private Ltd
+    Addr: C3/132/233/2 Kajirdanga 1St Lane, Kolkata, Howrah, WB
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8039
+  S1 (S1-511788079):
+    Name: Perfect Investment Private Limited
+    Addr: 60A Pankaj Mallick Sarani Ritchie Road, Kolkata, Howrah, West Bengal
+  CAND (S2-636871671):
+    Name: Perfect Investment Prttve Limited
+    Addr: পশ্চিমবঙ্গ, 60A PANKAJ MALLICK SARANI RITCHIE ROA, KOLKATA, KOLKATA, null
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9333
+  S1 (S1-387352844):
+    Name: Sudh Academy
+    Addr: 5-4, Kanigiri, Prakasam, Andhra Pradesh
+  CAND (S3-62763):
+    Name: Sudh Academy Co
+    Addr: 5-4, Kanigiri, Prakasam, AP
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-131146074):
+    Name: Novex (India) Chit Partners
+    Addr: C/O. Jyotirmoyee Dube, 44/1, Bibigunj Road, Berhampore, Murshidabad, West Bengal
+  CAND (S2-679793703):
+    Name: Novex Chit (India) Partners
+    Addr: C/O. JYOTIRMOYEE DUBE, 44/1, BIBIGUNJ ROAD, BERHAMPORE, West Bengal
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-87971737):
+    Name: Dkj Polytechnic
+    Addr: Sa- 5/176-E-2, Chitragupt Nagar Pahariya, Varanasi, Uttar Pradesh
+  CAND (S2-366655874):
+    Name: -- Dkj Polytechnic
+    Addr: ##904 SA- 5/176-E-2, CHITRAGUPT NAGAR PAHARIYA, VARANASI, Uttar Pradesh
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9552
+  S1 (S1-570151385):
+    Name: Ganga Solutions
+    Addr: Unit 210 S/F Vardhaman Gee Dee Plaza Plot No- 10, Sec-12, Dwarka, South West Delhi, Delhi
+  CAND (S2-889322492):
+    Name: Ganga Solutions Private Limited
+    Addr: NO. 42 UNIT 210 S/F VARDHAMAN GEE DEE PLAZA PLOT NO- 21, SEC-12, DWARKA, Delhi
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9423
+  S1 (S1-973841533):
+    Name: Skt Exports Corp
+    Addr: 5, Juhu Tara Road, Santacruz (West), Mumbai, Maharashtra
+  CAND (S3-202557632):
+    Name: Skt Exports Corporation
+    Addr: 5, Juhu Tara Road, Santacruz (West), Mumbai, <NULL>, MH
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.9524 | AddrSim: 1.0000
+  S1 (S1-514251258):
+    Name: Prime Infra
+    Addr: 321 Basementhari Nagar Ashram, New Delhi, South Delhi, Delhi
+  CAND (S3-929334907):
+    Name: Prime Inra Inra
+    Addr: G-321 Basementhari Nagar Ashram, South Delhi, New Delhi, DL
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9143
+  S1 (S1-156161181):
+    Name: Gupta & Co
+    Addr: B-1261, G.D. Colony Mayur Vihar, Phase-Iii, Delhi, New Delhi, Delhi
+  CAND (S3-682749577):
+    Name: Gupta & Co.
+    Addr: B-1261, Delhi, New Delhi, DL
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8636
+  S1 (S1-831082500):
+    Name: Siliguri Electronics Private Limited
+    Addr: Sukanto Sarani New Milanpally, Siliguri, West Bengal
+  CAND (S3-51520632):
+    Name: Siliguri Electronics Limited (Service)
+    Addr: Plot 299 Sukanto Sarani New Milanpally, Siliguri, WB
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.6150 | AddrSim: 1.0000
+  S1 (S1-324635638):
+    Name: GOB Hospitality Private Limited
+    Addr: 265, 6Th Main, 4Th Cross Btm Layout, Bangalore South, Bangalore, Karnataka
+  CAND (S2-930756108):
+    Name: Bangalore South Consulting
+    Addr: 265, 6TH MAIN, 4TH CROSS BTM LAYOUT, BANGALORE SOUTH, Karnataka
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.9263 | AddrSim: 1.0000
+  S1 (S1-515516421):
+    Name: Everest (India) Farms Private Limited
+    Addr: Gala No. 1 To 7, Survey No. 371/A/9/1, The Capitol Building, Lotus Industrial Park, N.H No. 8, Vasai Phata, Vasai - East, Palghar, Vasai, Thane, Maharashtra
+  CAND (S2-462352547):
+    Name: #everestindia
+    Addr: NO 1 TO 7, SURVEY NO. 371/A/9/1, THE CAPITOL BUILDING, LOTUS INDUSTRIAL PARK, N.H NO. 8, VASAI PHATA, VASAI - EAST, PALGHAR, THANE, Maharashtra
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.9704 | AddrSim: 0.9391
+  S1 (S1-450739016):
+    Name: Vision Urban Infotech Private Limited
+    Addr: 6/7A Selva Ratna Vinayagar Avenue Cart Tract Road, Velachery, Chennai, Tamil Nadu
+  CAND (S3-975646421):
+    Name: Vision Unr Infotech Limited
+    Addr: 6/11A Selva Ratna Vinayagar Avenue Cart Tract Road, Chennai, TN
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.8750 | AddrSim: 0.9307
+  S1 (S1-100826537):
+    Name: Foundation Esr Foods Pvt Ltd
+    Addr: Sy No 37&38, Sri Nilayam, Manikoda, Flat No 402, Rangareddy, Telangana, Rangareddy
+  CAND (S3-579245123):
+    Name: Foundation Esr Renewable Pvt Ltd
+    Addr: 413, Sy No 37&38, Sri Nilayam, Manikoda, Rangareddy, TG
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9456
+  S1 (S1-501489284):
+    Name: DB Consulting Private Limited
+    Addr: Unit No. 309, 3Rd Floor, Mahant Chambers, Road No. 34, Wagle Estate, Thane, Thane, Maharashtra
+  CAND (S3-518175681):
+    Name: DB Consulting Industries Private Ltd
+    Addr: Unit No. 310, 3Rd Floor, Mahant Chambers, Road No. 34, Wagle Estate, Thane, Thane, महाराष्ट्र
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.3899 | AddrSim: 0.8833
+  S1 (S1-492635976):
+    Name: Urban Modern Estate Private Limited
+    Addr: B 912/A, World Trade Tower, B/H. Skoda Showroom, Makarba, Ahmadabad City, Ahmedabad, Gujarat
+  CAND (S3-86433384):
+    Name: ઈસ્ટર્ન એનર્જી પ્રાઇવેટ લિમિટેડ
+    Addr: B 912, Worldtrade Tower, B/h. Skoda Showroom, Ahmadabad City, Ahmedabad, GJ
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8485
+  S1 (S1-369700744):
+    Name: Datia Perumal Limited
+    Addr: Owner- Pratibha Suri Dantre Ki Nariya, Datia, Madhya Pradesh
+  CAND (S2-17293528):
+    Name: Datia Perumal LLP
+    Addr: H.NO 56 OWNER- PRATIBHA SURI DANTRE KI NARIYA, DATIA, मध्य प्रदेश
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9163
+  S1 (S1-54966140):
+    Name: Tirupati Solutions Private Limited
+    Addr: Sonawala Bldg., 3Rd Floor, 67 Bombay Samachar Marg, Mumbai, Maharashtra
+  CAND (S2-793566766):
+    Name: Tirupati Solutions Limited Private
+    Addr: SONAWALA BLDG., 3RD FLOOR, 67 BOMBAY SAMACHAR MARG, महाराष्ट्र
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.8933 | AddrSim: 0.9333
+  S1 (S1-949398113):
+    Name: European Trading Private Limited
+    Addr: 7-1-53/1, Shiv Bagh Ameerpet, Hyderabad, Telangana
+  CAND (S3-820771820):
+    Name: European Private Limited Center
+    Addr: Hyderabad, Shiv Bagh Ameerpet, TG, C-7-1-53/1
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9565
+  S1 (S1-7126623):
+    Name: Swastik Marketing Private Limited
+    Addr: Rh No 6 Hermes Heritage, Phase 1 Shastrinagar, Pune City, Pune, Maharashtra
+  CAND (S3-451934126):
+    Name: Swastik Marketing Private
+    Addr: Rh No 6 Hermes Heritage, Pune City, Pune, MH
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9806
+  S1 (S1-394797055):
+    Name: Bajrang Cause (India)
+    Addr: A-19, Ground Floor, Fiee Complex, Desk 141, Okhla Industrial Area Phase-2, New Delhi, South Delhi, Delhi
+  CAND (S2-830966193):
+    Name: Bajrang Cause (India) Overseas
+    Addr: A-62, GROUND FLOOR, FIEE COMPLEX, DESK 141, OKHLA INDUSTRIAL AREA PHASE-2, NEW DELHI, Delhi
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.9069 | AddrSim: 0.9751
+  S1 (S1-143873918):
+    Name: Consulting Salunke Trading of Cuttack
+    Addr: Plot No-0841, Rousa Patna New Rousapatna, Buxi Bazar, Cuttack, Orissa
+  CAND (S2-515922418):
+    Name: Consulting-Salunke Books of (Cuttack)
+    Addr: PLOT NO-43, ROUSA PATNA NEW ROUSAPATNA, BUXI BAZAR, CUTTACK, Odisha
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9222
+  S1 (S1-638281520):
+    Name: Yash Fashion Private Limited
+    Addr: 302 Shivana Chs Pandit Satavalekar Marg Old Name Mogul Lane Mahim West, Mumbai, Mumbai City, Maharashtra
+  CAND (S2-387540657):
+    Name: Yash Fashion Private Ltd
+    Addr: 2-302 SHIVANA CHS PANDIT SATAVALEKAR MARG OLD NAME MOGUL LANE MAHIM WEST, MUMBAI, महाराष्ट्र
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-773821010):
+    Name: Madhuban Software (India) Private Limited
+    Addr: Tc 49/639, Mrwa 39 Manacaud P.O, Thiruvananthapuram, Thiruvananthapuram, Trivandrum, Kerala
+  CAND (S2-47369603):
+    Name: Madhuban Software (India)
+    Addr: TC 49/639, MRWA 39 MANACAUD P.O, THIRUVANANTHAPURAM, THIRUVANANTHAPURAM, Kerala
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9750
+  S1 (S1-362581101):
+    Name: Creative One Energy
+    Addr: S.F.No 51/1A, Mukkudu, Jallipatti, Thottampatti, Udumalaipettai, Coimbatore, Tamil Nadu
+  CAND (S3-20799465):
+    Name: Creative One Energy Hardware
+    Addr: S.f.no 51/5A, Mukkudu, Jallipatti, Thottampatti, Udumalaipettai, Coimbatore, TN
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 1.0000
+  S1 (S1-930551910):
+    Name: Vintage Trading Limited
+    Addr: Awfis, No 143/1, Uthamar Gandhi Road, Thousand Lights West, Nungambakkam, Chennai, Tamil Nadu
+  CAND (S2-986101827):
+    Name: Vintage Trading Limited
+    Addr: AWFIS, NO 143/1, UTHAMAR GANDHI ROAD, THOUSAND LIGHTS WEST, NUNGAMBAKKAM, CHENNAI, Tamil Nadu
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9015
+  S1 (S1-116624604):
+    Name: Mayank & Brothers Private Limited
+    Addr: 35/388 Trikkandiyoor P O, Malappuram, Tirur, Malapuram, Kerala
+  CAND (S3-982385267):
+    Name: Mayank & Brothers Industries Private Limited
+    Addr: 35/392 Trikkandiyoor P O, Malappuram, Malapuram, കേരളം
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.8718
+  S1 (S1-369143825):
+    Name: Burhanpur Nidhi Group
+    Addr: Ghandhi Chowk Nagar Nigam Road, Burhanpur, East Nimar, Madhya Pradesh
+  CAND (S3-215497286):
+    Name: Burhanpur Nidhi Group Infratech
+    Addr: No 44 Ghandhi Chowk Nagar Nigam Road, East Nimar, Burhanpur, मध्य प्रदेश
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 1.0000 | AddrSim: 0.9362
+  S1 (S1-677914367):
+    Name: Prime Holdings
+    Addr: No.7, Deva Dropa Ist Floor, Krishna Street, Nungambakkam, Chennai, Tamil Nadu
+  CAND (S3-340312179):
+    Name: Prime Holdings Service
+    Addr: 7, Nungambakkam, Chennai, TN
+
+[India - CLEAN (NON-FLAGGED)] NameSim: 0.3704 | AddrSim: 0.8649
+  S1 (S1-468296679):
+    Name: Delhi Technologies Private Limited
+    Addr: H No-28, Pole No. 9 Gadaipur, Delhi, South West Delhi, Delhi
+  CAND (S2-542243784):
+    Name: हाईटेक प्रोजेक्ट्स प्राइवेट लिमिटेड
+    Addr: PLOT NO. 28, DELHI, WEST DELHI, Delhi
+

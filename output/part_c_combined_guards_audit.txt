@@ -1,0 +1,379 @@
+================================================================================
+PART C: 75 REAL CROSS-COUNTRY PAIRS EVALUATION WITH ALL COMBINED GUARDS
+================================================================================
+
+[01] [France] S1-549658689 vs S3-765661425 -> ACCEPTED
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : Amicale de Get | 153 Route De Saint Joseph, Nantes
+  Metrics: NameSim=100.0, AddrSim=78.6
+
+[02] [France] S1-549658689 vs S3-97243416 -> ACCEPTED
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : Amicale de Get | 153 Rte. De Saint Joseph, Nantes
+  Metrics: NameSim=100.0, AddrSim=74.7
+
+[03] [France] S1-549658689 vs S3-173670788 -> ACCEPTED
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : Amicale De Get | 153 Route De Saint Joseph, Nantes
+  Metrics: NameSim=100.0, AddrSim=78.6
+
+[04] [France] S1-549658689 vs S2-542953093 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : de Amicale SAS Get | 160 ROUTE DE SAINT JOSEPH, Nantes
+  Metrics: NameSim=87.5, AddrSim=73.8
+
+[05] [France] S1-549658689 vs S3-66111344 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : Amicale de Get Participations | 160 Rte De Saint Joseph, Nantes
+  Metrics: NameSim=65.1, AddrSim=70.7
+
+[06] [France] S1-549658689 vs S2-129198474 -> ACCEPTED
+  S1: Amicale de Get | 153 Route de Saint Joseph, Nantes, Pays de la Loire
+  C : amicaleget.com | 153 ROUTE DE SAINT JOSEPH, Loire-Atlantique, NANTES
+  Metrics: NameSim=71.4, AddrSim=78.4
+
+[07] [France] S1-270225086 vs S3-146231209 -> ACCEPTED
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : Sarl Formateurs Groupement | 37 R Colbert, Calais, Hauts-de-France
+  Metrics: NameSim=100.0, AddrSim=94.7
+
+[08] [France] S1-270225086 vs S3-941306794 -> ACCEPTED
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : Formateurs-Groupement | 37 R Clobert, Calais, Hauts-de-France
+  Metrics: NameSim=85.1, AddrSim=92.1
+
+[09] [France] S1-270225086 vs S2-805997468 -> ACCEPTED
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : Formateurs Groupement | 37 RUE COLBERT, CALAIS, Pas-de-Calais
+  Metrics: NameSim=89.4, AddrSim=78.9
+
+[10] [France] S1-270225086 vs S2-842271964 -> ACCEPTED
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : formateurs groupement sarl | CALAIS, Pas-de-Calais, 37 R COLBERT
+  Metrics: NameSim=100.0, AddrSim=75.7
+
+[11] [France] S1-270225086 vs S3-764989140 -> ACCEPTED
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : Formateurs SARL & Associés | 37 Rue Cobert, Calais, Hauts-de-France
+  Metrics: NameSim=57.7, AddrSim=96.1
+
+[12] [France] S1-270225086 vs S2-354311441 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Formateurs Groupement SARL | Hauts-de-France, 37 Rue Colbert, Calais
+  C : Formateurs Groupement SNC | 42 R. COLBERT, CALAIS, Hauts-de-France
+  Metrics: NameSim=90.2, AddrSim=88.3
+
+[13] [France] S1-636041838 vs S3-959824461 -> ACCEPTED
+  S1: Cercle Maison SARL | Hauts-de-France, Tourcoing, 235 Rue du Flocon
+  C : cercle maison sarl | 235 Rue Du Flocon, Tourcoing, Nord
+  Metrics: NameSim=100.0, AddrSim=75.9
+
+[14] [France] S1-636041838 vs S2-431107810 -> ACCEPTED
+  S1: Cercle Maison SARL | Hauts-de-France, Tourcoing, 235 Rue du Flocon
+  C : CERCLE MAISON (SARL) | 235 R. DU FLOCON, TOURCOING
+  Metrics: NameSim=68.4, AddrSim=72.2
+
+[15] [France] S1-636041838 vs S3-720609790 -> ACCEPTED
+  S1: Cercle Maison SARL | Hauts-de-France, Tourcoing, 235 Rue du Flocon
+  C : Cercle Maison | 235 R. Du Flocon, Tourcoing, Nord
+  Metrics: NameSim=83.9, AddrSim=71.8
+
+[16] [France] S1-636041838 vs S3-597383636 -> ACCEPTED
+  S1: Cercle Maison SARL | Hauts-de-France, Tourcoing, 235 Rue du Flocon
+  C : Coproprietaires Union France SARL | 235 Rue Du Bis, Tourcoing, Nord
+  Metrics: NameSim=47.1, AddrSim=63.2
+
+[17] [France] S1-529063123 vs S3-752022687 -> ACCEPTED
+  S1: Établissements Spirit SA | 31 Avenue du Bouchet Franc, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  C : établissements (Spirit) | Lege-cap-ferret, 31 Avenue Du Bouchet Franc, Nouvelle-Aquitaine
+  Metrics: NameSim=89.4, AddrSim=98.4
+
+[18] [France] S1-529063123 vs S2-716524444 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Établissements Spirit SA | 31 Avenue du Bouchet Franc, Lège-Cap-Ferret, Nouvelle-Aquitaine
+  C : SA Établissements Spirit Participations | 38 AV. DU BOUCHTE FRANC, Lège-Cap-Ferret, Gironde
+  Metrics: NameSim=76.2, AddrSim=67.9
+
+[19] [France] S1-12312975 vs S2-985994238 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : departemental & frères | 30 RUE SOULT, ROUBAIX, Nord
+  Metrics: NameSim=100.0, AddrSim=73.8
+
+[20] [France] S1-12312975 vs S2-990833013 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : DEPARTEMENTAL & FRÈRES | 30 RUE SOULT, ROUBAIX, Nord
+  Metrics: NameSim=100.0, AddrSim=73.8
+
+[21] [France] S1-12312975 vs S3-636215887 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : Departemental & Frs | No 30 Rue Sult, Roubaix, Nord
+  Metrics: NameSim=92.7, AddrSim=68.7
+
+[22] [France] S1-12312975 vs S2-296269653 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : Departemental & Frèrês | 30 R SOULT, ROUBAIX, Nord
+  Metrics: NameSim=95.5, AddrSim=66.7
+
+[23] [France] S1-12312975 vs S2-935740002 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : Decalage & Frères SAS | 30 RUE DU FRESNOY, ROUBAIX, Hauts-de-France
+  Metrics: NameSim=60.5, AddrSim=76.5
+
+[24] [France] S1-12312975 vs S2-273573731 -> ACCEPTED
+  S1: Departemental & Frères | 30 Rue Soult, Roubaix, Hauts-de-France
+  C : Decalage & Frs SAS | 30 RUE DU FRESNOY, ROUBAIX, Hauts-de-France
+  Metrics: NameSim=50.0, AddrSim=76.5
+
+[25] [France] S1-790024113 vs S3-640222740 -> ACCEPTED
+  S1: Amicale du Symphonie | 9 Avenue de Doëlan, Nantes, Pays de la Loire
+  C : Amicale du Symphonie-SCI | 9 Avenue De Doelan, Nantes, Pays de la Loire
+  Metrics: NameSim=90.9, AddrSim=97.7
+
+[26] [US] S1-197616252 vs S3-954405403 -> ACCEPTED
+  S1: Standard Equity Collective | 13541 Spades Road, Sunman, IN
+  C : standard equity collective | 13541 Spades Rd, Sunman, Indiana
+  Metrics: NameSim=100.0, AddrSim=88.5
+
+[27] [US] S1-197616252 vs S2-980199941 -> ACCEPTED
+  S1: Standard Equity Collective | 13541 Spades Road, Sunman, IN
+  C : Standard Equity Cólltbctve | 13541 SPADES ROAD, SUNMAN, IN
+  Metrics: NameSim=88.5, AddrSim=100.0
+
+[28] [US] S1-197616252 vs S3-620577066 -> ACCEPTED
+  S1: Standard Equity Collective | 13541 Spades Road, Sunman, IN
+  C : 5tandard Equity Collective | Sunman, Indiana, 13541 Spades Road
+  Metrics: NameSim=65.4, AddrSim=88.9
+
+[29] [US] S1-197616252 vs S3-194855824 -> ACCEPTED
+  S1: Standard Equity Collective | 13541 Spades Road, Sunman, IN
+  C : Standard Equity | 13541 Spades Road, Sunman, Indiana
+  Metrics: NameSim=73.2, AddrSim=92.1
+
+[30] [US] S1-197616252 vs S2-480626693 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Standard Equity Collective | 13541 Spades Road, Sunman, IN
+  C : STANDARD EQUITY CÓLLECTIVE LLC | IN, SUNMAN, 13546 SPDAES RD
+  Metrics: NameSim=89.3, AddrSim=85.7
+
+[31] [US] S1-286722268 vs S3-512946990 -> ACCEPTED
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : Patrizia H. Williams, (DMD) | Tennessee, Clarksville, 153 Ecnlave Ct
+  Metrics: NameSim=96.2, AddrSim=80.6
+
+[32] [US] S1-286722268 vs S2-191178962 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : Patrizia-H.Williams, DMD | 15 ENCLAVE COURT, CLARKSVILLE, TN
+  Metrics: NameSim=85.7, AddrSim=98.5
+
+[33] [US] S1-286722268 vs S3-570743216 -> ACCEPTED
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : Patrizia Williams, DMD Service | 153 Enclave Court, Clarksville, Tennessee
+  Metrics: NameSim=80.0, AddrSim=90.7
+
+[34] [US] S1-286722268 vs S2-251079616 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : Patrizia H.-Williams, DMD | CLARKSVILLE, 15 ENCLAVE CT, TN
+  Metrics: NameSim=60.0, AddrSim=93.8
+
+[35] [US] S1-286722268 vs S2-25718162 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : The Patrizia H. Williams, DMD | CLARKSVILLE, 15 ENCLAVE CT, TN
+  Metrics: NameSim=92.6, AddrSim=93.8
+
+[36] [US] S1-286722268 vs S3-442378403 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Patrizia H. Williams, DMD | 153 Enclave Court, Clarksville, TN
+  C : Patrizia H. Williams, DMD (Holdings) | 160 Enclave Court, Clarksville, Tennessee
+  Metrics: NameSim=82.0, AddrSim=85.3
+
+[37] [US] S1-70739766 vs S3-582790124 -> ACCEPTED
+  S1: Plains LLC | 14104 Castle Boulevard, Silver Spring, MD
+  C : PLAINS LLC | 14104 Castle Blvd, Silver Spring, Maryland
+  Metrics: NameSim=100.0, AddrSim=86.7
+
+[38] [US] S1-70739766 vs S2-651773746 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Plains LLC | 14104 Castle Boulevard, Silver Spring, MD
+  C : Plains Corp | 14125 CASTLE BLVD, SILVER SPRIG, MD
+  Metrics: NameSim=76.2, AddrSim=86.8
+
+[39] [US] S1-249936935 vs S2-448702278 -> ACCEPTED
+  S1: Pediatric Dentistry Safe Care | 486 Jacks Branch Road, Hazard, KY
+  C : PEDIATRIC DENTISTRY SAFE CÁRE LP | ##486 Jacks Branch Road, HAZARD, KY
+  Metrics: NameSim=91.8, AddrSim=97.1
+
+[40] [US] S1-249936935 vs S2-365231101 -> ACCEPTED
+  S1: Pediatric Dentistry Safe Care | 486 Jacks Branch Road, Hazard, KY
+  C : PEDIATRIC DENTISTRY SDFEF CARE | ##486 JACKS BRANCH RD, HAZARD, KY
+  Metrics: NameSim=94.9, AddrSim=93.9
+
+[41] [US] S1-249936935 vs S2-928699764 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Pediatric Dentistry Safe Care | 486 Jacks Branch Road, Hazard, KY
+  C : Pediatric Dentistry Safe Care Inc | 497-501 JACKS BRANCH RD, HAZARD, KY
+  Metrics: NameSim=93.5, AddrSim=85.3
+
+[42] [US] S1-57715369 vs S3-344944079 -> ACCEPTED
+  S1: Cichon Optimal Elm LLC | 16011 Butterfield Ranch Road, Unit UNIT 434, Chino Hills, CA
+  C : Cichon Optimal Elm [LLC] | 16011 Butterfield Ranch Road, # UNIT 434, Chinoo Hills, California
+  Metrics: NameSim=78.3, AddrSim=87.3
+
+[43] [US] S1-57715369 vs S3-677474529 -> ACCEPTED
+  S1: Cichon Optimal Elm LLC | 16011 Butterfield Ranch Road, Unit UNIT 434, Chino Hills, CA
+  C : Cichon Optimal Elm  LLC | California, Chinoo Hills, 16011 Butterfield Ranch Rd
+  Metrics: NameSim=100.0, AddrSim=75.0
+
+[44] [US] S1-57715369 vs S3-679968422 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Cichon Optimal Elm LLC | 16011 Butterfield Ranch Road, Unit UNIT 434, Chino Hills, CA
+  C : Cichon Optimal Investments LLC | Chino Hills, California, 16013 Butterfield Ranch Rd
+  Metrics: NameSim=80.8, AddrSim=75.7
+
+[45] [US] S1-57715369 vs S3-356363939 -> ACCEPTED
+  S1: Cichon Optimal Elm LLC | 16011 Butterfield Ranch Road, Unit UNIT 434, Chino Hills, CA
+  C : Cichon Osidnl Architecture LLC | 16013 Butterfield Ranch Rd, Unit UNIT 434, Chino Hills, California
+  Metrics: NameSim=53.8, AddrSim=90.5
+
+[46] [US] S1-225492281 vs S3-571221639 -> ACCEPTED
+  S1: Better Network Corporation | 730 15th Street, Lebanon, OR
+  C : Better Network-Corporation | Lebanon, 730 15th St, Oregon
+  Metrics: NameSim=69.2, AddrSim=85.7
+
+[47] [US] S1-225492281 vs S3-807509787 -> ACCEPTED
+  S1: Better Network Corporation | 730 15th Street, Lebanon, OR
+  C : Better-Network Corporation | Oregon, Lebanon, 730 Fifteenth St
+  Metrics: NameSim=69.2, AddrSim=59.0
+
+[48] [US] S1-225492281 vs S3-158050162 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Better Network Corporation | 730 15th Street, Lebanon, OR
+  C : Better Network Corporation Coastal | 732- Fifteenth Street, Lebanon, Oregon, null
+  Metrics: NameSim=86.7, AddrSim=61.1
+
+[49] [US] S1-941072986 vs S2-821912914 -> ACCEPTED
+  S1: Oncology Trusted Partners Corp | 218 Vincent Street, NY, Syracuse
+  C : Oncology Trusted Partners  Corp | 218 VICENT STREET, SYRACUSE, NY
+  Metrics: NameSim=100.0, AddrSim=95.2
+
+[50] [US] S1-941072986 vs S3-647594605 -> ACCEPTED
+  S1: Oncology Trusted Partners Corp | 218 Vincent Street, NY, Syracuse
+  C : Oncology Trusted Partners Corp | 218-C Vincent St, Syrcuse, New York
+  Metrics: NameSim=100.0, AddrSim=74.6
+
+[51] [India] S1-228952879 vs S2-198472405 -> ACCEPTED
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : Deepshikha Denim Pvt. Ltd | SHED NO.B-9/4, KHIDDERPORE, INDUSTRIAL PARK, P-5, HIDE ROAD EXTENSION, P.O. BRACE BRIDGE, P.S. TARATALA, KOLKATA, KOLKATA, West Bengal
+  Metrics: NameSim=98.0, AddrSim=97.1
+
+[52] [India] S1-228952879 vs S2-687624860 -> ACCEPTED
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : DEEPSHIKHA  DENIM PVT. LTD | SHED NO.B-9/4, KHIDDERPORE, INDUSTRIAL PARK, P-5, HIDE ROAD EXTENSION, P.O. BRACE BRIDGE, P.S. TARATALA, KOLKATA, KOLKATA, West Bengal
+  Metrics: NameSim=98.0, AddrSim=97.1
+
+[53] [India] S1-228952879 vs S2-379779138 -> ACCEPTED
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : Deepshikha  Ltd. Pvt. Denim | SHED NO.B-9/4, KHIDDERPORE, INDUSTRIAL PARK, P-5, HIDE ROAD EXTENSION, P.O. BRACE BRIDGE, P.S. TARATALA, KOLKATA, KOLKATA, West Bengal
+  Metrics: NameSim=100.0, AddrSim=97.1
+
+[54] [India] S1-228952879 vs S2-646871080 -> REJECTED (COMPOUND_DOOR_MISMATCH)
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : Deepshikha Erectors Pvt.  Ltd. | SHED NO.B-9/5, KHIDDERPORE, INDUSTRIAL PARK, P-5, HIDE ROAD EXTENSION, P.O. BRACE BRIDGE, P.S. TARATALA, KOLKATA, KOLKATA, West Bengal
+  Metrics: NameSim=80.0, AddrSim=96.4
+
+[55] [India] S1-228952879 vs S2-146345686 -> REJECTED (COMPOUND_DOOR_MISMATCH)
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : Deepshikha Hotels Pvt. Ltd. | SHED NO.B-9/5, KHIDDERPORE, INDUSTRIAL PARK, P-5, HIDE ROAD EXTESSION, P.O. BRACE BRIDGE, P.S. TARATALA, KOLKATA, KOLKATA, পশ্চিমবঙ্গ
+  Metrics: NameSim=83.0, AddrSim=88.0
+
+[56] [India] S1-228952879 vs S3-276795403 -> REJECTED (INDIA_MULTI_TENANT_COLLISION)
+  S1: Deepshikha Denim Pvt. Ltd. | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  C : Lyrakelo Co | Shed No.B-9/4, Khidderpore, Industrial Park, P-5, Hide Road Extension, P.O. Brace Bridge, P.S. Taratala, Kolkata, Kolkata, Howrah, West Bengal
+  Metrics: NameSim=16.2, AddrSim=100.0
+
+[57] [India] S1-736180128 vs S2-600193815 -> REJECTED (COMPOUND_DOOR_MISMATCH)
+  S1: Jay Software Private Limited | Indore, Madhya Pradesh, Indore, Flat No. 206, Shekhar Central Plot No. 4-5 Manormaganj
+  C : एपेक्स फूड्स प्राइवेट लिमिटेड | 206-207, INDORE, Madhya Pradesh
+  Metrics: NameSim=10.5, AddrSim=47.9
+
+[58] [India] S1-736180128 vs S2-404060679 -> ACCEPTED
+  S1: Jay Software Private Limited | Indore, Madhya Pradesh, Indore, Flat No. 206, Shekhar Central Plot No. 4-5 Manormaganj
+  C : सूर्या इम्पेक्स प्राइवेट लिमिटेड | H.NO 206 B, INDORE, Madhya Pradesh
+  Metrics: NameSim=10.0, AddrSim=50.0
+
+[59] [India] S1-437655834 vs S2-539320821 -> ACCEPTED
+  S1: Sudarshan Memorial Trust Co | 15, Singai Nagar, Vellalur Road Singanallur, Coimbatore, Tamil Nadu
+  C : Sudarshan Memorial Trust Company | 15, SINGAI NAGAR, VELLALUR ROAD SINGANALLUR, COIMBATORE, தமிழ்நாடு
+  Metrics: NameSim=91.5, AddrSim=84.2
+
+[60] [India] S1-437655834 vs S3-970269828 -> ACCEPTED
+  S1: Sudarshan Memorial Trust Co | 15, Singai Nagar, Vellalur Road Singanallur, Coimbatore, Tamil Nadu
+  C : Sudarshan Memorial Trust | 15, Coimbatore, TN
+  Metrics: NameSim=94.1, AddrSim=40.0
+
+[61] [India] S1-437655834 vs S2-626767383 -> ACCEPTED
+  S1: Sudarshan Memorial Trust Co | 15, Singai Nagar, Vellalur Road Singanallur, Coimbatore, Tamil Nadu
+  C : Sudarshan Trust Co Center | 15, SINGAI NAGAR, VLELALUR ROAD SINGANALLUR, COIMBATORE, Tamil Nadu
+  Metrics: NameSim=73.1, AddrSim=98.5
+
+[62] [India] S1-437655834 vs S2-752930936 -> ACCEPTED
+  S1: Sudarshan Memorial Trust Co | 15, Singai Nagar, Vellalur Road Singanallur, Coimbatore, Tamil Nadu
+  C : Sudarshan Memorial Trúst | 
+  Metrics: NameSim=90.2, AddrSim=0.0
+
+[63] [India] S1-43975543 vs S2-355680506 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : প্রিমিয়ার ট্রেডিং প্রাইভেট লিমিটেড | 22., HOWRAH, KOLKATA, West Bengal
+  Metrics: NameSim=8.8, AddrSim=66.0
+
+[64] [India] S1-43975543 vs S2-107071271 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : ক্লাসিক টেকনোলজি অটোমোবাইলস প্রাইভেট লিমিটেড | 22, HOWRAH, KOLKATA, West Bengal
+  Metrics: NameSim=7.8, AddrSim=66.7
+
+[65] [India] S1-43975543 vs S2-852816659 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : হাইটেক কেয়ার প্রাইভেট লিমিটেড | 22, KOLKATA, HOWRAH, West Bengal
+  Metrics: NameSim=9.5, AddrSim=66.7
+
+[66] [India] S1-43975543 vs S2-157386771 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : সূর্য ভেঞ্চারস প্রাইভেট লিমিটেড | HOWRAH, KOLKATA, West Bengal, 22
+  Metrics: NameSim=9.4, AddrSim=66.7
+
+[67] [India] S1-43975543 vs S2-166760929 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : ইন্টারন্যাশনাল প্রপার্টিজ বেকারি প্রাইভেট লিমিটেড | 22, KOLKATA, HOWRAH, West Bengal
+  Metrics: NameSim=7.3, AddrSim=66.7
+
+[68] [India] S1-43975543 vs S2-508057445 -> ACCEPTED
+  S1: Kolkata Logistics Private Limited | Kolkata, 22, Howrah, West Bengal, Rabindra Sarani, Room No - P15
+  C : সূর্য ভেঞ্চারস প্রাইভেট লিমিটেড | 22, HOWRAH, KOLKATA, West Bengal
+  Metrics: NameSim=9.4, AddrSim=66.7
+
+[69] [India] S1-43481889 vs S3-364364124 -> ACCEPTED
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore South Solutions Private Ltd | H.no 466, Coimbatore South, Coimbatore, TN
+  Metrics: NameSim=95.0, AddrSim=64.8
+
+[70] [India] S1-43481889 vs S2-78048278 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore South Solar Pvt Limited | 27/13A, THIRUNAGAR, COIMBATORE SOUTH, Tamil Nadu
+  Metrics: NameSim=84.2, AddrSim=64.9
+
+[71] [India] S1-43481889 vs S3-936205506 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore  South Systems Private Limited | S F No 101/7, Coimbatore South, Coimbatore, TN
+  Metrics: NameSim=82.9, AddrSim=66.1
+
+[72] [India] S1-43481889 vs S3-924868779 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore South Systems Private [Limited] | S F No 101/7, TN, Coimbatore South, Coimbatore
+  Metrics: NameSim=61.9, AddrSim=64.2
+
+[73] [India] S1-43481889 vs S2-443626515 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore South Soil Private Ltd | 105-A, SM SQUARE, POLLACHI MAIN ROAD, KURICHI, SUNDARAPURAM, COIMBATORE SOUTH, Tamil Nadu
+  Metrics: NameSim=85.3, AddrSim=55.3
+
+[74] [India] S1-43481889 vs S2-514780171 -> REJECTED (STREET_NUMBER_MISMATCH)
+  S1: Coimbatore South Solutions Private Limited | No.466, Thadagam Road, Coimbatore South, Coimbatore, Tamil Nadu
+  C : Coimbatore South India Private Ltd | 0382-383 ROOM NO.10, 7TH STREET, GANDHIPURAM, COIMBATORE SOUTH, Tamil Nadu
+  Metrics: NameSim=76.3, AddrSim=58.4
+
+[75] [India] S1-955235574 vs S2-220855751 -> ACCEPTED
+  S1: White Al Consulting Pvt Ltd | Deswal Farm, 37 Km, Delhi Jaipur Road, Nh-8, Ground Floor, Near Hero Honda Chowk, Sadar Bazar, Gurgaon, Haryana
+  C : व्हाइट अल कंसल्टिंग प्रा. लि. | DESWAL FARM, 37 KM, DELHI JAIPUR ROAD, NH-8, GROUND FLOOR, NEAR HERO HONDA CHOWK, SADAR BAZAR, GURGAON, हरियाणा
+  Metrics: NameSim=14.3, AddrSim=92.8
+

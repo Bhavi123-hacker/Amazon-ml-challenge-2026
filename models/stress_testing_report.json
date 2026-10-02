@@ -1,0 +1,165 @@
+{
+  "test1_malformed_inputs": {
+    "status": "PASSED",
+    "cases": [
+      {
+        "case": "Empty string vs Valid",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.0,
+        "passed": true
+      },
+      {
+        "case": "Whitespace only",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.0,
+        "passed": true
+      },
+      {
+        "case": "None / Nulls",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.0,
+        "passed": true
+      },
+      {
+        "case": "Punctuation only",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.0,
+        "passed": true
+      },
+      {
+        "case": "Ultra-long strings",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 1.0,
+        "passed": true
+      },
+      {
+        "case": "One-sided missing",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.9941,
+        "passed": true
+      },
+      {
+        "case": "Numbers only",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 0.0037,
+        "passed": true
+      },
+      {
+        "case": "Special Unicode & Emojis",
+        "has_nan": false,
+        "has_inf": false,
+        "predicted_prob": 1.0,
+        "passed": true
+      }
+    ]
+  },
+  "test2_france_short_names": {
+    "status": "PASSED",
+    "sample_size": 2000,
+    "matched_count": 1904,
+    "singleton_count": 96,
+    "match_rate_pct": 95.2,
+    "spot_check_examples": [
+      {
+        "entity_id": "S1-720336913",
+        "business_name": "Agence Amicale",
+        "business_address": "71 Rue de l'Alma, Roubaix, Hauts-de-France",
+        "num_matches": 4,
+        "matched_ids": [
+          "S3-209882281",
+          "S3-24123387",
+          "S2-264383023"
+        ]
+      },
+      {
+        "entity_id": "S1-837916944",
+        "business_name": "Natation Ecole",
+        "business_address": "24 All\u00e9e de la R\u00e9jannerie, Saint-Nazaire, Pays de la Loire",
+        "num_matches": 5,
+        "matched_ids": [
+          "S2-298100855",
+          "S3-904722267",
+          "S2-803729233"
+        ]
+      },
+      {
+        "entity_id": "S1-17003766",
+        "business_name": "Saint-Nazaire Sante",
+        "business_address": "9 Rue Philibert Delorme, Saint-Nazaire, Pays de la Loire",
+        "num_matches": 11,
+        "matched_ids": [
+          "S2-653673342",
+          "S3-883709464",
+          "S3-714994502"
+        ]
+      },
+      {
+        "entity_id": "S1-889012090",
+        "business_name": "Deuxieme Groupe",
+        "business_address": "36 Rue Armand Gayral, M\u00e9rignac, Nouvelle-Aquitaine",
+        "num_matches": 4,
+        "matched_ids": [
+          "S3-265734095",
+          "S3-358512104",
+          "S2-620204661"
+        ]
+      },
+      {
+        "entity_id": "S1-655802552",
+        "business_name": "Odyssee Foyer",
+        "business_address": "17 Cours des Aubiers, Bordeaux, Nouvelle-Aquitaine",
+        "num_matches": 3,
+        "matched_ids": [
+          "S3-494393611",
+          "S2-112263683",
+          "S2-661143069"
+        ]
+      },
+      {
+        "entity_id": "S1-788563249",
+        "business_name": "Football Agricole",
+        "business_address": "Nouvelle-Aquitaine, Bordeaux, 130 Rue des Terres de Borde",
+        "num_matches": 1,
+        "matched_ids": [
+          "S2-805916277"
+        ]
+      },
+      {
+        "entity_id": "S1-901881022",
+        "business_name": "Tennis Ecole",
+        "business_address": "92 Rue du Capitaine F\u00e9lix Jacquemet, Pessac, Nouvelle-Aquitaine",
+        "num_matches": 5,
+        "matched_ids": [
+          "S2-829201391",
+          "S2-397328817",
+          "S2-563621915"
+        ]
+      },
+      {
+        "entity_id": "S1-311511012",
+        "business_name": "Fournaise Foyer",
+        "business_address": "La Teste-de-Buch, Nouvelle-Aquitaine, 10 Avenue Marcel Pagnol",
+        "num_matches": 1,
+        "matched_ids": [
+          "S2-874954820"
+        ]
+      }
+    ]
+  },
+  "test3_cross_country_partitioning": {
+    "status": "PASSED",
+    "sampled_entities": 500,
+    "checked_candidates": 5949,
+    "candidate_violations": 0,
+    "checked_matches": 1678,
+    "match_violations": 0
+  },
+  "overall_status": "PASSED"
+}

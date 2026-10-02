@@ -1,0 +1,441 @@
+================================================================================
+DETAILED RECALL & BLOCKING AUDIT (25 ENTITIES)
+================================================================================
+[01] [France] S1-856913403 | True: 38 | In Cand: 7 | In Sub: 6
+  S1: Label & Fils SAS | 5 Avenue de l'Armistice, Pessac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=59.8) S2-876114318: Label & Cie  SAS | N° 9 RUE DE SÈTE, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=63.9) S2-75929603: Flam SASU Fils & | 25 R. ANNE FRANK, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.2) S2-316785687: Klub & Fils SA | 224 R DE BÈGLES, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=61.7) S2-74658873: Leader & Fils  SAS | 52 R PAUL LANGEVIN, LA TESTE-DE-BUCH, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.5, asim=59.8) S2-316307621: local & fils sas | 0030 CRS  DE LUZE, BORDEAUX, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=93.8, asim=75.6) S2-192579487: Label & Fîls SAS | 5 AVENUE DE L'ARMISTICE, PESSAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.2) S2-255894528: klub & fils sa | 224 R DE BÈGLES, BORDEAUX, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=100.0, asim=68.4) S2-519997399: LABEL & FILS  SAS | 5 AVE DE L'ARMISTUCE, PESSAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=67.9) S2-233762316: Jumelage  & Fils SAS | Nº 14 AVENUE MAURICE LEVY, MERIGNAC, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=85.7, asim=68.4) S2-81547415: Label & Fils | 5 AV. DE L'ARMISTICE, PESSAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.5, asim=55.7) S2-526423408: pablo & fils sas | 210 RUE DU TONDU, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=59.1) S2-654225044: RAMES & FILS SAS | 84 R CAMILLE SAUVAGEAU, APPT 205 B, BORDEAUX, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=85.7, asim=70.9) S2-963424987: Label &  Fils | 5 AVE DE L'ARMISTICE, PESSAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=65.3) S2-4885203: QL SAS & FILS | NO. 4 ALLEE VIVALDI, PESSAC, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=63.9) S2-601878789: FLAM & FILS SASU | 25 R. ANNE FRANK, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=57.7) S2-150536177: Los &  Fils SAS | QUAI OUEST, BASSIN A FLOT NO 2, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=75.8) S2-547921292: Lola & Fils SA | 45 AVE LEON BLUM, PESSAC, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.2) S2-202476354: Lim & Fils SAS | 28 RUE RÉGIS, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=59.7) S2-476929088: SASU Leaders & Fils | La Teste-de-Buch, 18 AVENUE SAINT THOMAS D’AQUIN PYLA, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=58.3) S2-289282321: Sages SAS & Fils | 122 RTE DE BORDEAUX PETIT PIQUEY, LEGE-CAP-FERRET, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=94.3) S2-377915854: Label & Fils S.A. | NO 26 AVENUE DE L'ARMISTICE, PESSAC, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=72.7) S2-220083472: Laisse SAS & Fils | 1 AVENUE DE LOGNAC, MÉRIGNAC, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=59.3) S3-612847232: SAS Live & Fils | 18 Allee Des Acacias, Lège-Cap-Ferret, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.2) S3-245903025: Leo SAS +  Fils | No 13 Pl De La Nouvelle Aventure, Lille, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=60.9) S3-317207804: Passe SAS & Fils | Rue Mazarin, Bordeaux, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=90.9, asim=92.2) S3-338144502: Label et Fils SAS | No. 5 Av De L'armistice, Pessac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=63.6) S3-525103839: Abbe &-Fils SAS | Nouvelle-Aquitaine, Lege-cap-ferret, 36 Av. Sud Du Phare
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.5, asim=58.3) S3-737031857: Matel & Fils  SAS | 050 Rue Roger Hourquet, Mérignac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=63.8) S3-337287948: Rural SAS & Fils | 59 Rue Leydet, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=57.6) S3-713030829: Salsa & Fils  SAS | 11 Allée Du Parc De La Séoube, La Teste-de-buch, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.7, asim=63.3) S3-665808719: L&a SAS & Fils | 60 R Ernest Renan, Bordeaux, Nouvelle-Aquitaine
+    * [IN CAND] [IN SUB] (ns=85.7, asim=96.2) S3-145229124: Label & Fils | No. 5 Avenue De L'armistice, Pessac, Nouvelle-Aquitaine
+    * [IN CAND] [DROPPED IN SUB] (ns=93.8, asim=92.2) S3-6719744: Label SAS Fils + | No. 5 Av De L'armistice, Pessac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=65.4) S3-983250119: Level & Fils S.A.S. | Nouvelle-Aquitaine, N° 6 Rue Abraham Duquesne, Pessac
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.0) S3-886825097: Sad SAS & Fils | 1 Av Thomas Illyricus, La Teste-de-buch, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=57.7) S3-58498569: Je SASU & Fils | 11 Imp Des Tourterelles, Lège-cap-ferret, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=58.3) S3-330457912: Lva & Fils SASU | 18 Rue Claude Taffanel, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=57.7) S3-525180452: Lauberge & Fils Sas | 99 Bd Albert 1er, Bordeaux, Nouvelle-Aquitaine
+
+[02] [France] S1-911225210 | True: 4 | In Cand: 0 | In Sub: 0
+  S1: Cycliste Ecole | 26 Rue Ferbeyre, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=61.4) S2-919833250: CYCLISTE ECOLE SASU | 22 ALLÉE DES HÉRONS, LÈGE-CAP-FERRET, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=58.2) S2-940664234: Culte Ecole | Gironde, BORDEAUX, 88 RUE MOUNEYRA
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=59.4) S3-242566225: Cycliste Ecole | Lège-cap-ferret, Nouvelle-Aquitaine, 22 Allée Des Hérons
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.5, asim=63.8) S3-40101540: Cycliste Ecole SNC | 33 Rue Febeyre, Bordeaux
+
+[03] [France] S1-856104992 | True: 57 | In Cand: 0 | In Sub: 0
+  S1: Pharmacie Louis | 23 Rue Louis Gaume, La Teste-de-Buch, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=58.3) S2-376397354: Pharmacie Du Elus | 17 QUAI RICHELIEU, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=78.5) S2-53817086: pharmacie louis | LA TESTE-DE-BUCH, Nouvelle-Aquitaine, 54 R BERANGER
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=55.4) S2-937341701: KL PHARMACIE | 25 RUE PROFESSEUR VILLEMIN, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=62.9) S2-221842213: Locataires Pharmacie | 2 BIS AV DE BARAILLOT, PESSAC, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=93.3, asim=59.8) S2-63213268: Pharmacie Lôuis | 136 COURS DE LA SOMME, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=71.3) S2-30729317: Oeuvres Pharmacie | 9 - BOULEVARD DE PYLA, LA TESTE-DE-BUCH, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.7, asim=64.2) S2-552897081: Baous Pharmacie | BORDEAUX, 19 RUE DES ÉTRANGERS, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=96.8, asim=79.3) S2-240196035: pharmacie louise | NO 21 R CAP OCEAN, LA TESTE-DE-BUCH, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=58.3) S2-967391990: Pharmacie du Elus | 17 QUNI RICHELIEU, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.4) S2-675856202: pharmacie du louis | NO 99 AVENUE GUSTAVE DRON, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=41.5) S2-884024509: Pharmacie Louis dû | 15 RTE. DE ROCHE MAURICE, NANTES, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=96.8, asim=43.1) S2-411923592: Pharmacie Louise | Hauts-de-France, 30 RUE PAUL DOUMLR, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=61.0) S2-699679887: Pharmacie Lost de | BORDEAUX, NO. 60 R. RICHELIEU, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=58.3) S2-602207856: pharmacie du elus | 17 QUAI RICHELIEU, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=68.0) S2-731995147: Pharmacie Louis EURL | 25 R. LOUIS GAUME, LA TESTE-DE-BUCH, Gironde
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=75.0) S2-97946346: Moulin Pharmacie | 9 IMP. DE L’ENCLOS DU PING, LA TESTE-DE-BUCH, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=62.9) S2-47552131: amies pharmacie | 32 RUE DE VINCENNES, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=61.0) S2-394249438: Pharmacie de Lost | NO. 60 R. RICHELIEU, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.3, asim=62.6) S2-645153439: Pharmacie Louise Sarl | 32 RUE CAP OCEAN, LA TESTE-DE-BUCH, Gironde
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.7) S2-112904180: Pharmacie Du Louis | NO 99 AVENUE GUSAVE DRON, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.0) S2-133715717: Louis du Pharmacie | 55 AV DE ST EXUPERY, Calais, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=43.4) S3-772979878: Pharmacie Louis | 17 Rue Jacques Cartier, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.9, asim=56.9) S3-41127065: Moulin Pharmacie | La Teste-de-buch, 9 Impase De L’enclos Du Ping
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=40.9) S3-723574452: pharmacie louis | Saint-nazaire, 2 R. Du Stade De Porcé
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.9, asim=44.7) S3-881580527: Lou Pharmacie | (197) Rouee De Vertou, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=41.2) S3-953591624: Pharmacie de Louis | 4 Passage Leroy, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.3, asim=56.6) S3-344408582: pharmacie saint louis | 6 R. Du Haut Queyron, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=64.7) S3-779811977: Jo Pharmacie | 151 Rue Stehelin, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=64.2) S3-628314390: House Pharmacie EURL | 4ter Rue Jules Verne, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=41.2) S3-666364534: Pharmacie De Louis | 4 Passage Leroy, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.1, asim=56.8) S3-464538563: Pharmacie Louis Groupe | 58 Rue Béraner, La Teste-de-buch
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.2, asim=57.9) S3-220714886: Cie Louis Pharmacie | 6 Rue Du Haut Queyron, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.2, asim=55.6) S3-137785093: Pharmacie  Louis SCI | 5 Avenue De L'alouette, Mérignac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=59.8) S3-606573642: Pharmacie Louis | 136 Cours De La Somme, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=58.0) S3-723533805: Pharmacie Jules | 22 R Cassignol, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=56.2) S3-70263590: Pharmacie Louis | 54 Rue Bérnager, La Teste-de-buch
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=59.4) S3-995048261: IN Pharmacie | 5 Rue De Madrid, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=41.0) S3-247396724: Pharmacie-du Louis | Calais, Hauts-de-France, Cafe Les Canaris, 55 Av De St Exupry
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=81.4) S3-792690958: Do Pharmacie | 1 Rue Georges Madon, La Teste-de-buch, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=59.8) S3-328590877: Pharmacie Louis | 136 Cours De La Somme, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=65.5) S3-125075052: Music Pharmacie | 73 Rue Amédée Saint-Germain, Nouvelle-Aquitaine, Bordeaux
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=63.4) S3-880073976: Loups Pharmacie  SCI | 11 Rue Filaurie, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.5) S3-90773240: Pharmacie Louis du | 14 All. Louise Bourgeois, Saint-nazaire, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=59.4) S3-388401895: Jo Pharmacie | 151 R. Stéhélin, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.1, asim=57.9) S3-663769335: Pharmacie Louis S.N.C. | 21 Rue Abraham Duquesne, Pessac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.6) S3-609151972: PHARMACIE DE LOUIS | 4 Pass Leroy, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.9, asim=56.6) S3-120849570: LS  Pharmacie | 113 Rue Des Orangers, Nouvelle-Aquitaine, Bordeaux
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=55.0) S3-480667831: Pharmacie  Langues | Gironde, La Teste-de-buch, 45B Avenue Saint Francois Xavier Pyla
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=55.6) S3-510936283: Low Pharmacie | 17 Square De La Deveze, Merignac, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=57.7) S3-350745352: Pharmacie Louis SA | 039 R Doyen Vizioz, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.7) S3-745223577: Pharmacie Louis SA | La Teste De Buch, 54 Rue Béranger
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=64.8) S3-946914232: Coeur Pharmacie | Bordeaux, Nouvelle-Aquitaine, 23B Rue De Landiras
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=56.1) S3-361960188: OIY Pharmacie | 57 Boulevard George V, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.8) S3-127079282: Amies Pharmacie | Rue De Vincennes, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.6) S3-676523325: PHARMACIE DE LOUIS | 4 Pass Leroy, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=56.4) S3-966026629: Lou Pharmacie SCI | Gironde, La Teste-de-buch, Avenue Du Général De Gaulle
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=43.0) S3-135268138: Pharmacie Louis | 32 Rue Régnier, Calais, Pas-de-Calais
+
+[04] [France] S1-243742292 | True: 40 | In Cand: 2 | In Sub: 2
+  S1: Parti (France) Amis SAS | Saint-Nazaire, 22 Chemin du Prazillon, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=55.7) S2-891835473: Opale Ailis  (France) SAS | NO 33 BD DU VAL DE CHEZINE, SAINT-HERBLAIN, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=67.3) S2-305563616: mp amis (france) sa | 53 BIS RUE JEAN GUTENBERG, SAINT-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=66.0) S2-515990984: MUSEE (FRANCE) PARENTS SAS | 2BIS AV ALBEIT DE MUN, ST-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.8, asim=82.2) S2-840032491: BAISIEUX (FRANCE) PARENTS SAS | N° 9 CHEMIN DU RELAIS, ST.-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=93.3, asim=42.7) S2-492836974: Arts (France) Amis SAS | 465 ROUTE DE SAINT-OMER, CALAIS, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.3, asim=68.6) S2-968705339: Prise (France) Amis SAS | 8 ALLÉE GUY SORIN, SAINT-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=56.9) S2-790645975: Chasse Amis (France) SAS | 19 AVENUE DES VIOLONS, NANTES, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=56.9) S2-863710702: nationale amis (france) sas | 10 LE PADUEBOT, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=60.0) S2-628234612: aurillac (france) amis sas | 2 BIS AV ALBERT DE MUN, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.4, asim=56.6) S2-16001629: mat (france) amis sa | 15 R JULES FÉNELON, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.8, asim=55.9) S2-652998986: Arts (France) Amis | 4 RUE JOSEPH LE DÉMÉZIR, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=69.4) S2-259677171: Evasion (France) Amis SA | 11 CHEMIN DE LA MOISSONNERIE, SAINT-NAZAIRE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.4, asim=60.3) S2-177939583: Bien Amis (France) SAS | Loire-Atlantique, 132 ROUTE DE LA CÔTE D'AOMUR, SAINT-NAZAIRE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.3, asim=60.0) S2-845398771: National (France) Amis SA | 19 BOULEVARD DE LA RENAISSANCE, SAINT-NAZAIRE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.0, asim=65.5) S2-474255439: Fetart (France) Amis  SA | 97 BIS CHEMIN DE PIRCÉ, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.3) S2-470428135: Aurillac (France) Amis | 2 BIS AV ALBERT DE MUN, MAISON DES ASSOCIATIONS, SAINT-NAZAIRE, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.8, asim=72.2) S2-949074553: MAITRISE (FRANCE) PARENTS SAS | 16 RUE DES CABOTEURS, SAINT-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.4) S2-311115431: PIU (FRANCE) SAS AMIS | N°13 RUE DU PORTAIL, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.6) S3-654596369: Aurillac (France) Amis | 2B Av Albert De Mun, Maison Des Associations, Saint-nazaire, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.3, asim=75.0) S3-585750369: Jardin (France) Amis SARL | 026 Allée Des Primevères, Saint-nazaire, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.4, asim=55.6) S3-14517331: MAT (France) AMIS SA | 15 Rue Jules Fenelon, Saint-nazaire
+    * [IN CAND] [IN SUB] (ns=90.5, asim=76.6) S3-769068485: Parti (France) Amis | 22 Chemin Du Przaillon, St-nazaire, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.4, asim=57.8) S3-526517245: Atout  (France) Amis SA | All Aristide Maillol, Saint-nazaire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=89.8, asim=57.4) S3-497680318: Quartier (France) Amis SAS | 24 Rue Du Lot, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=55.2) S3-437896794: Creation (France) Amis Sarl | 29 Avenue Jules Vedrines, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.8, asim=69.6) S3-112761810: Copains (France) Amis | Nº 53 R Ferdinand Buissn, Saint-nazaire, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=55.9) S3-371159231: Courtine (France) Amis S.A. | No 18 All. De La Danse, Saint-herblain, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.7, asim=55.9) S3-471828191: SAS Co (France) Amis | Loire-Atlantique, Saint-Nazaire, No 15 Rue Jean Lavallée
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=60.2) S3-896914763: SASU Drepano (France) Amis | 28 Rue Camille Pelletan, Saint-Nazaire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=60.2) S3-593056490: SAS Ludosport (France) Amis | 24 Rue Du Maine, Saint-Nazaire, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=56.4) S3-121243896: Locale Amis (France) SAS | 28 Rue Jean-marie Desbrosses, Saint-herblain, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.8, asim=84.3) S3-34588884: baisieux (france) parents sas | 9 Ch Du Relais, Saint-nazaire, Pays de la Loire
+    * [IN CAND] [IN SUB] (ns=100.0, asim=81.8) S3-726638859: SAS Parti (France) Amis | 22 Chemin Du Prazillon, Saint-Nazaire, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=63.3) S3-884660665: Evasion (France) Amis SA | No 11 Chemin De La Moissonnerie, St-nazaire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=57.9) S3-630862231: Oregon (France) Amis SAS | 290 R. De Pornichet, Saint-nazaire, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.4) S3-729219777: Arts (France) Pharmacie SAS | 25 R Joseph Le Délézir, Saint-nazaire, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=55.4) S3-637794817: Poneys (France) Amis SAS | N°26 R Jaen Paul Sartre, Saint-herblain, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=58.9) S3-459138550: Fjt (France) Amis SARL | 28 Avenue De Beauséjour, Saint-herblain, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.2) S3-267124894: Lous (France) Amis SAS | Av. Des Trenes, Saint-herblain, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=93.3, asim=56.9) S3-400038259: ARTS (France) AMIS SAS | Loire-Atlantique, 4 R Joseph Le Delezir, Saint-nazaire
+
+[05] [France] S1-700891472 | True: 6 | In Cand: 3 | In Sub: 2
+  S1: Analog & Frères | 129 Avenue Alfred Motte, Roubaix, Hauts-de-France
+    * [IN CAND] [IN SUB] (ns=100.0, asim=76.2) S2-667306912: analog & frères | Nº 129 AVENUE ALFRED MOTTE, ROUBAIX
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=56.0) S2-433463388: Agglo & Frères | TOURCOING, Hauts-de-France, 338 LE BOIS D' ACHELLES
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=59.1) S3-311698054: Dangle & Frères | 5 - R De Verdun, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=55.2) S3-684734087: Banda & Frères | Nº 42 Avenue Du 18 Juin 1940, Dunkerque, Hauts-de-France
+    * [IN CAND] [DROPPED IN SUB] (ns=81.1, asim=94.9) S3-865085354: Analog & Frères  France | #131 Avenue Alfred Motte, Roubaix, Hauts-de-France
+    * [IN CAND] [IN SUB] (ns=93.3, asim=71.8) S3-832327878: Analog & Frèrës | 129 Av. Alfred Motte, Roubaix
+
+[06] [France] S1-566011119 | True: 19 | In Cand: 1 | In Sub: 1
+  S1: Studio Ecole SAS | 95 Rue de Mouvaux, Tourcoing, Hauts-de-France
+    * [IN CAND] [IN SUB] (ns=91.4, asim=60.3) S2-239011488: S.A.S. Studio Ecole | N°95 R. DE MOVAUX, Tourcoing
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=79.1) S2-919818298: Strike Ecole SAS | NO 64 RUE HOUCHARD, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=64.4) S2-727860442: SAS Tout Ecole | RUE DE L'HOSPICE, Roubaix, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=68.9) S2-360753031: Tai Ecole SAS | 66 RUE SAINT-HUBERT, ROUBAIX, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=74.2) S2-307173942: SAS UOV ECOLE | 107 RUE DU CONGO, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=64.4) S2-801631242: tout ecole sas | RUE DE L'HOSPICE, ROUBAIX, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=62.5) S2-940238430: TOUS ECOLE SAS | 245 AVENUE ROGER SALENGRO, ROUBAIX, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=59.3) S2-47029193: Shakti Ecole SAS | 24 RUE FRANÇOIS VILLON, LILLE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=89.1) S2-2759208: studio agricole sas | 00100 R. DE MOUVAUX, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=61.9) S2-14910524: Tir Ecole SASU | 151 RUE DE LA MALCENSE, TOURCOING, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=62.7) S3-53289247: Song Ecole SAS | Hauts-de-France, 20 R. Desaix, Roubaix
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=69.0) S3-957987060: Song Ecole  SAS | 20 Rue Desaix, Roubaix, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=56.8) S3-374364741: St  Ecole SASU | 57 R. Becker, Lomme, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=57.5) S3-40676382: ST Ecole SASU | 57 R Becker, Lomme, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=63.6) S3-592032189: Tout Ecole SAS | Hauts-de-France, Roubaix, 42 R De L'hospice
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=58.1) S3-279924587: studio amicale sas | 1 Rue Emile Laine, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=65.9) S3-947419619: Som Ecole SAS | 57 Mail De Lannoy, Roubaix, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=63.4) S3-116743547: SASU STR Ecole | Nº 104 Boulevard De Strasbourg, Roubaix, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=75.0) S3-768969815: Uov Ecole Sas | Hauts-de-France, 107 Rue Du Cogo, Tourcoing
+
+[07] [France] S1-359130379 | True: 70 | In Cand: 0 | In Sub: 0
+  S1: Departementale Culture SARL | Dunkerque, Hauts-de-France, 11 Rue Nationale
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.7, asim=76.1) S2-99438370: Departemental Club Groupe SARL | 6 RUE DE L'HUITRIERE, DUNKERQUE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.8, asim=67.5) S2-915591197: APEL DEPARTEMENTALE  CULTURE SCI | 10 RUE D'ORAN, ROUBAIX, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=46.9) S2-146987182: Club Departementale SARL | 142 R FRANÇOIS DE SOUDIS, Bordeaux, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.0, asim=70.7) S2-582811937: DEPARTEMENTAL SARL AMICALE | 4 RUE CHEVREUL, LILLE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=68.8) S2-237136126: departemental collectif sarl | Hauts-de-France, 46 RUE DE LA GUINGUETTE, ROUBAIX
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=98.1, asim=41.7) S2-656003829: Departemental Culture Sarl | 186 RUE D'ARRAS, LILLE, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=56.0) S2-148578173: Departementale Culturelle Holding | 21 RUE ROCSARD, DUNKERQUE, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.6, asim=46.2) S2-213306766: Departementale Centre SARL | 214 BD DE LA REPUBLIQUE, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=64.4) S2-932856843: departementale club sarl | Hauts-de-France, 109 R DU BRUN PAIN, TOURCOING
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.6, asim=64.8) S2-858131957: Departementale Culture EURL | 20 RUE NATINOALE, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=64.3) S2-495527153: Departementale Club EURL | 50 AV. ABOUT, DUNKERQUE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=87.7, asim=61.2) S2-614256451: Departementale  Culturelle SASU | 86 RUE DESCARTES, CALAIS, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=48.5) S2-558486558: Departementale Club SARL | 142 R FRANCOIS DE SOURDIS, BORDEAUX, Nouvelle-Aquitaine
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.6, asim=55.4) S2-716022794: Club des Departementale SARL | CALAIS, Hauts-de-France, 25 - R. GREUZE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.9, asim=47.7) S2-131566377: DEPARTEMENTAL CULTURELLE SARL | 17 RUE D'HAVELOOZE, NANTES, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=57.1) S2-586516216: Departementale Club SARL | 008 RUE MOURMANT, LILLE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.1, asim=69.5) S2-408089841: SARL Departementale Collectif | 227 BD DE LA REPUBLIQUE, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=40.9) S2-26526523: Departementale Club SARL | 17 RUE DE SAILLÉ, SAINT-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.5, asim=53.0) S2-498627908: Interdepartementale Culture SARL | DUNKERQUE, 47 RUE PIERRE ET MARIE CURIE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=53.7) S2-662541513: Departementale Culturelle SA | 18 R RONSARD, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=55.1) S2-337771297: Departemental Club SARL | 9 R ALEXANDRE DESROUSSEAUX, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=71.7) S2-903498459: Departementale des Club | NO 1022 AVE DE DUNKERQUE, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=58.7) S2-125229756: Departemental Club Sàrl | 3 RUE DE L'HUITRIERE, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=46.9) S2-227379500: Departementale Club SARL | 62 R. ÉLIE GINTRAC, BORDEAUX, Gironde
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=59.1) S2-408112621: Departemental Centre SAS | NO 14 RUE GAY LUSSAC, LILLE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.3, asim=80.4) S2-308402206: Departemental Club SA | 41 RUE DE L’AMIRAUTE, DUNKERQUE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=69.8) S2-995566356: Departemental Club SASU | 17 R DE FIGEAC, DUNKERQUE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=97.7) S2-86359866: DEPARTEMENTALE CULTURE SARL | 11 RUE NATIONALE, Hauts-de-France, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.0, asim=67.4) S2-35176538: Departemental College Sarl | 17 RUE CAMILLE GUERIN, LILLE, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=44.2) S2-801652447: Departementale Club SARL | 17 ROUTE DE KER DURAND, LA BAULE-ESCOUBLAC, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=43.5) S2-676605950: Departementale Club SARL | 17 R. DE LA DETTE, PORNIC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=62.9) S2-856565250: Departementale Culture SARL (Groupe) | 20 R. NATIONALE, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=89.8, asim=57.5) S2-262723820: Culture  Departementale | 49 R MAC DONALD, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=59.3) S2-563283011: Departemental Club SASU | N°60 R SAINTE BARBE, TOURCOING, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=58.7) S2-271681512: DEPARTEMENTAL  CLUB SARL | 3 RUE DE L'HUITIRERE, DUNKERQUE
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=76.1) S3-427842707: SAS Departemental Club | 30 Rue De L’amirauté, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.9, asim=47.7) S3-894979264: Departemental Culturelle SARL | 17 Rue D'havelooze, Nantes, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=54.7) S3-17962300: Departementale Culturelle SA | 58 Chaussée Denis Papin, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.0) S3-889050546: Departemental Club SASU | 60 R. Sainte Barbe, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.0, asim=70.1) S3-211445584: departemental college sarl | No 252 Av De L Universite, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=56.4) S3-714897021: Departementale Club SARL | 10 Rue De Gennevilliers, Dunkerque
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=55.8) S3-22527618: Cie Departementale SARL | 209 R Du Halot, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=41.0) S3-869116121: Departementale  Club SARL | 008 Rue Luckner, Bordeaux, Gironde
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=65.1) S3-968204952: Departemental Club SARL | Rue Marx Dormoy, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=55.7) S3-423017834: Departementale Club SAS | 4 Rue Jean Baptiste Lebas, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=57.1) S3-846715679: Departementale Club SCI | 56 Rue De Saint-amand, Roubaix, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=98.1, asim=40.0) S3-843196776: DEPARTEMENTAL CULTURE SARL | 7 Esplanade Edouard Glissant, Nantes
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.8, asim=65.9) S3-907118712: Departemental Centre  S.A. | Hauts-de-France, Lille, 27 Rue Gustave Joncquet
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.6, asim=46.0) S3-397049111: Departementale Centre Sarl | Dunkerque, Nord, No 228 Avenue Émile Loubet
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=63.7) S3-672630185: Departementale Clinique SAS | 211 Rue Des Bois Blancs, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=62.1) S3-712954608: Departemental Club SAS | # 11 Rue Gay Lussac, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=57.9) S3-674659934: Departementale Centre S.A.S | 103 Rue Gaspard Neuts, Dunkerque
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=41.6) S3-428451782: Departementale Club SARL | 95 Rte. De La Plage Du Portmain, Pornic, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=83.0, asim=59.8) S3-430311309: Departemental College SARL | No 252 Av De L Universite, Maison De Etudiant, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=70.0) S3-567735774: Interdepartementale  Culture S.A.R.L. | 47 Rue Pierre Et Marie Cuire, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.6, asim=41.7) S3-665748907: departemental culture eurl | 188 Rue D'arras, Lille, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=55.1) S3-322268135: Departemental CLUB SARL | 9 R Alexandre Desrousseaux, Tourcoing, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.2, asim=61.5) S3-668555132: Departementale Amicale SARL | 7 Rue La Fontaine, Dunkerque, Nord
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.6, asim=57.1) S3-406702440: Departementale Culturelle | 018 Rue Ronsard, Dunkerque
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.0, asim=62.1) S3-457399907: Departemental Club SARL | 33 35 R. De Bethune, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=73.3) S3-213112398: Departemental CLUB SAS | Dunkerque, 30 R De L’amirauté, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=80.5) S3-741771030: Departementale Culture SARL | 10 R Hoyez, Dunkerque, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=61.2) S3-178131652: DEPARTEMENTALE CLUB SASU | 77 Rue Descartes, Calais, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.2, asim=61.9) S3-335728191: Departementale Amicale SARL | 36 Rue Augerecu, Calais, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=46.8) S3-777371857: DEPARTEMENTALE CLUB SARL | (17) Rue De Saillé, Saint-nazaire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=61.4) S3-985730795: Departemental Cbetre SA | 76 Rue Pierre Hachin, Lille, Hauts-de-France
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=40.4) S3-715166743: Departementale Club SARL | Saint-nazaire, 93 Rue De Trignac, Loire-Atlantique
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.8, asim=63.6) S3-58856642: Departemental Centre S.A. | 76 Rue Pierre Hachin, Hauts-de-France, Lille
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=98.1, asim=69.9) S3-86283781: Departemental Culture SARL | Hauts-de-France, Lille, 186 Rue D'arras
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.3, asim=58.1) S3-671783900: Departemental Clsub SARL | 574 Rue De Puebla, Calais, Hauts-de-France
+
+[08] [France] S1-848837506 | True: 12 | In Cand: 0 | In Sub: 0
+  S1: QKN Parents | 5 Rue Guillard, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=42.4) S2-395379623: QQN Parents | 5 BIS AVE VIRGINIE HERIOT, LA BAULE ESCOUBLAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=55.7) S2-197927890: QY Parents | 19 ALLÉE EUGÉNIE NIBOYET, SAINT-NAZAIRE, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.5, asim=91.1) S2-640066923: QKN Parents SASU | Pays de la Loire, 18 R GUILLARD, NANTES
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.0) S2-863531304: QQN Parents | 5 BIS AV. VIRGINIE HERIOT, LA BAULE-ESCOUBLAC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=63.5) S2-126812963: QKN  Parents | 005 R. GUILLARD, NANTES
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=68.8) S2-181649363: QKN Parents | 005 RUE GUILLARD, NANTES
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.8, asim=56.4) S2-344310064: YLK  Parents | 3 LA BOULAIS, PORNIC, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.8, asim=75.9) S3-351211905: YNH Parents | 1 R Lamartine, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=55.7) S3-992169086: QY Parents | 19 Allée Eugénie Niboyet, Saint-nazaire, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.8, asim=79.0) S3-197506470: Ynh Parents | 1 Rue Lamartine, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.8, asim=79.0) S3-719495154: YNH PARENTS | 1 Rue Lamartine, Nantes, Pays de la Loire
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=85.7, asim=57.4) S3-516327900: Xn Parents | 2 Rue Du Chateau De La Mmsse, Nantes, Loire-Atlantique
+
+[09] [US] S1-522544432 | True: 3 | In Cand: 3 | In Sub: 3
+  S1: Guggenheim LLC | 2953 Schoolhouse Circle, Silver Spring, MD
+    * [IN CAND] [IN SUB] (ns=100.0, asim=96.3) S2-193981702: Guggenheim  LLC | 2953 SCHOOLHOUSE CIR, SILVER SPRING, MD
+    * [IN CAND] [IN SUB] (ns=100.0, asim=88.4) S3-718015725: Guggenheim Llc | 2953 Schoolhouse Cir, Slver Spring, Maryland
+    * [IN CAND] [IN SUB] (ns=100.0, asim=81.2) S3-742095214: Guggenheim Llc | 2953 Schoolhouse Circle, PO Box 500, Slver Spring, Maryland
+
+[10] [US] S1-657558395 | True: 4 | In Cand: 4 | In Sub: 3
+  S1: Trusted Energy Labs Inc | 979 Hall Road, Lunenburg, VT
+    * [IN CAND] [IN SUB] (ns=95.7, asim=92.6) S2-619261033: Trusted Energy Lasb  Inc | 979 HALL RD, VT, LUNENBURG
+    * [IN CAND] [IN SUB] (ns=100.0, asim=100.0) S2-916144363: Trusted Labs Energy Inc | 979 HALL ROAD, LUNENBURG, VT
+    * [IN CAND] [DROPPED IN SUB] (ns=84.4, asim=88.9) S2-80589763: Trusted Energy Labs Co | 981  HALL RD, LUNENBURG, VT
+    * [IN CAND] [IN SUB] (ns=80.0, asim=91.8) S3-371749542: Trusted Labs Inc (Partners) | 979 Hall Road, Lunenburg, Vermont
+
+[11] [US] S1-92484884 | True: 19 | In Cand: 4 | In Sub: 1
+  S1: City Of | 2945 Lincoln Drive, Unit Apartment 325, Roseville, MN
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=41.0) S2-894836711: City Of | 25 MARCIN HILL, BURNSVILLE, MN
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=40.0) S2-25457534: City Of | 310 AMHERSTON DRIVE, AMHERST, NY
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=40.5) S2-868467200: City Of | CRAPE MYRTLE DRIVE, PALMYRA, VA
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=42.0) S2-519302136: City Of | 808 MAIN STREET, ANDREWS, NC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=40.0) S2-671058357: City Of | CHICAGO, IL, 935 Washington Boulevard
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=42.0) S2-62990059: city of | ANDREWS, 808 Main Street, NC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=40.0) S2-553793754: City Of | 1946 JIM MILLER ROAD, DALLAS, TX
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=40.0) S2-533333097: CITY  OF | 310 AMHERSTON DRIVE, AMHERST, NY
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=45.0) S2-559122374: City Of | 419 COMO DRIVE, RALEIGH, NC
+    * [IN CAND] [IN SUB] (ns=100.0, asim=87.3) S3-971389096: city of | 2945 Lincoln Drive, # Apartment 325, Roseville, Minnesota
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=41.8) S3-45196475: City  Of | Russellville, John Wilson Rd, Kentucky
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=47.7) S3-923410132: City  Of | 2631a Pemberton Drive, Toledo, Ohio
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=44.0) S3-750216960: City Of | Winter Park Drive, # 11, Sacramento, California
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=41.7) S3-993814408: City  Of | 15700 Wilsonville Road, Wilsonville, Oregon
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=43.1) S3-751715514: City  Of | 372 Redemption Rock Tril, Sterling, Massachusetts
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=42.4) S3-930846967: City  Of | 866 Il Rt 251, Compton, Illinois
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=72.2) S3-431825422: City Of Of | # Apartment 325, Minnesota, Saint Paul, 2945 Lincoln Dr
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=45.0) S3-677145962: City  Of | 108 Greenfield Road, Unit 2112, Mesa Falcon Field, Arizona
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=40.5) S3-908068606: City Of | 3117 Lexington Ave, Loran, Ohio
+
+[12] [US] S1-749595321 | True: 6 | In Cand: 6 | In Sub: 4
+  S1: Valentia Rigdon Freight Care | 35 Paradise Park Place, Lutsen, MN
+    * [IN CAND] [IN SUB] (ns=92.9, asim=95.4) S2-37116759: Valentia Rgoodn Freight Care | 35 Paradise Park Pl, LUTSEN, MN
+    * [IN CAND] [DROPPED IN SUB] (ns=94.9, asim=97.1) S2-468271835: valentia rigdon freight care co | 36 PARADISE PARK PLACE, LUTSEN, MN
+    * [IN CAND] [DROPPED IN SUB] (ns=83.6, asim=83.3) S3-433292448: Valentia Rigdon Energy Care | 36 Paradise Park Pl, Lutsen, Minnesota
+    * [IN CAND] [IN SUB] (ns=100.0, asim=86.1) S3-202821129: Valentia Rigdon Freight  Care | 35 Paradise Park Pl, Lutsen, Minnesota
+    * [IN CAND] [IN SUB] (ns=100.0, asim=90.7) S3-840345159: Valentia Rigdon  Freight Care | 35 Paradise Park Place, Lutsen, Minnesota
+    * [IN CAND] [IN SUB] (ns=100.0, asim=90.7) S3-947229185: Valentia Rigdon  Freight Care | 35 Paradise Park Place, Lutsen, Minnesota
+
+[13] [US] S1-518853374 | True: 6 | In Cand: 3 | In Sub: 0
+  S1: Womens Health Care Associates of Village Of Mount Pleasant | Village Of Mount Pleasant, 6836 Carlin Court, WI
+    * [IN CAND] [DROPPED IN SUB] (ns=95.1, asim=88.9) S2-431886350: Womens Health Care Associates of Village Of Mount Pleasant Group | 6845 CARLIN CT, VILLAGE OF MT PLEASANT, WI
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.0, asim=72.2) S2-649665633: Pediatric Care Associates of Village Of Mount Pleasant Ltd | #2720 FANCHER ROAD, VILLAGE OF MOUNT PLEASANT, WI
+    * [IN CAND] [DROPPED IN SUB] (ns=98.3, asim=88.0) S3-46050312: Womens Health Care Associates of Village Of Mount Pléasant | 6834 Carlin Ct, Village Of Mount Pleasant, Wisconsin
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.6, asim=48.9) S3-52442169: Womens Health Care Associates of Village Of Mount | 6834 Carlin Ct, PO Box 2386, Racine, Wisconsin
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.9, asim=89.3) S3-545597121: Women Health Care Associates of Village Of Mount Pleasant Downtown | 6845 Carlin Court, Village Of Mount Pleasant, Wisconsin
+    * [IN CAND] [DROPPED IN SUB] (ns=93.5, asim=80.4) S3-345229317: ... Womens Health Care Associates of Village Of Mount  Pleasant LLC | Wisconsin, 6845 Carlin Ct, Village Of Mt Pleasant
+
+[14] [US] S1-140550727 | True: 7 | In Cand: 6 | In Sub: 5
+  S1: Drayis Realty | 2037 Somerdale Road, Rock Hill, SC
+    * [IN CAND] [IN SUB] (ns=100.0, asim=85.3) S2-285930664: Drayis Realty | ROCK HILL CIYT, SOMERDALE ROAD, SC
+    * [IN CAND] [IN SUB] (ns=84.6, asim=85.3) S2-295781759: Drayis Réálty | SOMERDALE ROAD, ROCK HILL CIYT, SC
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.3, asim=89.2) S2-470161602: Drayiz Realty | 041 SOMERDALE RD, ROCK HILL, SC
+    * [IN CAND] [IN SUB] (ns=100.0, asim=87.3) S2-953484588: Drayis Realty | 2037 SOMERDALE RD, ROCK HILL CIYT, SC
+    * [IN CAND] [IN SUB] (ns=83.9, asim=66.7) S3-73104073: Drayis Realty Inc. | 2037 Somerdale Road, PO Box 8979, Rock Hill, South Carolina
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=40.0) S3-868588288: Drayis  Realty | 1673 8th Ave, Mccpherson CDP, Kansas
+    * [IN CAND] [IN SUB] (ns=83.9, asim=75.0) S3-478708420: Drayis Realty Corp | South Carolina, Rock Hill, 2037 Somerdale Road
+
+[15] [US] S1-981123182 | True: 3 | In Cand: 3 | In Sub: 2
+  S1: Nexic Pet Care | 40 Rail Court, Rio Rico, AZ
+    * [IN CAND] [IN SUB] (ns=93.3, asim=100.0) S2-172310046: NEXIC PET  (CARE) | 40 RAIL COURT, RIO RICO, AZ
+    * [IN CAND] [IN SUB] (ns=86.7, asim=94.1) S2-212297165: Nexicyn Pét Care | 40 RAIL CT, RIO RICO, AZ
+    * [IN CAND] [DROPPED IN SUB] (ns=80.0, asim=90.2) S2-419484161: Nexic Pet Care Uptown | RIO RICO, 45 RAIL CT, AZ
+
+[16] [US] S1-250697393 | True: 1 | In Cand: 1 | In Sub: 1
+  S1: Metro Keystone Alibaba | 1949 1200, St George City, UT
+    * [IN CAND] [IN SUB] (ns=100.0, asim=78.6) S3-403352848: Metro  Keystone Alibaba | 1949 1200, ST. Georeg, Utah
+
+[17] [India] S1-486386080 | True: 2 | In Cand: 2 | In Sub: 0
+  S1: LL Hygiene Ltd | Gurgaon, Flat No. 003, Haryana, Gurgaon, Rakshak Appartments South City - 1
+    * [IN CAND] [DROPPED IN SUB] (ns=83.3, asim=56.9) S2-309009655: LL Hygiene | 396 F-37, GREEN WOODS CITY, GURGAON, HARYANA, GURGAON, हरियाणा
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=54.3) S3-705880671: LL Hygiene Ltd | F-##37, Green Woods City, Gurgaon, Haryana, Gurugram, Gurgaon, HR
+
+[18] [India] S1-634992314 | True: 10 | In Cand: 1 | In Sub: 0
+  S1: Green Engineering Limited | Shop No. 58, First Floor, Profit Centre The Breezy Corner, Mahavir Nagar, Kanidval, I West, Mumbai, Mumbai City, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.2, asim=82.9) S2-361504346: GREEN ENGINEERING TRADING LIMITED | SHOP NO. 79, FIRST FLOOR, PROFIT CENTRE THE BREEZY CORNER, MAHAVIR NAGAR, KANIDVAL, I WEST, MUMBAI, महाराष्ट्र
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.0, asim=40.8) S2-474522519: Limited Great Engineering | C/O JAGDEEP SINGH SALARIA, THAKUR MEHAR SINGH SALARIA MARKET, PURANI ABADI, VPO AWANKHA, VIA DINANAGAR, GURDASPUR, Punjab
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.0, asim=55.3) S2-693145880: Green Engineering Private | R NO. B-11/A, 9TH FLOOR, VINAY TOWER, MHADA LOKHANDWALA, AKURLI ROAD, KANDIVLI EAST, MUMBAI, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=100.0, asim=43.2) S2-6773605: Green Engineering Limited | 6, N C DUTTA SARANI GROUND FLOOR, ROMM NO.18, KOLKATA, KOLKATA, West Bengal
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=41.5) S2-666578008: Engineering Devi Green Limited | NO.20, NEW NO.117, 1ST MAIN ROAD, MICHAEL PALYA, INDIRA NAGAR, BANGALORE, Karnataka
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.9, asim=61.5) S2-874531083: 0M LIMITED ENGINEERING | 116, FREE PRESS HOUSE FREE PRESS JOURNAL MARG, NARIMAN POINT, MUMBAI, MUMBAI CITY, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=47.5) S2-64001997: Golden Engineering Limited | #1508 OM SADACHAR CHS LTD, SHIMPOLI ROAD, SHIMPOLI, BORIVALI WEST, Maharashtra
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=41.4) S3-5905887: Green Engineering Limited | #81 C/o Pratima Narayan, BR, Patna, New Bypass Road, Khemnichak More, Ramkrishna Nagar, Sampatchak
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.4, asim=93.7) S3-84649230: Mr Green Engineering | Sgop No. 58, First Floor, Profit Centre The Breezy Corner, Mahavir Nagar, Kanidval, I West, Mumbai, Mumbai City, MH
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.2, asim=55.4) S3-466681116: Green Engineering  Private Limited | R No. B-9/a, Mumbai City, 9Th Floor, Vinay Tower, Mhada Lokhandwala, Akurli Road, Kandivli East, MH, Mumbai
+
+[19] [India] S1-765212145 | True: 5 | In Cand: 3 | In Sub: 3
+  S1: Tilhar Enterprises Pvt. Ltd. | Moh - Banwaripur, Tilhar Spn Tilhar, Tilhar, Shahjahanpur, Uttar Pradesh
+    * [IN CAND] [IN SUB] (ns=93.3, asim=100.0) S2-189736680: ... tilhar enterprises pvt. ltd. | MOH - BANWARIPUR, TILHAR SPN TILHAR, TILHAR, SHAHJAHANPUR, Uttar Pradesh
+    * [IN CAND] [IN SUB] (ns=100.0, asim=89.2) S2-927735789: Tilhar Ltd. Pvt. Enterprises | MOH - BANWARIPUR, TILHAR SPN TILHAR, TILHAR, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.6, asim=89.2) S2-962072627: Tilhar Pvt Ltd Center | MOH - BANWARIPUR, TILHAR SPN TILHAR, TILHAR, Uttar Pradesh
+    * [IN CAND] [IN SUB] (ns=81.5, asim=83.5) S2-615400516: Tilhar Exporters Pvt. Ltd. | NO B3/90 MOH - BANWARIPUR, TILHAR SPN TILHAR, TILHAR, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=96.4, asim=90.2) S3-369759344: Pvt. Ti1har Enterprises Ltd. | Moh - Banwaripur, Tilhar Spn Tilhar, Shahjahanpur, Tilhar, UP
+
+[20] [India] S1-915270680 | True: 8 | In Cand: 1 | In Sub: 0
+  S1: Lakhdatar Investment Private Limited | C/O- Mr.Vishal Boobna D-68, First Floor, Saket, New Delhi, South Delhi, Delhi
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.0) S2-379855518: 1 Investments Private Limited | B3/632, null, NEW DELHI, SOUTH DELHI, Delhi
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=58.3) S2-778752776: Private LBU Investment Limited | E-266, IIIRD FLOOR SARITA VIHAR, NEW DELHI, SOUTH WEST DELHI, Delhi
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=55.0) S3-347753033: सन Investment Private Limited | B-87, New Delhi, South Delhi, DL
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=56.6) S3-41579437: Private Jay Investment Limited | House No 153 First Floor Block D Pocket 14 Sector 3 Rohini, Delhi, North Delhi, DL
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=88.6, asim=56.1) S3-85554242: LAKSHMI INVESTMENT PRIVATE LIMITED | 44, First Floor, Okhla Industrial Estate Near Modi Mill, New Delhi, South Delhi, दिल्ली
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.1, asim=57.9) S3-173514244: Dr Krishna Investments Private  Limited | F 01/9Okhla Industrial Area Phase I, New Delhi, South West Delhi, DL
+    * [IN CAND] [DROPPED IN SUB] (ns=87.8, asim=76.8) S3-245367672: Private Lakhdatar Investment Infratech Limited | C/o- Mr.vishal Boobna D-75, First Floor, Saket, Divreportingcircle, South Delhi, दिल्ली
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.8, asim=58.8) S3-230360071: Jai Investment Private Limited | A94 11Nd Floor Dda Shed, Okhla Industrial Area Phase Ii, New Delhi, South Delhi, DL
+
+[21] [India] S1-935712170 | True: 13 | In Cand: 2 | In Sub: 0
+  S1: Kepco & Sons Private Limited | Haveli, Pune, Nr-Swami Samarth Mandir, Maharashtra, Sn-25/6 Sinhagad
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.6, asim=45.5) S2-960215546: Dk & Sons  Private Limited | Maharashtra, 301, SHANTI APARTMENT, S.V.ROAD, OPPOSITE MTNL, KANDIVALI (WEST)
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.6, asim=44.6) S2-894475423: Kps & Sons  Private Limited | W/O SH VINOD GUPTA, G-A-27/1-A, NEW DELHI, N/A, Delhi
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.6) S2-390967428: Kino  & Sons Private Limited | SHOP NO 2, DEEP CLASSIC, OPP ASEEM DEVELOPERS, VASAI, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=84.2, asim=55.6) S2-823808368: Friend  & Sons Private Limited | SAGAR PLAZA NEAR THERMAXCHAWK CHINCHWAD, PUNE, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.6, asim=42.3) S2-9888458: PRIVATE KA & SONS LIMITED | 802, IND EST PREMISES COOP SOCIETY LTD, NSQAURE 24TH ROAD KHAR WEST, BOMBAY, Maharashtra, 8TH FLOOR, MUMBAI
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=92.6, asim=40.6) S2-412362602: Iec & Sons  Private Limited | ##11, BASIN WATER WORKS STREET, ELEPHANT GATE, MADRAS, Tamil Nadu
+    * [IN CAND] [DROPPED IN SUB] (ns=82.1, asim=71.0) S3-987171621: Kepco & Sons-Private Limited | Sn-25/6/2 Sinhagad, Nr-swami Samarth Mandir, Haveli, Vadgaon Sheri, MH
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.2, asim=40.6) S3-980014902: Export & Sons  Private Limited | Siwan, Village-harpur, BR, Tola-harpur Panch-chhotaka Manjha, Block-ziradei
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.2, asim=40.0) S3-189903472: Ss & Co Private Limited | Makan No. 95, NULL, Mandsaur, MP
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=91.2, asim=41.7) S3-105799927: Export & Sons Private  Limited | Hara Prasad Shastri Sarani Flat No. 4W, Kolkata, 9A, Howrah, পশ্চিমবঙ্গ
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.9, asim=40.5) S3-956533849: Inko & Sons Private  Limited | H.no:11-7-586, Santhosh Nagar, Alluru Road, Godavarikhani, Karimnagar, Andhra Pradesh
+    * [IN CAND] [DROPPED IN SUB] (ns=83.6, asim=69.2) S3-377159497: Kepco & Sons Public Limited | #7-76 Sn-25/13 Snhagad, Nr-swami Samarth Mandir, Haveli, Pune, MH
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=96.3, asim=40.3) S3-192024387: Eco &  Sons Private Limited | Ashirbad Building, 30, Kabitirtha Sarani, Kolkata, Howrah, WB
+
+[22] [India] S1-935566034 | True: 14 | In Cand: 1 | In Sub: 0
+  S1: Kanhai (India) Auto Private Limited | Uttar Pradesh, Express Zenith Sector 77, Gautam Buddha Nagar, D-1205 12Th Floor Tower D, Noida
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=64.7) S2-557712974: Private Kalindi India Limited | SECTOR 63, GAUTAM BUDDHA NAGAR, Uttar Pradesh, NOIDA, GAUTAM BUDDHA NAGAR, G240
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.7, asim=67.1) S2-262135849: Indi (India) Asphalt Private Limited | A-710 11TH FLOOR, SECTOR -73, GAUTAM BUDDHA NAGAR, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=97.1, asim=84.6) S2-678106433: Kanhai (hndia) Auto Private  Limited | HN 0101 D-1205 12TH FLOOR TOWER D, EXPRESS ZENITH SECTOR 77, NOIDA, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=60.1) S2-451193406: jaipur chit (india) private limited | PLOT NO. 06, 9TH FLOOR, MAGNUS TOWER, SECTOR 73, DADRI, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=97.1, asim=70.1) S2-90899514: Kanhai (lndia) Auto Private Limited | HN 0101 D-1205 12TH FLOOR TOWER D, EXPRESS ZENITH SECTOR 77, NOIDA, उत्तर प्रदेश
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=57.6) S2-165347424: Laxmi (India) India Private Limited | #25TH FLOOR CS 27, ANSAL PLAZA MALL, SECTOR-1, VAISH, ALI, GHAZIABAD, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=82.4, asim=61.6) S2-779707651: Prlibaete Kanchan (india) Limited | G-100, SECTOR-44, GAUTAM BUDDHA NAGAR, Uttar Pradesh
+    * [IN CAND] [DROPPED IN SUB] (ns=100.0, asim=43.4) S2-816513154: KANHAI (INDIA) AUTO PRIVATE LIMITED | 1/633 T2, TF SECTOR-1 VASUNDHARA, GHAZIABAD, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.0, asim=55.1) S2-192790770: Kids Global  (India) Private Limited | SHOP NO. 18-19, BASEMENT, MANGALAM 127/2, W-1, SAKET NAGAR, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=85.0) S2-555701866: Shri Kanhai (India) It Private Ltd | D-1205 21TH FLOOR TOWER D, EXPRESS ZENITH SECTOR 77, NOIDA, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=80.5, asim=59.5) S3-626943146: Kannada Limited Associates Private (India) | Noida, Uttar Pradesh, Noida, B-70/iv/iv Kv Sec 82, Gautam Buddha Nagar, UP
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.4, asim=98.9) S3-582505058: Vioectobrix aka Kanhai (India) Auto Private Limited | D-1205 12Th Floor Tower D, Express Zenith Sector 77, Noida, Gautam Buddha Nagar, Uttar Pradesh
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=86.2, asim=55.8) S3-498928959: KIA (INDIA) IT PRIVATE LIMITED | Noida, Office No-##104, UP, 1St Floor, A Block, Sector-59, Gautam Buddha Nagar
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=81.2, asim=56.3) S3-791053359: Call (India) Infra Private Limited | A-##54, Sector 2, Noida, Gautam Buddha Nagar, UP
+
+[23] [India] S1-307548059 | True: 3 | In Cand: 2 | In Sub: 2
+  S1: JDW Home Pvt Ltd | C/O Rekha Suresh Surdakar 5223 Motala Motala Buldana Motala, Buldhana, Maharashtra
+    * [MISSED IN CAND!] [DROPPED IN SUB] (ns=90.3, asim=94.3) S2-55367604: Pvt JDW Hie Ltd | PLOT 0347 C/O REKHA SURESH SURDAKAR 5223 MOTALA MOTALA BULDANA MOTALA, BULDHANA, Maharashtra
+    * [IN CAND] [IN SUB] (ns=94.1, asim=85.9) S2-652673182: Pvt JJDW Home Ltd. | C/O REKHA SURESH SURDAKAR 5223 MOTALA MOTALA BULDANA MOTALA, BULDHANA, महाराष्ट्र
+    * [IN CAND] [IN SUB] (ns=96.8, asim=94.2) S3-867098458: JDW Hoe Pvt Ltd | C/o Rekha Suresh Surdakar 5223 Motala Motala Buldana Motala, Buldhana, MH
+
+[24] [India] S1-391036078 | True: 0 | In Cand: 0 | In Sub: 0
+  S1: Foods Pnr Logistics | Chennai, W/15, North Main Road, C-Sector, Tamil Nadu, Ambattur
+    (No true matches found in S2/S3 - True Singleton)
+
+[25] [India] S1-656259664 | True: 5 | In Cand: 5 | In Sub: 5
+  S1: Buildcon Educational Society | Room No. 5/320 Panikulam Building Puthernchira East .P. O, Thrissur, Kerala
+    * [IN CAND] [IN SUB] (ns=87.5, asim=94.9) S2-374787970: Buildcon  Educational Society Company | ROOM NO. 5/320 PANIKULAM BUILDING PUTHERNCHIRA EAST .P. O, THRISSUR, <NULL>, Kerala
+    * [IN CAND] [IN SUB] (ns=93.3, asim=94.9) S2-469365630: BUILDCON EDUCATIONAL SOCIETY LLP | ROOM NO. 5/320 PANIKULAM BUILDING PUTHERNCHIRA EAST .P. O, THRISSUR, <NULL>, Kerala
+    * [IN CAND] [IN SUB] (ns=100.0, asim=93.7) S2-311360087: BUILDCON EDUCATIONAL SOCIETY | Kerala, <NULL>, ROOM NO. 5/320 PANIKULAM BUILDING PUTHERNCHIRA EAST .P. O, THRISSUR
+    * [IN CAND] [IN SUB] (ns=89.7, asim=94.9) S2-171015487: buildconeducationalsociety.com | ROOM NO. 5/320 PANIKULAM BUILDING PUTHERNCHIRA EAST .P. O, THRISSUR, Kerala, <NULL>
+    * [IN CAND] [IN SUB] (ns=83.3, asim=99.3) S3-565105566: Buildcon Educational | Room No. 5/320 Panikulam Building Puthernchira East .P. O, Thrissur, Keralam
+
+================================================================================
+TOTAL GENUINE TRUE MATCHES: 355
+BLOCKING COVERAGE (candidate_pairs.tsv): 16.90% (60/355)
+FINAL SUBMISSION RECALL (matching_results.tsv): 11.27% (40/355)
+DROPPED AT BLOCKING: 295
+DROPPED AT RANKING/FILTERING: 20
+================================================================================

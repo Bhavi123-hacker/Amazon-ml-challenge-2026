@@ -1,0 +1,37 @@
+{
+  "overall_status": "PASSED",
+  "total_entities_tested": 30000,
+  "run1_run2_discrepancies": 0,
+  "submission_discrepancies": 0,
+  "is_deterministic": true,
+  "total_elapsed_s": 86.6,
+  "country_details": {
+    "France": {
+      "entities_tested": 10000,
+      "run1_time_s": 5.33,
+      "run2_time_s": 5.39,
+      "run1_run2_discrepancies": 0,
+      "submission_discrepancies": 0,
+      "matched_entities": 9519,
+      "determinism_pass": true
+    },
+    "US": {
+      "entities_tested": 10000,
+      "run1_time_s": 4.6,
+      "run2_time_s": 4.66,
+      "run1_run2_discrepancies": 0,
+      "submission_discrepancies": 0,
+      "matched_entities": 9773,
+      "determinism_pass": true
+    },
+    "India": {
+      "entities_tested": 10000,
+      "run1_time_s": 6.95,
+      "run2_time_s": 6.82,
+      "run1_run2_discrepancies": 0,
+      "submission_discrepancies": 0,
+      "matched_entities": 8782,
+      "determinism_pass": true
+    }
+  }
+}

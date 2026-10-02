@@ -1,0 +1,83 @@
+[
+  {
+    "model": "Gaussian Naive Bayes",
+    "cv_f05": 0.8875851292633469,
+    "cv_precision": 0.8761970130767927,
+    "cv_recall": 0.9926440476190475,
+    "train_f05": 0.8631168946873237,
+    "overfitting_gap": -0.024468234576023207,
+    "training_time_s": 6.5
+  },
+  {
+    "model": "K-Nearest Neighbors (k=5, distance-weighted)",
+    "cv_f05": 0.9825552079528663,
+    "cv_precision": 0.9872748015873019,
+    "cv_recall": 0.9763958333333335,
+    "train_f05": 1.0,
+    "overfitting_gap": 0.017444792047133673,
+    "training_time_s": 42.1
+  },
+  {
+    "model": "Support Vector Machine (Linear Kernel)",
+    "cv_f05": 0.9831138051344952,
+    "cv_precision": 0.9905807539682542,
+    "cv_recall": 0.9689081349206351,
+    "train_f05": 0.98069510343604,
+    "overfitting_gap": -0.00241870169845515,
+    "training_time_s": 9.0
+  },
+  {
+    "model": "Support Vector Machine (RBF Kernel, Subsample)",
+    "cv_f05": 0.533644318666528,
+    "cv_precision": 0.6881435881370093,
+    "cv_recall": 0.33302817261407486,
+    "train_f05": 0.5625463072130253,
+    "overfitting_gap": 0.028901988546497392,
+    "training_time_s": 20.7
+  },
+  {
+    "model": "NeuralNet_MLP (Current Winner)",
+    "cv_f05": 0.9857019664589235,
+    "cv_precision": 0.9895027777777781,
+    "cv_recall": 0.980818253968254,
+    "train_f05": 0.9855231758973766,
+    "overfitting_gap": -0.00017879056154690431,
+    "training_time_s": 33.3
+  },
+  {
+    "model": "XGBoost (Runner Up)",
+    "cv_f05": 0.9885505249483753,
+    "cv_precision": 0.9910878968253968,
+    "cv_recall": 0.9866845238095239,
+    "train_f05": 0.9990980392156862,
+    "overfitting_gap": 0.010547514267310931,
+    "training_time_s": 22.1
+  },
+  {
+    "model": "RandomForest (Reference)",
+    "cv_f05": 0.9861592080853692,
+    "cv_precision": 0.9900962301587303,
+    "cv_recall": 0.9806755952380952,
+    "train_f05": 0.9990495148930911,
+    "overfitting_gap": 0.012890306807721963,
+    "training_time_s": 25.1
+  },
+  {
+    "model": "Stacked Model (Meta-Learner: Logistic Regression)",
+    "cv_f05": 0.9879937618078779,
+    "cv_precision": 0.990433134920635,
+    "cv_recall": 0.986364880952381,
+    "train_f05": 0.981656097913692,
+    "overfitting_gap": -0.006337663894185885,
+    "training_time_s": 5.8
+  },
+  {
+    "model": "Stacked Model (Meta-Learner: Shallow MLP)",
+    "cv_f05": 0.9880060178021001,
+    "cv_precision": 0.9906164682539682,
+    "cv_recall": 0.9860345238095238,
+    "train_f05": 0.9810020268385683,
+    "overfitting_gap": -0.00700399096353177,
+    "training_time_s": 14.8
+  }
+]

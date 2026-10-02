@@ -1,0 +1,432 @@
+
+=======================================================
+COUNTRY: France (60 pairs)
+=======================================================
+[01] P=0.99955
+    S1:   La Teste-de-Buch Culturelle SA  @  16 bis Allee du Moulin, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: La Teste-de-Buch Amicale E.U.R.L.  @  16 BIS RUE DE LA SÉOUBE, LA TESTE-DE-BUCH
+[02] P=0.99998
+    S1:   Lyannaj Loisirs SARL  @  3 Rue Jean Richepin, Saint-Nazaire, Pays de la Loire
+    CAND: Lyannaj Loisirs Sàrl  @  Rue Jean Richepin, Saint-nazaire
+[03] P=0.99999
+    S1:   Welcome Élémentaire SARL  @  Hauts-de-France, Lille, 27 Avenue Louise Michel
+    CAND: WELCOME ÉLÉMENTAIRE SARL  @  27 AVENUE LOUISE MICHEL, LILLE, Nord
+[04] P=0.99996
+    S1:   Cur (France) Comite SCI  @  30 Rue du Bocage, Bordeaux, Nouvelle-Aquitaine
+    CAND: Ariabeloquo Labs d/b/a Cur (France) Comite SCI  @  30 Rue du Bocage, Bordeaux, Nouvelle-Aquitaine
+[05] P=0.99982
+    S1:   Saint-Herblain Section  @  18 Impasse du Chardon Bleu, Saint-Herblain, Pays de la Loire
+    CAND: SAINT-HERBLAIN SECTION SARL  @  10 IMPASSE DU VIEUX CHÊNE, SAINT-HERBLAIN, Pays de la Loire
+[06] P=0.99959
+    S1:   Deleves Club  @  48 Rue Denise, Bordeaux, Nouvelle-Aquitaine
+    CAND: Wexlum d/b/a Deleves Club  @  48 Rue Denise, Bordeaux, Nouvelle-Aquitaine
+[07] P=0.99929
+    S1:   Edouard Lycée SAS  @  10 Lieu-Dit Tillay, Saint-Herblain, Pays de la Loire
+    CAND: Jumeaux Soutra Club S.A.S.  @  10 Lieu-dit La Syonnière, Saint-herblain, Pays de la Loire
+[08] P=0.99990
+    S1:   École primaire Folies  @  10 Rue Victor Hugo, Dunkerque, Hauts-de-France
+    CAND: École primaire Folies SNC  @  11 Rue Victor Hugo, Dunkerque
+[09] P=0.99998
+    S1:   La Baule-Escoublac Parents SAS  @  2 Allée des Tilleuls, La Baule-Escoublac, Pays de la Loire
+    CAND: La Baule-Escoublac Sôciete  @  2 - ALLEE DES LICHENS, LA BAULE-ESCOUBLAC, Pays de la Loire
+[10] P=0.99996
+    S1:   IN Sportive  @  7 Allée des Chênes Verts, Lège-Cap-Ferret, Nouvelle-Aquitaine
+    CAND: IN & Associés  @  (7) ALLÉE DES CHÊNES VERTS, LÈGE-CAP-FERRET, Nouvelle-Aquitaine
+[11] P=0.99999
+    S1:   Fontaine Sante SARL  @  32 Rue Adrienne Bolland, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: Fontaine Sànte SARL  @  LA TESTE-DE-BUCH, 32 RUE ADRINNE BOLLAND
+[12] P=0.99998
+    S1:   Employes Comite SCI  @  Pornic, 6 La Cochardière, Pays de la Loire
+    CAND: EMPLOYES ÇOMITE SCI  @  6 LA COCHARDIEOE, PORNIC
+[13] P=0.99991
+    S1:   Bordeaux Ecole SARL  @  22 Rue du Faubourg des Arts, Bordeaux, Nouvelle-Aquitaine
+    CAND: Bordeaux Ecole SCI  @  22 RUE CLAIRE, BORDEAUX
+[14] P=0.99999
+    S1:   Site Institut SASU  @  7 Place des Thébaudières, Saint-Herblain, Pays de la Loire
+    CAND: Site Institut  @  7 PL DES THÉBAUDIÈRES, ST.-HERBLAIN, Loire-Atlantique
+[15] P=0.99998
+    S1:   Nantes Amicale SAS  @  6 Rue Saint Mihiel, Pays de la Loire, Nantes
+    CAND: Nantes Àmicale SAS  @  Loire-Atlantique, # 6 Rue Sait Mihiel, Nantes
+[16] P=0.99999
+    S1:   Citoyens Amicale SARL  @  3 Place d'Andalousie, Dunkerque, Hauts-de-France
+    CAND: SARL Citoyens Amicale  @  3 Pl. D'andalousie, Dunkerque, Nord
+[17] P=0.99999
+    S1:   Sols Foyer SARL  @  Pays de la Loire, Nantes, 33 Rue André Hougron
+    CAND: Sols Foyer SARL  @  33 RUE ANDRE HOUGRON, NANTES
+[18] P=0.99991
+    S1:   Maison de Santé Dame  @  2 Avenue du Cabernet, Lège-Cap-Ferret, Nouvelle-Aquitaine
+    CAND: Maison de Santé Saint Jean  @  Nº 2 Rte De Bordeaux, Lège-cap-ferret, Nouvelle-Aquitaine
+[19] P=0.99967
+    S1:   Lycée Bouchon  @  12 Rue Bernard Palissy, Saint-Nazaire, Pays de la Loire
+    CAND: ARISTOS PRIMAIRE EURL  @  (12) RUE BERNARD PALISSY, SAINT-NAZAIRE, Pays de la Loire
+[20] P=0.99995
+    S1:   SVR Federation SARL  @  72 Rue Médec-Col J. Vialar Goudou, Pessac, Nouvelle-Aquitaine
+    CAND: svrfederationsarl.com  @  72 R. MÉDEC-COL J. VIALAR GOUDOU, PESSAC, Gironde
+[21] P=0.99998
+    S1:   La Teste-de-Buch Amicale SCI  @  33 Rue Paul Langevin, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: La Tst-de-Buhc Amicale SCI  @  33 R Paul Langevin, La Teste De Buch, Gironde
+[22] P=0.99999
+    S1:   Ets Cpts SAS  @  36 Rue Casimir Delavigne, Calais, Hauts-de-France
+    CAND: Ets  Cpts  @  36 RUE CASIMIR DELAVIGNE, CALAIS, Hauts-de-France
+[23] P=0.99974
+    S1:   Bordeaux Societe SARL  @  14 Rue des Gants, Bordeaux, Nouvelle-Aquitaine
+    CAND: BORDEAUX SOCIETE  EURL  @  # 14 R DES DUOVES, BORDEAUX
+[24] P=0.99975
+    S1:   Ici Loisirs SARL  @  1 Place des Fusillés, Calais, Hauts-de-France
+    CAND: ICI PARENTS SARL  @  1 PLACE DES FUSILLÉS, CALAIS
+[25] P=0.99970
+    S1:   La Baule-Escoublac Centre SARL  @  2 Allée des Troves, La Baule-Escoublac, Pays de la Loire
+    CAND: La Baule-Escoublac Comite S.A.S.  @  2 ALLÉE JEANNE, LA BAULE-ESCOUBLAC
+[26] P=0.99999
+    S1:   Nantes Club SAS  @  6 RUE du Lt Jean de Sesmaisons, Nantes, Pays de la Loire
+    CAND: SAS Nantes Club  @  N° 6 RUE DU LT JEAN DE SESMAISONS, Loire-Atlantique, Nantes
+[27] P=0.99916
+    S1:   LXU Comite  @  18 QUATER Rue Camille Desmoulins, Lille, Hauts-de-France
+    CAND: Tavocalomira  @  18 Rue Camille Desmoulins, Lille, Hauts-de-France
+[28] P=0.99999
+    S1:   Ah Amis SAS  @  16 Allée des Mélèzes, La Baule-Escoublac, Pays de la Loire
+    CAND: SAS Ah Amis  @  16 Allee Des Melezes, La Baule-Escoublac
+[29] P=0.99920
+    S1:   Soutien Ecole SCI  @  36 Rue de Solférino, Bordeaux, Nouvelle-Aquitaine
+    CAND: Korvioiri  @  36 RUE Solferino, Bordeaux, Nouvelle-Aquitaine
+[30] P=0.99999
+    S1:   Cinema Black Santé  @  39 Quai des Chartrons, Bordeaux, Nouvelle-Aquitaine
+    CAND: Cinema Black Santé  @  Gironde, N° 39 QUAI DES CHARTRONS, BORDEAUX
+[31] P=0.99997
+    S1:   Villeroy Club SAS  @  Mérignac, Nouvelle-Aquitaine, 48 Avenue du Chut
+    CAND: SAS Villeroy Club  @  Avenue Du Chut, Mérignac
+[32] P=0.99995
+    S1:   La Teste-de-Buch Élémentaire SARL  @  19 a Rue Henri Dheurle, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: La Teste-de-Buch Sportive SARL  @  19 Rue De La Rgèue Blanque, La Teste De Buch, Nouvelle-Aquitaine
+[33] P=0.99999
+    S1:   Cordee & Cie SARL  @  Lille, Hauts-de-France, 30 Rue Mariotte
+    CAND: CORDEE & CIE SARL  @  #30 RUE MARIOTTE, LILLE
+[34] P=0.99991
+    S1:   Centre Hospitalier Saint Jardinieres  @  61-67 RUE Notre-Dame, Bordeaux, Nouvelle-Aquitaine
+    CAND: CENTREHOSPITALIERSAINT.COM  @  61-67 RUE NOTRE-DAME, BORDEAUX, Gironde
+[35] P=0.99975
+    S1:   Fédération du Detudes  @  90 BD Montebello, Lille, Hauts-de-France
+    CAND: Fdrationdudetudes.Com  @  90 Bd Montebello, Lille, Nord
+[36] P=0.99999
+    S1:   Eaux Departementale Loisirs  @  6 Rue de la Somme, Pessac, Nouvelle-Aquitaine
+    CAND: Eaux Loisirs Departementale  @  6 R DE LA SOMME, PESSAC, Nouvelle-Aquitaine
+[37] P=0.99999
+    S1:   Bureau Groupement SARL  @  6 Allée du Canelot, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: BUREAU GROUPEMENT SARL  @  6 ALLEE DU CANELOT, LA TESTE-DE-BUCH, Gironde
+[38] P=0.99999
+    S1:   Association de Generation  @  174 Boulevard Robert Schuman, Nantes, Pays de la Loire
+    CAND: Association De Generation-Sasu  @  Nantes, 174 Bd. Robert Schuman
+[39] P=0.99996
+    S1:   Chasse Loisirs EURL  @  16 Rue Gustave Nadaud, Dunkerque, Hauts-de-France
+    CAND: chasseloisirseurl.com  @  16 R GUSTAVE NADAUD, DUNKERQUE
+[40] P=0.99999
+    S1:   Souffles Comite (France) SAS  @  66 Rue Francis Jammes, Bordeaux, Nouvelle-Aquitaine
+    CAND: Souffles Comite (France)  @  Bordeaux, 66 Rue Francis Jammes
+[41] P=0.99996
+    S1:   Club du Etang  @  Hauts-de-France, Calais, 51 Rue Denis Papin
+    CAND: Club dû Etang  @  R. Denis Papin, Hauts-de-France, Calais
+[42] P=0.99999
+    S1:   Chasseurs Service SARL  @  16 Bis Avenue du Midi, Nantes, Pays de la Loire
+    CAND: Chasseurs Sërvice SARL  @  16 Bis Avenue Du Midi, Nantes
+[43] P=0.99999
+    S1:   Bordeaux Collège SARL  @  Bordeaux, 7 B Rue des Girondins, Nouvelle-Aquitaine
+    CAND: Bordeaux Çollège SARL  @  7 B Rue Des Girondins, Bordeaux, Gironde
+[44] P=0.99999
+    S1:   Établissements Chercheurs SARL  @  La Teste-de-Buch, Nouvelle-Aquitaine, 64 Avenue Louis Gaume
+    CAND: Établissements Chercheurs Sàrl  @  N° 64 AV. LOUIS GAUME, LA TESTE DE BUCH, Nouvelle-Aquitaine
+[45] P=0.99999
+    S1:   Pessac Ecole SARL  @  8 bis Rue du Rossignol, Pessac, Nouvelle-Aquitaine
+    CAND: @pessacecole  @  8 BIS RUE DU ROSSIGNOL, PESSAC, Nouvelle-Aquitaine
+[46] P=0.99999
+    S1:   Saadf Club  @  Hauts-de-France, Roubaix, 28 Rue du Chemin Neuf
+    CAND: Saadf [Club]  @  N° 28 R Du Chemin Neuf, Roubaix
+[47] P=0.99999
+    S1:   Deleves Maternelle SAS  @  3 Rue de la Forestiere, Lège-Cap-Ferret, Nouvelle-Aquitaine
+    CAND: Deleves Maternelle S.A.S.  @  3 R DE LA FORESTIERE, LÈGE-CAP-FERRET
+[48] P=0.99999
+    S1:   NXQ Pharmacie  @  43 Rue de Soissons, Bordeaux, Nouvelle-Aquitaine
+    CAND: NXQ Pharmacie-Eurl  @  43 Rue De Soissons, Bordeaux, Gironde
+[49] P=0.99926
+    S1:   Comité des Communale  @  37 Allée des Avocettes, Saint-Nazaire, Pays de la Loire
+    CAND: Comité dù Tennis SAS  @  NO 37 ALL. DES LIERRES, SAINT-NAZAIRE
+[50] P=0.99932
+    S1:   La Teste-de-Buch Sport SCI  @  37 Rue du Parc de l’Estey, La Teste-de-Buch, Nouvelle-Aquitaine
+    CAND: LA-TESTE-DE-BUCH SPORT SCI  @  N° 9 CALANTE DES PIRELONS, La Teste-de-Buch, Nouvelle-Aquitaine
+[51] P=0.99999
+    S1:   Illusion Developpement Restauration SA  @  2 ALL Prosper Merimee, la Herissiere, Saint-Herblain, Pays de la Loire
+    CAND: Illusion Developpement Restauration SA  @  #2 ALL PROSPER MERIMEE, LA HERISSIERE, SAINT-HERBLAIN, Loire-Atlantique
+[52] P=0.99973
+    S1:   DGE Club SARL  @  3 RUE de Pornichet, Nantes, Pays de la Loire
+    CAND: nantes club sarl  @  NO. 3 RUE DE BARBIN, NANTES, Pays de la Loire
+[53] P=0.99903
+    S1:   Si & Cie SA  @  60 Boulevard du 8 Mai 1945, Dunkerque, Hauts-de-France
+    CAND: Si & Çie SCI  @  Dunkerque, N°69 Boluevard Du 8 Mai 1945, Hauts-de-France
+[54] P=1.00000
+    S1:   MOO Jeunes SA  @  1 Rue Pauline Roland, Nantes, Pays de la Loire
+    CAND: MOO Jeuens SA  @  #1 Rue Pauline Roland, Nantes, Pays de la Loire
+[55] P=0.99997
+    S1:   Karate Sportive SASU  @  4 Rue Chevalier de Saint-George, Saint-Nazaire, Pays de la Loire
+    CAND: Quowex formerly known as Karate Sportive SASU  @  4 Rue Chevalier de Saint-George, Saint-Nazaire, Pays de la Loire
+[56] P=0.99999
+    S1:   Dunkerque Amis SCI  @  3 Rue Paul Nybelin, Dunkerque, Hauts-de-France
+    CAND: Dunkerque Amis S.C.I.  @  3 RUE PAUL NYBELIN, DUNKERQUE
+[57] P=0.99940
+    S1:   Poil (France) Sport SAS  @  Pays de la Loire, 2 RUE de la Fantaisie, Nantes
+    CAND: Gabriel (France)  Maison  @  Pays de la Loire, 2 Rue Des Bourderies, Nantes
+[58] P=0.99975
+    S1:   Demeure Union SA  @  Dunkerque, 47 16 Rue Marceau, Hauts-de-France
+    CAND: Avixylo  @  47 1 Rue Marceau, Dunkerque, Hauts-de-France
+[59] P=0.99999
+    S1:   Juristes Fetes EURL  @  147 Rue Leavers, Hauts-de-France, Calais
+    CAND: Juristes  Fetes EURL  @  147 RUE LEAVERS, CALAIS, Pas-de-Calais
+[60] P=0.99999
+    S1:   Mystik (France) Comite SAS  @  Dunkerque, Hauts-de-France, 21 Quai Wilson
+    CAND: Mystik  (France) Comite S.A.S.  @  N°21 Quai Wilson, Dunkerque, Hauts-de-France
+
+=======================================================
+COUNTRY: US (40 pairs)
+=======================================================
+[01] P=0.88846
+    S1:   Ramos Ridge Chenghe Inc.  @  1452 Ellsworth Road, Unit 1439, Mesa, AZ
+    CAND: Trujillo L.L.C. Digital  @  1452 ELLSWORTH RD, null, MESA, AZ
+[02] P=0.99982
+    S1:   Tri-State Southern LLC  @  WA, 14023 14th Avenue, Tacoma
+    CAND: Tri-State LLC Services  @  14023-C Fourteenth Ave, Tacoma, Washington
+[03] P=0.99998
+    S1:   Mecca Biotechnology LLC  @  700 Deer Valley Drive, Unit 5, Park City (summit Co), UT
+    CAND: Orbiriza DBA: Mecca Biotechnology LLC  @  700 Deer Valley Drive, Unit 5, Park City (summit Co), UT
+[04] P=0.99999
+    S1:   Comoex LLC  @  1 French Island, Orland, ME
+    CAND: comoex llc  @  1 FRENCH ISLAND, ORLAND, ME
+[05] P=0.99984
+    S1:   Shoshana Hollis, D.C., M.D., P.C.  @  226 Mountain View Road, Oak Grove, AL
+    CAND: Shoshana Hollis, D.C.,-M.D., P.C. Riverside  @  237- Mountain View Rd, N/A, Oak Grove, Alabama
+[06] P=0.99933
+    S1:   Popal Group  @  1628 Shenandoah Drive, Ardmore, OK
+    CAND: Popal Group LLC  @  1629 SHENANDOAH DR, ARDMORE, OK
+[07] P=0.99977
+    S1:   Pool Family Practice  @  MN, Anoka, 1725 2nd Avenue
+    CAND: Calorizazeta trading as Pool Family Practice  @  1725 2nd Avenue, Anoka, MN
+[08] P=0.99980
+    S1:   Fry & Weiss  @  105 Emerald Drive, Storm Lake, IA
+    CAND: Fry & Weiss Co  @  107 EMERALD DRIVE, PMB 1478, STORM LAKE, IA
+[09] P=0.99996
+    S1:   Allied Signature Opportunity LLC  @  6400 Pilgrim Lane, Arlington, TX
+    CAND: Allied Signature Opportunity  @  Pilgrim Ln, Arlington, Texas
+[10] P=0.99999
+    S1:   Fion Energetics LLC  @  156 5th Avenue, NY, Oyster Bay
+    CAND: FION ENERGETICS LLC  @  156 1/2 5st Ave, Oyster Bay, New York
+[11] P=0.99992
+    S1:   Complete Top, LLC  @  978 Wolcott Avenue, Norfolk City, VA
+    CAND: Keloiriaria DBA: Complete Top, LLC  @  978 Wolcott Avenue, Norfolk City, VA
+[12] P=0.99991
+    S1:   Certified Defense Services  @  132 Sherman Street, Unit 5, Cambridge, MA
+    CAND: Certified Defense Services LLC  @  137 Sherman Street, # 5, Cambridge CITY, Massachusetts
+[13] P=0.99999
+    S1:   All Packaging Networks  @  533 500, Crawfordsville, IN
+    CAND: All Packaging  @  533 500, NULL, Crawfordsville, Indiana
+[14] P=0.97581
+    S1:   Complete Xcel LLC  @  1050 Bobolink Avenue, Eugene, OR
+    CAND: Complete  Xcel LLC  @  
+[15] P=0.99984
+    S1:   Mountain Purecycle LLC  @  7064 Jeannie Avenue, Cincinnati, OH
+    CAND: Mountain  Purecycle  @  7064C JEANNIE AVENUE, CINCINNATI, OH
+[16] P=0.99978
+    S1:   Flores and Penrod Intelligence, Inc  @  2803 Myang Avenue, Mchenry, IL
+    CAND: Flores and Penrod Intelligence, Group  @  2807 1/2 Myang Ave, Mchenry, Illinois
+[17] P=0.99973
+    S1:   Frank Fischer, D.D.S.  @  130 Avon Street, MA, Unit 67, Malden
+    CAND: Frank Fischer, D.D.S. [Inc]  @  141 AVON STREET, MALDEN, MA
+[18] P=0.99874
+    S1:   Alexa's Harbor Electric  @  4304 Pennington Avenue, Killeen, TX
+    CAND: JACKLYNBROOKSPRUDENTIAL.COM  @  4304 PENNINGTON AVE, KILLEEN, TX
+[19] P=0.99999
+    S1:   Montgomery & Barrios Pharmaceuticals Inc  @  4317 Chapel Road, Perry Hall, MD
+    CAND: Montgomery &  Barrios Pharmaceuticals Inc  @  4317 Chapel Road, Perry Hall, Maryland
+[20] P=0.99999
+    S1:   Cozy Yoga Inc  @  1992 Mohawk Place, Kent, OH
+    CAND: Cozy  Yoga Inc  @  1992 Mohawk Pl, Kent, Ohio
+[21] P=0.99990
+    S1:   Gerri's Boutique  @  106 Sweet Pond Road, Guilford, VT
+    CAND: @gerrisboutique  @  106 Sweet Pond Rd, Brattleboro CDP, Vermont
+[22] P=0.99999
+    S1:   Underwood Spade, Inc.  @  7633 Grey Ridge Lane, Shingletown, CA
+    CAND: UNDERWOOD SMPADD, (INC.)  @  SHINGLETOWN, CA, 7633 GREY RIDGE LN
+[23] P=0.99999
+    S1:   Jenks and Mann LLC  @  17 Blaine Street, Hornell, NY
+    CAND: Jenks and Mann  L.L.C.  @  17-19 Blaine Street, Hornell, New York
+[24] P=0.99999
+    S1:   Southern Atlantic Tidewater  @  Greensboro, NC, 203 Chapman Street
+    CAND: SOUTHERN TIDEWATER ATLANTlC  @  203 CHAPMAN STREET, NC, GREENSBORO
+[25] P=0.99995
+    S1:   Walsh Ace Catalyst Inc  @  1116 River Road, Bethlehem, NY
+    CAND: Brixhalo trading as Walsh Ace Catalyst Inc  @  1116 River Road, NY, Bethlehem
+[26] P=0.99999
+    S1:   Hendrix City Inc  @  1818 Lazy Creek Lane, Pearland, TX
+    CAND: ... Hendrix City [Inc]  @  1818 Lazy Creek Lane, Pearrland, Texas
+[27] P=0.99999
+    S1:   Walker Market LLC  @  17 Violet Place, Unit Apartment 2, Rhinebeck, NY
+    CAND: WALKER  MARKET  @  17 Violet Place, RHINEBECK, NY
+[28] P=0.99999
+    S1:   Pediatric Dental Reliable Care Associates Clinic  @  12577 Delwood Drive, Arizona City, AZ
+    CAND: Nexflux t/a Pediatric Dental Reliable Care Associates Clinic  @  12577 Delwood Drive, Arizona City, AZ
+[29] P=0.99990
+    S1:   Complete Reliable Premium LLC  @  109 Falls Creek Lane, Gunter, TX
+    CAND: Complete Reliable Premium Eastgate LLC  @  118 Fals Creek Lane, Gunter, Texas
+[30] P=0.99995
+    S1:   Horizon Premier LLC  @  5325 Woodpecker Drive, Hope Mills, NC
+    CAND: Horizon Premier  @  Woodpecker Dr, Hope Mills, North Carolina
+[31] P=0.99998
+    S1:   Historical Association  @  Cleveland, 6725 Mouse Creek Road, TN
+    CAND: Historical Association Corporation  @  6725 Mouse Creek Road, PO Box 9995, Ceveland, Tennessee
+[32] P=0.99887
+    S1:   Simons & Santillan Inc  @  300 Lake Dornoch Drive, Pinehurst, NC
+    CAND: Simons & Santillan West Inc.  @  303 LAKE DORNOCH DR, PINEHURST, NC
+[33] P=0.99999
+    S1:   A Apex Patriot LLC  @  1501 Old Monrovia Road, Bldg 17, Huntsville, AL
+    CAND: A Apex Patriot  LLC  @  1501 Old Monrovia Rond, Bldg 17, Huntsville, Alabama
+[34] P=0.99999
+    S1:   Direct Printing Global Center  @  15270 Brookside Lane, Unit 125, Surprise, AZ
+    CAND: Direct Printing Global Center  @  AZ, SURPRISE, ##15270 BROOKSIDE LANE
+[35] P=0.99999
+    S1:   Brower Colonial Gesher LLC  @  17 Market Street, Red Hook, NY
+    CAND: Brower-Colonial Gesher LLC  @  17- Market St, Red Hook, New York
+[36] P=0.99270
+    S1:   Reliable Automation Studios L.L.C.  @  3608 Whispering Hills Drive, Chester, NY
+    CAND: Reliable Automation Studios Inc  @  3629 WHISPERING HILLS DRIVE, CHESTER, NY
+[37] P=0.99999
+    S1:   Strong Securities of Memphis LLC  @  3507 Daggett Road, Memphis, TN
+    CAND: Strong Securities (of)  @  3507 DAGGETT RD, MEMPHIS CITY, TN
+[38] P=0.99356
+    S1:   Peterson Open  @  10359 Haymarket Street, Tucson, AZ
+    CAND: Peterson Open Harbor  @  AZ, 10364 HAYMARKET STREET, TUCSON
+[39] P=0.99999
+    S1:   Royal Dbdr  @  216 Main Street, Preston, MD
+    CAND: Royal Dbdr  @  216 Main Street, Pretson, Maryland
+[40] P=0.96703
+    S1:   Bragg Wheeler LLC  @  313 Oxford Court, Maumee, OH
+    CAND: Ltd Bragg Wheeler  @  ##322 OXFORD COURT, MAUMEE, OH
+
+=======================================================
+COUNTRY: India (40 pairs)
+=======================================================
+[01] P=0.96604
+    S1:   Smps Core Private Limited  @  Maharashtra, Mumbai, 9Th Floor, Shreenath Apartments Liberty Garden, Malad West, Mumbai City, 903
+    CAND: जय डेवलपर्स प्राइवेट लिमिटेड  @  903, MUMBAI, MUMBAI CITY, Maharashtra
+[02] P=0.99306
+    S1:   Agro Bansal Technologies Private Limited  @  Flat No.F-1, Plot No.35, 'C' Block, Sakthi Enclave Thiruvalluvar Street, Kadaperi, Tambara, M, Chennai, Tamil Nadu
+    CAND: Agro Bansal Technology Limited  @  Flat No.f-5, Plot No.35, 'C' Block, Sakthi Enclave Thiruvalluvar Street, Kadaperi, Tambara, M, Chennai, தமிழ்நாடு
+[03] P=1.00000
+    S1:   Bright Management Private Limited  @  16/A, Gordhannagar, Baliyakaka Road, Ahmadabad City, Ahmedabad, Gujarat
+    CAND: Bright Management Private Limited  @  Ahmadabad City, Gordhannagar, Baliyakaka Road, Ahmedabad, 16/A, ગુજરાત
+[04] P=0.99997
+    S1:   OFT Power Private Limited  @  709-710, One Indiabulls Park, Near Jetalpur Bridge Jetalpur Road, Vadodara, Gujarat
+    CAND: OFT Power Limited Private  @  709-710, Vadodara, GJ
+[05] P=0.99994
+    S1:   International Christian India Limited  @  H. No. 291, Marwali Tq. Naigaon, Dist. Nanded, Nanded, Maharashtra
+    CAND: International  Christian India Group Limited  @  H. No. 294, Marwali Tq. Naigaon, Dist. Nanded, Nanded, MH
+[06] P=0.99997
+    S1:   Prime Digital Construction Private Limited  @  No. 74/5536/2-F Reghar Pura, Karol Bagh, New Delhi, Central Delhi, Delhi
+    CAND: Prime Ddgila Construction Technologies Private Limited  @  #74/5536/15-F Reghar Pura, New Delhi, Central Delhi, DL
+[07] P=0.99996
+    S1:   IY Chemicals Private Limited  @  Tiruvallur, Koil, Thedeer Nagar, Tamil Nadu, 17Periyar St.Seemathamman, Poonamalee
+    CAND: IY Chemicals Private Ltd  @  தமிழ்நாடு, 17PERIYAR/9 ST.SEEMATHAMMAN, KOIL, THEDEER NAGAR, POONAMALEE
+[08] P=0.99997
+    S1:   Solus Brothers Private Limited  @  Block11-603 Ncc Urban, Onebuilder Osman Sagar Rd, Rajendranagar, K.V.Rangareddy, Telangana
+    CAND: Private Solus Brothers Limited  @  Block11-603 Ncc Urban, Rajendranagar, K.v.rangareddy, TG
+[09] P=0.99618
+    S1:   Hari Properties Limited  @  Pl No. H-P-1, H Block, Midc Pimpri, Pune, Maharashtra
+    CAND: Hari Properties LLP  @  399 Pl No. H-p-8, H Block, Midc Pimpri, Hinjawadi, MH
+[10] P=0.99999
+    S1:   Skyline Sangh  @  1/219, Mullai Nagar, A.G., Palayam, Kullampalayam, Erode, Tamil Nadu
+    CAND: @skylinesangh  @  Tamil Nadu, 1/219, MULLAI NAGAR, A.G., PALAYAM, KULLAMPALAYAM, ERODE
+[11] P=0.99951
+    S1:   Bhondsi Energy Private Limited  @  Shop No. Eps-059B, First Floor, Emerald Plaza, Bhondsi, Gurgaon, Haryana
+    CAND: BHONDSI ENERGY PRIVATE  @  #78 SHOP NO. EPS-059B, FIRST FLOOR, EMERALD PLAZA, BHONDSI, हरियाणा
+[12] P=0.99972
+    S1:   Seva (India) Trading Center  @  505-A Block, Lake City Phase-I, Manjeera Pipeline Roa, D, Hyderabad, Telangana
+    CAND: Seva (India) Trading Centre  @  DOOR NO 05-A BLOCK, LAKE CITY PHASE-I, MANJEERA PIPELINE ROA, D, HYDERABAD, Telangana
+[13] P=0.99999
+    S1:   YV Technology Private Limited  @  3A, Auckland Place Suite No. 3A, 3Rd Floor, Kolkata, Kolkata, Howrah, West Bengal
+    CAND: YV Technology Private Ltd  @  3A, Auckland Place Suite No. 3A, 3Rd Floor, Kolkata, Kolkata, Howrah, WB
+[14] P=0.99999
+    S1:   Element & Brothers Private Limited  @  House No 8-2-269/S/66 Sagar Society, Road No -2, Banjara Hills, Hyderabad, Telangana
+    CAND: ELEMENT &  BROTHERS PRIVATE  @  HOUSE NO 8-2-269/S/66 SAGAR SOCIETY, ROAD NO -2, BANJARA HILLS, HYDERABAD, Andhra Pradesh
+[15] P=0.99899
+    S1:   Roopaya Exim Co  @  C/O Kiran Kumar Sharma, H #5/77, Baramangwa Busty, P.O Takling, Darjeeling, West Bengal
+    CAND: BC  @  C/O Kiran Kumar Sharma, H #5/77, Baramangwa Busty, P.O Takling, Darjeeling, West Bengal
+[16] P=0.99439
+    S1:   Excellent Developers Limited  @  Sa 17/144-26 Agrsen Nagar, Varanasi, Uttar Pradesh
+    CAND: Crown Sangh  @  SA 17/144-26, AGRASEN NAGAR COLONY, VARANASI, Uttar Pradesh
+[17] P=0.99987
+    S1:   Dominus & Associates Pvt Ltd  @  No.74, Ground Floor 2Nd Street, Bethel Nagar, Injambakkam, Kanchipuram, Kancheepuram, Tamil Nadu
+    CAND: Dominus & Associates PVT LTD  @  Kanchipuram, H.no 74, TN, Neelankarai
+[18] P=0.98710
+    S1:   Kolkata Realtech Group  @  20C Southern Avenue, Kolkata, Calcutta, West Bengal
+    CAND: North Infra Private  Limited  @  20C SOUTHERN AVENUE, KOLKATA, West Bengal
+[19] P=0.99993
+    S1:   Adyashakti & Sons Private Limited  @  R.N.812, 8Th Floor, Raghava Ratna Towers Chirag Ali Lane, Abids, Hyderabad, Telangana
+    CAND: M/s Adyashakti and Sons Pibrtvmate Limited  @  R.n.812, Hyderabad, Abids, TG
+[20] P=0.99999
+    S1:   Kolkata Impex Clinic  @  Kolkata, Sovabazar Street, 56, Howrah, West Bengal
+    CAND: Kolkata Impex  @  56, SOVABAZAR STREET, KOLKATA, West Bengal
+[21] P=0.76255
+    S1:   New Delhi Services Ltd  @  A-12, Sf Lajpat Nagar-Ii, New Delhi, Delhi
+    CAND: The New Delhi Fertilizers Company  @  Rz-12-a., Ground Floor, Puran Nagar, New Delhi, South West Delhi, DL
+[22] P=0.99999
+    S1:   Media Biyani Technologies Private Limited  @  Flat 707 Bhoomi Dhara Pl, No 4/4A Sector 6 Kamothe, Raigad, Maharashtra
+    CAND: Media  Biyani Technologies Private Limited  @  Flat 707 Bhooi Dhara Pl, No 4/4A Sector 6 Kamothe, Raigad, महाराष्ट्र
+[23] P=0.99997
+    S1:   Integrity Foods Limited  @  At Sarla Po Malewadi, Shrirampur, Ahmednagar, Maharashtra
+    CAND: Integrity Foods Limited  @  At Sarla Po Malewadi, Shrirampur, Ahilyanagar, Ahmednagar, MH
+[24] P=0.99999
+    S1:   Ace Advisory (India) Pvt Ltd  @  6-2-618/8 & 9, Unit # 303, 3Rd Floor, Abk Olbee Plaza, Road # 1, Banjara Hills., Hyderabad, Telangana
+    CAND: Ace Advisory (heida) Pvt Ltd  @  DOOR NO 6-2-618/8 & 9, UNIT # 303, 3RD FLOOR, ABK OLBEE PLAZA, ROAD # 1, BANJARA HILLS., HYDERABAD, Andhra Pradesh
+[25] P=0.99999
+    S1:   Jayhind Educational Society  @  Village Harola Near C-101 Second Floor, Office No-12 Sector-4, Noida, Gautam Buddha Nagar, Uttar Pradesh
+    CAND: Jayhind Educational Society Corp  @  VILLAGE HAROLA NEAR C-101 SECOND FLOOR, OFFICE NO-12 SECTOR-4, NOIDA, Uttar Pradesh
+[26] P=0.99969
+    S1:   India Sikandra Strips Private Limited  @  Flat No 1906 Tower R Pan Oasis Sector 70 Near Gate, Uttar Pradesh, Gautam Buddha Nagar, Noida
+    CAND: सदर्न श्री एक्सपोर्ट्स प्राइवेट लिमिटेड  @  FLAT NO 1906 TOWER R PAN OASIS SECTOR 70 NEAR GATE, NOIDA, GAUTAM BUDDHA NAGAR, उत्तर प्रदेश
+[27] P=0.99998
+    S1:   Surya It Private Limited  @  Fl 3A, Shubh Aashirwad, Soc S.N. 15/1, Patwardhan Baug, Pune, Maharashtra
+    CAND: suryait.com  @  FL 3A , SHUBH AASHIRWAD, SOC S.N. 15/1, PATWARDHAN BAUG, PUNE, Maharashtra
+[28] P=0.87415
+    S1:   Munjal Medical Centre Pvt Ltd  @  S.No. 79 79A 80 Arwade Mill, Balaji Mill Road Sangli, Miraj, Sangli, Maharashtra
+    CAND: Munjal Medical Centre-Corporation  @  
+[29] P=0.99985
+    S1:   Elitech Hospitals Private Limited  @  Plot No-836 Badadebil, Adamburu Rudrapur, Cuttack, Darpan, Jajpur, Orissa
+    CAND: Elitech H0spitals Prívate Limited  @  PLOT 401 PLOT NO-836 BADADEBIL, ADAMBURU RUDRAPUR, CUTTACK, DARPAN, Odisha
+[30] P=0.97674
+    S1:   Yamuesh Storage LLP  @  208/7 Rishi Bankim Chandra Rd, Kolkata, Calcutta, West Bengal
+    CAND: M/s Pyramid Center  @  Door No 208/7 Rishi Bankim Chandra Rd, Kolkata, Calcutta, WB
+[31] P=0.99997
+    S1:   Dynamic Software Pvt Ltd  @  No.39, Landons Road, Kilpauk, Madras-10 Madras-10, Madras-10, Tamil Nadu, Chennai
+    CAND: Irilumcalo One t/a Dynamic Software Pvt Ltd  @  No.39, Landons Road, Kilpauk, Madras-10 Madras-10, Madras-10, Chennai, Tamil Nadu
+[32] P=0.99999
+    S1:   Vijay International Private Limited  @  32, 33, Spartan Avenue, Thiruvalluvar Nagar Mogappair, Chennai, Tamil Nadu
+    CAND: vijay international private limited  @  A-32, 33, SPARTAN AVENUE, THIRUVALLUVAR NAGAR MOGAPPAIR, CHENNAI, Tamil Nadu
+[33] P=1.00000
+    S1:   Higgs Renewable Pvt. Ltd.  @  C/O Rati Kanta Roy, Sitala (East) Sonarpur, South 24 Parganas, Sonarpur, Kolkata, Howrah, West Bengal
+    CAND: Higgs-Renewable Pvt. Ltd.  @  C/o Rati Kanta Roy, Sitala (East) Sonarpur, South 24 Parganas, Sonarpur, Kolkata, Howrah, WB
+[34] P=0.99999
+    S1:   Tech Infotech Pvt Ltd  @  Maker Bhawan No 2 5Th Floornew Marine Lines, Mumbai, Maharashtra
+    CAND: TECH-INFOTECH PVT LTD  @  MAKER BHAWAN NO 2 5TH FLOORNEW MARINE LINER, MUMBAI, Maharashtra
+[35] P=0.99645
+    S1:   Central Life Partners  @  Sector 10, Gautam Buddha Nagar, Noida, C 137, Uttar Pradesh
+    CAND: ईस्ट स्काई एनर्जी प्राइवेट लिमिटेड  @  SECTOR-10, GAUTAM BUDDHA NAGAR, NOIDA, D-##357, GHAZIABAD, Uttar Pradesh
+[36] P=0.98825
+    S1:   Toran Travels (India) Private Limited  @  H- 302, Udyog Vihar, Industrial Estate Vithalwadi, Thane, Maharashtra
+    CAND: Toran Travels (Inmi) Exports Private Limited  @  DOOR NO ##873 H- 313, UDYOG VIHAR, INDUSTRIAL ESTATE VITHALWADI, महाराष्ट्र
+[37] P=0.99998
+    S1:   Ind Lab LLP  @  H No 520, Navniti Apartments, Ip Extension, Patparganj, New Delhi, Delhi
+    CAND: Ind Láb  @  H No 520, DL, New Delhi
+[38] P=0.90921
+    S1:   Davangere Business Pvt Ltd  @  #199/1A, 3Rd Main, 7Th Cross, P.J Badavane, Davangere, Davanagere, Karnataka
+    CAND: Private Life Jai Systems Ltd  @  3Rd Main, 7Th Cross, P.j Badavane, Davanagere, Davangere, KA, H.no 199/1A
+[39] P=0.99999
+    S1:   Khari Competitive Private Limited  @  Hd-151, Wework Prestige Central, 36, Infantry Road, Bengaluru, Bangalore North, Bangalore, Karnataka
+    CAND: Khari  Competitive Private [Limited]  @  Karnataka, HD-151, WEWORK PRESTIGE CENTRAL, 36, INFANTRY ROAD, BENGALURU, BANGALORE NORTH
+[40] P=0.99999
+    S1:   Taraendra Guru Pvt Ltd  @  O-Ii, 66, Palam Vyapar Kendra (Pvk), Palam Vihar, Palam Vihar, Gurgaon, Haryana
+    CAND: TARAENDRA GURU PVT LTD  @  O-II, 66, PALAM VYAPAR KENDRA (PVK), PALAM VIHAR, PALAM VIHAR, <NULL>, Haryana

@@ -1,0 +1,377 @@
+================================================================================
+AUDIT OF 75 RANDOM PAIRS FROM 0.774 LEADERBOARD SUBMISSION
+================================================================================
+[01] [France] S1: S1-388364271 vs C: S2-39056262
+  Source 1 : Maree Sportive | 127 Rue Marceau, Dunkerque, Hauts-de-France
+  Candidate: Maree [(Sportive)] | 127 RUE MARCEAU, DUNKERQUE, Nord
+  Metrics  : NameSim=50.0, AddrSim=72.0
+
+[02] [France] S1: S1-388364271 vs C: S2-645428625
+  Source 1 : Maree Sportive | 127 Rue Marceau, Dunkerque, Hauts-de-France
+  Candidate: mareesportive.com | 127 RUE MARCEAU, DUNKERQUE, Nord
+  Metrics  : NameSim=83.9, AddrSim=72.0
+
+[03] [France] S1: S1-388364271 vs C: S3-784582438
+  Source 1 : Maree Sportive | 127 Rue Marceau, Dunkerque, Hauts-de-France
+  Candidate: Mana Sportive SAS | 127 R Paul Machy, Dunkerque
+  Metrics  : NameSim=71.0, AddrSim=60.0
+
+[04] [France] S1: S1-7787924 vs C: S3-705452921
+  Source 1 : Legende Amis | 46 Rue Jean-Baptiste Charcot, Mérignac, Nouvelle-Aquitaine
+  Candidate: Legende Amis SA | 46 Rue Jean-baptiste Charcot, Merignac
+  Metrics  : NameSim=88.9, AddrSim=77.1
+
+[05] [France] S1: S1-7787924 vs C: S3-124104224
+  Source 1 : Legende Amis | 46 Rue Jean-Baptiste Charcot, Mérignac, Nouvelle-Aquitaine
+  Candidate: Legende Amis | 46 Rue Jean-baptiste Charcot, Mérignac
+  Metrics  : NameSim=100.0, AddrSim=79.2
+
+[06] [France] S1: S1-7787924 vs C: S3-855519821
+  Source 1 : Legende Amis | 46 Rue Jean-Baptiste Charcot, Mérignac, Nouvelle-Aquitaine
+  Candidate: Legende Acms | 46 Rue Jean-baptiste Charcot, Merignac
+  Metrics  : NameSim=91.7, AddrSim=77.1
+
+[07] [France] S1: S1-7787924 vs C: S2-532156318
+  Source 1 : Legende Amis | 46 Rue Jean-Baptiste Charcot, Mérignac, Nouvelle-Aquitaine
+  Candidate: SCI English Amis | 46 RUE JEAN LAVIGNE, La Teste-de-Buch, Nouvelle-Aquitaine
+  Metrics  : NameSim=50.0, AddrSim=62.6
+
+[08] [France] S1: S1-175263938 vs C: S3-887393081
+  Source 1 : Communale Amicale (France) SARL | 23 Avenue de l'Eglantine, Saint-Herblain, Pays de la Loire
+  Candidate: Communale Amicale (Franclcf)e  SARL | 23 Av De L'eglantine, Saint-herblain
+  Metrics  : NameSim=92.3, AddrSim=76.6
+
+[09] [France] S1: S1-581934158 vs C: S3-713020132
+  Source 1 : Union de Planification | 5 Allée Guy Sorin, Saint-Nazaire, Pays de la Loire
+  Candidate: Union de Planification | No. 5 Allee Guy Soirn, St.-nazaire, Pays de la Loire
+  Metrics  : NameSim=100.0, AddrSim=80.4
+
+[10] [France] S1: S1-581934158 vs C: S2-205791596
+  Source 1 : Union de Planification | 5 Allée Guy Sorin, Saint-Nazaire, Pays de la Loire
+  Candidate: Union de  Planification | 5 ALL. GUY SORIN, SAINT-NAZAIRE, Loire-Atlantique
+  Metrics  : NameSim=100.0, AddrSim=76.8
+
+[11] [France] S1: S1-458361270 vs C: S3-939321827
+  Source 1 : Lycée de Gardon | 9 Rue de la Vigne, Roubaix, Hauts-de-France
+  Candidate: Lycée de Gardon  SA | 9 Rue De La Vigne, Roubaix, Hauts-de-France
+  Metrics  : NameSim=90.9, AddrSim=100.0
+
+[12] [France] S1: S1-458361270 vs C: S2-981371307
+  Source 1 : Lycée de Gardon | 9 Rue de la Vigne, Roubaix, Hauts-de-France
+  Candidate: Amicale De Gardon | 9 RUE DE LA VIGNE, ROUBAIX, Nord
+  Metrics  : NameSim=56.2, AddrSim=72.0
+
+[13] [France] S1: S1-817548736 vs C: S3-461306959
+  Source 1 : Saint-Herblain Club SAS | 59 Avenue des Naudières, Pays de la Loire, Saint-Herblain
+  Candidate: Saint-Herblain Culb [SAS] | 59 Avenue Des Naudières, St-herblain
+  Metrics  : NameSim=75.0, AddrSim=77.4
+
+[14] [France] S1: S1-817548736 vs C: S2-488015724
+  Source 1 : Saint-Herblain Club SAS | 59 Avenue des Naudières, Pays de la Loire, Saint-Herblain
+  Candidate: Saint-Herblain Cenb SAS | 59 AVENUE DES NAUDIÈRES, SAINT-HERBLAIN, Pays de la Loire
+  Metrics  : NameSim=91.3, AddrSim=98.2
+
+[15] [France] S1: S1-817548736 vs C: S2-758900770
+  Source 1 : Saint-Herblain Club SAS | 59 Avenue des Naudières, Pays de la Loire, Saint-Herblain
+  Candidate: Saint-Herblain  Club SAS | 59 AVENUE DES NAUDIÈRES, SAINT-HERBLAIN, Pays de la Loire
+  Metrics  : NameSim=100.0, AddrSim=98.2
+
+[16] [France] S1: S1-257372776 vs C: S3-16263264
+  Source 1 : Saint-Nazaire Atelier | 8 TER Rue du Docteur Xavier Bichat, Saint-Nazaire, Pays de la Loire
+  Candidate: SAINT-NAZAIRE SPORTIVE | 8 Ter R. Du Docteur Xavier Bichat, Saint-nazaire, Pays de la Loire
+  Metrics  : NameSim=60.5, AddrSim=97.7
+
+[17] [France] S1: S1-257372776 vs C: S3-521298568
+  Source 1 : Saint-Nazaire Atelier | 8 TER Rue du Docteur Xavier Bichat, Saint-Nazaire, Pays de la Loire
+  Candidate: SARL Saint-Nazaire Amicale | 8 Rue Du Pre De Cran, Saint-Nazaire, Pays de la Loire
+  Metrics  : NameSim=72.3, AddrSim=78.3
+
+[18] [France] S1: S1-370197481 vs C: S3-80200214
+  Source 1 : Vitrolles Cercle Amis SCI | 4 Avenue Gabriel Voisin, Saint-Herblain, Pays de la Loire
+  Candidate: IQ Ecole | 4 Place Gabriel Trarieux, Nantes, Pays de la Loire
+  Metrics  : NameSim=36.4, AddrSim=61.7
+
+[19] [France] S1: S1-703477628 vs C: S3-80266028
+  Source 1 : PB Club | 64 Rue de Flandre, Roubaix, Hauts-de-France
+  Candidate: PB [[Club]] | No 64 Rue De Flandre, Roubaix, Hauts-de-France
+  Metrics  : NameSim=77.8, AddrSim=96.6
+
+[20] [France] S1: S1-703477628 vs C: S3-592339163
+  Source 1 : PB Club | 64 Rue de Flandre, Roubaix, Hauts-de-France
+  Candidate: PB  Club | Roubaix, No 64 R. De Flandre, Hauts-de-France
+  Metrics  : NameSim=100.0, AddrSim=88.6
+
+[21] [France] S1: S1-703477628 vs C: S2-466295950
+  Source 1 : PB Club | 64 Rue de Flandre, Roubaix, Hauts-de-France
+  Candidate: PB Club | 64 - RUE DE FLANDRE, ROUBAIX, Hauts-de-France
+  Metrics  : NameSim=100.0, AddrSim=97.7
+
+[22] [France] S1: S1-703477628 vs C: S2-619527122
+  Source 1 : PB Club | 64 Rue de Flandre, Roubaix, Hauts-de-France
+  Candidate: PB Club | 64 - RUE DE FLANDRE, ROUBAIX, Hauts-de-France
+  Metrics  : NameSim=100.0, AddrSim=97.7
+
+[23] [France] S1: S1-853538994 vs C: S2-130187184
+  Source 1 : Latelier Amis SAS | 40 Rue Maréchal Niel, Bordeaux, Nouvelle-Aquitaine
+  Candidate: Latelier Amis SAS | 40 RUE MARECHAL NIEL, BORDEAUX, Nouvelle-Aquitaine
+  Metrics  : NameSim=100.0, AddrSim=98.0
+
+[24] [France] S1: S1-853538994 vs C: S3-415110025
+  Source 1 : Latelier Amis SAS | 40 Rue Maréchal Niel, Bordeaux, Nouvelle-Aquitaine
+  Candidate: Latelier Amis SAS | 40 Rue Maréchal Niel, Bordeaux, Gironde
+  Metrics  : NameSim=100.0, AddrSim=69.7
+
+[25] [France] S1: S1-853538994 vs C: S3-987428905
+  Source 1 : Latelier Amis SAS | 40 Rue Maréchal Niel, Bordeaux, Nouvelle-Aquitaine
+  Candidate: LA | 40 R Maréchal Niel, Bordeaux, Gironde
+  Metrics  : NameSim=21.1, AddrSim=66.7
+
+[26] [US] S1: S1-653780080 vs C: S3-44221958
+  Source 1 : Southern Western, Inc | 46 14th Street, Unit Apartment 1, Troy, NY
+  Candidate: The Southern Western, Inc | 46-A Fourteenth St, Unit Apartment 1, Troy, New York
+  Metrics  : NameSim=91.3, AddrSim=68.1
+
+[27] [US] S1: S1-653780080 vs C: S3-843064911
+  Source 1 : Southern Western, Inc | 46 14th Street, Unit Apartment 1, Troy, NY
+  Candidate: Southern-Western,  Inc | 46-A Fourteenth St, New York, Troy
+  Metrics  : NameSim=95.2, AddrSim=52.6
+
+[28] [US] S1: S1-682322793 vs C: S2-429749657
+  Source 1 : Clark American Guardian | 4922 Pinehurst Drive, Garland, TX
+  Candidate: CLARK AMERICAN GUARDIAN | 4922 PINEHURST DRIVE, GARLAND, TX
+  Metrics  : NameSim=100.0, AddrSim=100.0
+
+[29] [US] S1: S1-366746394 vs C: S2-646032513
+  Source 1 : Global Retail Digital | 4408 Truxel Road, Unit 44, Sacramento, CA
+  Candidate: Global Retail Digital Corp | SACRAMENTO, CA, 4408 TRUXEL ROAD
+  Metrics  : NameSim=89.4, AddrSim=84.9
+
+[30] [US] S1: S1-366746394 vs C: S2-392642637
+  Source 1 : Global Retail Digital | 4408 Truxel Road, Unit 44, Sacramento, CA
+  Candidate: Global Retail Digital Ltd | 4408 TRUXEL ROAD, SACRAMENTO, CA
+  Metrics  : NameSim=91.3, AddrSim=87.7
+
+[31] [US] S1: S1-366746394 vs C: S2-547574050
+  Source 1 : Global Retail Digital | 4408 Truxel Road, Unit 44, Sacramento, CA
+  Candidate: globalretaildigital.com | 4408 Truxel Rd, SACRAMENTO, CA
+  Metrics  : NameSim=54.5, AddrSim=84.5
+
+[32] [US] S1: S1-366746394 vs C: S3-25618161
+  Source 1 : Global Retail Digital | 4408 Truxel Road, Unit 44, Sacramento, CA
+  Candidate: Global Retail Dgtbnal | California, 440 Truxel Road, Unit 44, Sacramento
+  Metrics  : NameSim=90.5, AddrSim=87.6
+
+[33] [US] S1: S1-366746394 vs C: S3-958309185
+  Source 1 : Global Retail Digital | 4408 Truxel Road, Unit 44, Sacramento, CA
+  Candidate: Global Retail-Digital Group | Sacramento, # 44, 4410 Truxel Road, California
+  Metrics  : NameSim=54.2, AddrSim=80.5
+
+[34] [US] S1: S1-797684258 vs C: S3-320995451
+  Source 1 : Metro Pinnacle Ribbon LLC | City Of Sturgeon Bay, 518 15th Avenue, WI
+  Candidate: metro pinnacle ribbon llc | 518 15rd Ave, City Of Sturgeon Bay, Wisconsin
+  Metrics  : NameSim=100.0, AddrSim=83.7
+
+[35] [US] S1: S1-797684258 vs C: S2-933820162
+  Source 1 : Metro Pinnacle Ribbon LLC | City Of Sturgeon Bay, 518 15th Avenue, WI
+  Candidate: Metro Pinnacle Rbbno LLC | 15RD AVENUE, CITY OF STURGEON BAY, WI
+  Metrics  : NameSim=93.9, AddrSim=89.7
+
+[36] [US] S1: S1-129721015 vs C: S2-208894205
+  Source 1 : Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Candidate: INC HARRELL FAMILY 0FFICE | ##366 394, HARTSBURG, MO
+  Metrics  : NameSim=72.0, AddrSim=95.7
+
+[37] [US] S1: S1-129721015 vs C: S3-831230235
+  Source 1 : Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Candidate: Harrell-Family-Office Inc #52646 | Missouri, Hartsburg, 366 394
+  Metrics  : NameSim=52.6, AddrSim=84.0
+
+[38] [US] S1: S1-129721015 vs C: S3-297580701
+  Source 1 : Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Candidate: Harrell Office Inc Services | 366 394, Hartsburg, Missouri
+  Metrics  : NameSim=69.2, AddrSim=88.0
+
+[39] [US] S1: S1-129721015 vs C: S3-487976185
+  Source 1 : Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Candidate: Brixvantage DBA: Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Metrics  : NameSim=74.6, AddrSim=100.0
+
+[40] [US] S1: S1-129721015 vs C: S2-146774468
+  Source 1 : Harrell Family Office Inc | 366 394, Hartsburg, MO
+  Candidate: Harrell Family Oiec Co | 379C 394, HARTSBURG, MO
+  Metrics  : NameSim=76.6, AddrSim=88.9
+
+[41] [US] S1: S1-840103475 vs C: S3-54378914
+  Source 1 : Anchor Golden Paceline | 2350 Kevin Court, City And Borough Of Juneau, AK
+  Candidate: Anchor  Golden Paceline | 2350 Keivn Ct, City And Borough Of Juneau, Alaska
+  Metrics  : NameSim=100.0, AddrSim=90.7
+
+[42] [US] S1: S1-840103475 vs C: S2-40126163
+  Source 1 : Anchor Golden Paceline | 2350 Kevin Court, City And Borough Of Juneau, AK
+  Candidate: Anchor Golden | 02350 KEVIN COURT, JUENAU, AK
+  Metrics  : NameSim=74.3, AddrSim=70.1
+
+[43] [US] S1: S1-840103475 vs C: S2-814791559
+  Source 1 : Anchor Golden Paceline | 2350 Kevin Court, City And Borough Of Juneau, AK
+  Candidate: Anchor Golden Service | 02350 KEVIN COURT, JUENAU, AK
+  Metrics  : NameSim=79.1, AddrSim=70.1
+
+[44] [US] S1: S1-959068069 vs C: S2-441149670
+  Source 1 : Anderson Planet | 3012 Glenview Park Way, Glenview, KY
+  Candidate: Anderson Planet | 3012 GLENVIEW PARK WAY, GLENVIEW, KY
+  Metrics  : NameSim=100.0, AddrSim=100.0
+
+[45] [US] S1: S1-959068069 vs C: S2-335147449
+  Source 1 : Anderson Planet | 3012 Glenview Park Way, Glenview, KY
+  Candidate: ANDERSON PLANET CORP | 3012 GLENVIEW PARK WAY, GLENVIEW, KY
+  Metrics  : NameSim=85.7, AddrSim=100.0
+
+[46] [US] S1: S1-959068069 vs C: S3-102473357
+  Source 1 : Anderson Planet | 3012 Glenview Park Way, Glenview, KY
+  Candidate: Anderson Planet | 03012 Glenview Park Way, Glenview, Kentucky
+  Metrics  : NameSim=100.0, AddrSim=91.1
+
+[47] [US] S1: S1-959068069 vs C: S3-51321328
+  Source 1 : Anderson Planet | 3012 Glenview Park Way, Glenview, KY
+  Candidate: Anderson Planet | 03012 Glenview Park Way, Glenview, Kentucky
+  Metrics  : NameSim=100.0, AddrSim=91.1
+
+[48] [US] S1: S1-959068069 vs C: S3-684102179
+  Source 1 : Anderson Planet | 3012 Glenview Park Way, Glenview, KY
+  Candidate: Anderson  Planet | 03012 Glenview Park Way, Glenview, Kentucky
+  Metrics  : NameSim=100.0, AddrSim=91.1
+
+[49] [US] S1: S1-774770810 vs C: S2-306839177
+  Source 1 : Wagner Saratoga | 650 Beard Road, TN, Strawberry Plains
+  Candidate: Wagner Saratoga  Co | 650 BEARD ROAD, STRAWBERRY PLAINS, TN
+  Metrics  : NameSim=90.9, AddrSim=97.3
+
+[50] [US] S1: S1-774770810 vs C: S2-222258016
+  Source 1 : Wagner Saratoga | 650 Beard Road, TN, Strawberry Plains
+  Candidate: Wagner Saratoga | 650 BEARD ROAD, STRAWBERRY PLAINS, TN
+  Metrics  : NameSim=100.0, AddrSim=97.3
+
+[51] [India] S1: S1-933654888 vs C: S3-504482565
+  Source 1 : XJP Candy | 81, First Floor, Front Portion Poorvi Marg, Vasant Vihar, New Delhi, South Delhi, Delhi
+  Candidate: XJP Candy LLP | 81, First Floor, Front Portion Poorvi Marg, Vasant Vihar, New Delhi, South Delhi, दिल्ली
+  Metrics  : NameSim=81.8, AddrSim=92.6
+
+[52] [India] S1: S1-933654888 vs C: S2-373609317
+  Source 1 : XJP Candy | 81, First Floor, Front Portion Poorvi Marg, Vasant Vihar, New Delhi, South Delhi, Delhi
+  Candidate: XJP  Candy | 81, FIRST FLOOR, FRONT PORTION POORVI MARG, VASANT VIHAR, NEW DELHI, Delhi
+  Metrics  : NameSim=100.0, AddrSim=91.9
+
+[53] [India] S1: S1-933654888 vs C: S3-917830443
+  Source 1 : XJP Candy | 81, First Floor, Front Portion Poorvi Marg, Vasant Vihar, New Delhi, South Delhi, Delhi
+  Candidate: XJP Candy Corp | First Floor, Front Portion Poorvi Marg, Vasant Vihar, DL, 81, South Delhi
+  Metrics  : NameSim=78.3, AddrSim=91.2
+
+[54] [India] S1: S1-664820680 vs C: S3-224278575
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: Cyan  Works Private Limited | C/o Arshad Hussain Saina, Kozhikode, KL
+  Metrics  : NameSim=100.0, AddrSim=77.2
+
+[55] [India] S1: S1-664820680 vs C: S3-451860934
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: Cyan Works Private Ltd | C/o Arshad Hussain Saina, Kozhikode, KL
+  Metrics  : NameSim=91.7, AddrSim=77.2
+
+[56] [India] S1: S1-664820680 vs C: S2-982977857
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: CYAN WORKS  PRIVATE LIMITED | C/O ARSHAD HUSSAIN SAINA, VIHAR SILK STREET, KOZHIKODE, കേരളം
+  Metrics  : NameSim=100.0, AddrSim=89.4
+
+[57] [India] S1: S1-664820680 vs C: S2-159107506
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: cyan works private limited | C/O ARSHAD HUSSAIN SAINA, VIHAR SILK STREET, KOZHIKODE, കേരളം
+  Metrics  : NameSim=100.0, AddrSim=89.4
+
+[58] [India] S1: S1-664820680 vs C: S3-940861105
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: Cyan Works | Kozhikode, C/o Arshad Hussain Saina, കേരളം
+  Metrics  : NameSim=55.6, AddrSim=71.2
+
+[59] [India] S1: S1-664820680 vs C: S2-441961339
+  Source 1 : Cyan Works Private Limited | C/O Arshad Hussain Saina, Vihar Silk Street, Kozhikode, Kerala
+  Candidate: Cyan Works LLP | NO 45 C/O ARSHAD HUSSAIN SAINA, VIHAR SILK STREET, KOZHIKODE, Kerala
+  Metrics  : NameSim=65.0, AddrSim=95.4
+
+[60] [India] S1: S1-613453066 vs C: S3-66455978
+  Source 1 : All Solutions Limited | 10, Umiyanagar, Kalapinagar, Asarwa, Ahmedabad, Gujarat
+  Candidate: ઓલ સોલ્યુશન્સ લિમિટેડ | C-10, Umiyanagar, Kalapinagar, Asarwa, Ahmedabad, GJ
+  Metrics  : NameSim=9.5, AddrSim=86.0
+
+[61] [India] S1: S1-613453066 vs C: S3-328008438
+  Source 1 : All Solutions Limited | 10, Umiyanagar, Kalapinagar, Asarwa, Ahmedabad, Gujarat
+  Candidate: ઓલ સોલ્યુશન્સ લિમિટેડ | C-10, Umiyanagar, Kalapinagar, Asarwa, Ahmedabad, GJ
+  Metrics  : NameSim=9.5, AddrSim=86.0
+
+[62] [India] S1: S1-944809962 vs C: S3-880144218
+  Source 1 : Aadhya Mills Private Limited | C/O Mirabai Balasaheb Satpute, Ghulewadi Tal -Sangamner, Dist-A Nagar, Sangamner, Ahmednagar, Maharashtra
+  Candidate: Aadhya Mills Private Limited | Door No 709 C/o Mirabai Balasaheb Satpute, Ghulewadi Tal -Sangamner, Dist-a Nagar, Ahmednagar, महाराष्ट्र
+  Metrics  : NameSim=100.0, AddrSim=80.0
+
+[63] [India] S1: S1-944809962 vs C: S3-703620415
+  Source 1 : Aadhya Mills Private Limited | C/O Mirabai Balasaheb Satpute, Ghulewadi Tal -Sangamner, Dist-A Nagar, Sangamner, Ahmednagar, Maharashtra
+  Candidate: Aadhya Mills Private Ltd | 709 C/o Mirabai Balasaheb Satpute, Ahmednagar, Sangamner, महाराष्ट्र
+  Metrics  : NameSim=92.3, AddrSim=63.6
+
+[64] [India] S1: S1-944809962 vs C: S2-883292700
+  Source 1 : Aadhya Mills Private Limited | C/O Mirabai Balasaheb Satpute, Ghulewadi Tal -Sangamner, Dist-A Nagar, Sangamner, Ahmednagar, Maharashtra
+  Candidate: Aadhya Mills Industries Prsfate Limited | NO 18 C/O MIRABAI BALASAHEB SATPUTE, GHULEWADI TAL -SANGAMNER, DIST-A NAGAR, SANGAMNER, महाराष्ट्र
+  Metrics  : NameSim=77.6, AddrSim=80.8
+
+[65] [India] S1: S1-481682839 vs C: S3-762668595
+  Source 1 : Star Investor Pvt Ltd | Hyderabad, Telangana, Sy. No. 126(P), Rangareddy, Flat No.: 408, 4Th Floor, Psr Prime Tower, Gachibowli, Serilingamp, Ally
+  Candidate: Star Investor Pvt Limited | Sy. No. 126(P), Hyderabad, Rangareddy, TG
+  Metrics  : NameSim=91.3, AddrSim=50.3
+
+[66] [India] S1: S1-481682839 vs C: S2-803602551
+  Source 1 : Star Investor Pvt Ltd | Hyderabad, Telangana, Sy. No. 126(P), Rangareddy, Flat No.: 408, 4Th Floor, Psr Prime Tower, Gachibowli, Serilingamp, Ally
+  Candidate: Star Investor Public Limited | SY. NO. 131(P), FLAT NO.: 408, 4TH FLOOR, PSR PRIME TOWER, GACHIBOWLI, SERILINGAMP, ALLY, HYDERABAD, Andhra Pradesh
+  Metrics  : NameSim=77.6, AddrSim=81.9
+
+[67] [India] S1: S1-785861582 vs C: S2-704737814
+  Source 1 : YD Online Private Limited | 201 Santusti Apartment, Janki Kutir, Juhu, Mumbai, Maharashtra
+  Candidate: YD Online Private Ltd Ltd | NO 201 SANTUSTI APARTMENT, JANKI KUTIR, JUHU, MUMBAI, Maharashtra
+  Metrics  : NameSim=84.0, AddrSim=97.6
+
+[68] [India] S1: S1-785861582 vs C: S2-158382162
+  Source 1 : YD Online Private Limited | 201 Santusti Apartment, Janki Kutir, Juhu, Mumbai, Maharashtra
+  Candidate: YD ONLINE-PRIVATE (LIMITED) | DOOR NO 201 SANTUSTI APARTMENT, JANKI KUTIR, JUHU, MUMBAI, Maharashtra
+  Metrics  : NameSim=92.3, AddrSim=93.9
+
+[69] [India] S1: S1-785861582 vs C: S3-309272215
+  Source 1 : YD Online Private Limited | 201 Santusti Apartment, Janki Kutir, Juhu, Mumbai, Maharashtra
+  Candidate: Private YD Online [Ltd] | Door No 00201 Santusti Apartment, Mumbai, MH
+  Metrics  : NameSim=87.5, AddrSim=67.9
+
+[70] [India] S1: S1-996187238 vs C: S3-686142323
+  Source 1 : Golden Properties Pvt Ltd | 1/2 Sanvid Nagar Kanadia Road, Indore, Madhya Pradesh
+  Candidate: M/s Golden Properties Pvt Limited | #1/2 Sanvid Nagar Kanadia Road, Indore, MP, Indore
+  Metrics  : NameSim=86.2, AddrSim=77.7
+
+[71] [India] S1: S1-996187238 vs C: S3-47558926
+  Source 1 : Golden Properties Pvt Ltd | 1/2 Sanvid Nagar Kanadia Road, Indore, Madhya Pradesh
+  Candidate: Golden Properties Pvt  Ltd | H.no 1/2 Sanvid Nagar Kandaia Road, Indore, मध्य प्रदेश
+  Metrics  : NameSim=100.0, AddrSim=68.5
+
+[72] [India] S1: S1-996187238 vs C: S2-716269537
+  Source 1 : Golden Properties Pvt Ltd | 1/2 Sanvid Nagar Kanadia Road, Indore, Madhya Pradesh
+  Candidate: Golden Properties Pvt Ltd. | Madhya Pradesh, 1/2 SANVID NAGAR KANADIA ROAD, INDORE
+  Metrics  : NameSim=98.0, AddrSim=98.1
+
+[73] [India] S1: S1-551745380 vs C: S3-401751229
+  Source 1 : Vengalraonagar Solutionprivate Private Limited | 379/A, 202, Sharanresidency, Opp.Fresh, Vengalraonagar, Hyderabad, Telangana
+  Candidate: Vengalraonagar  Solutionprivate Private Limited | 379/A, Vengalraonagar, Hyderabad, TG
+  Metrics  : NameSim=100.0, AddrSim=64.3
+
+[74] [India] S1: S1-551745380 vs C: S2-186006183
+  Source 1 : Vengalraonagar Solutionprivate Private Limited | 379/A, 202, Sharanresidency, Opp.Fresh, Vengalraonagar, Hyderabad, Telangana
+  Candidate: VENGALRAONAGAR SOLUTIONPRIVATE PRIVATE LTD | #988 379/A, 202, SHARANRESIDENCY, OPP.FRESH, VENGALRAONAGAR, Telangana
+  Metrics  : NameSim=95.5, AddrSim=89.0
+
+[75] [India] S1: S1-551745380 vs C: S3-940281186
+  Source 1 : Vengalraonagar Solutionprivate Private Limited | 379/A, 202, Sharanresidency, Opp.Fresh, Vengalraonagar, Hyderabad, Telangana
+  Candidate: Vengalraonagar Solutionprivate Limited | 388/A, 202, Sharanresidency, Opp.fresh, Vengalraonagar, Hyderabad, TG
+  Metrics  : NameSim=90.5, AddrSim=92.4
